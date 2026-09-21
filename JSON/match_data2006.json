@@ -5540,17 +5540,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Lebanon",
-        "away_team": "Kuwait",
-        "score": "-- - --*",
-        "home_goals_minutes": [
-            "70’'"
-        ],
-        "away_goals_minutes": [
-            "25’'"
-        ]
-    },
-    {
         "home_team": "Japan",
         "away_team": "India",
         "score": "6 - 0",
@@ -8216,16 +8205,6 @@
         ]
     },
     {
-        "home_team": "Strasbourg",
-        "away_team": "Basel",
-        "score": "2 - 2",
-        "home_goals_minutes": [
-            "11’'",
-            "78’'"
-        ],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Zenit",
         "away_team": "Marseille",
         "score": "1 - 1",
@@ -10798,18 +10777,6 @@
         "away_team": "Rapid București",
         "score": "0 - 0",
         "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Middlesbrough",
-        "away_team": "Basel",
-        "score": "4 - 1",
-        "home_goals_minutes": [
-            "33’'",
-            "57’'",
-            "79’'",
-            "90’'"
-        ],
         "away_goals_minutes": []
     },
     {
@@ -14667,13 +14634,6 @@
         ]
     },
     {
-        "home_team": "Messina",
-        "away_team": "Empoli",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Ascoli",
         "away_team": "Lazio",
         "score": "1 - 4",
@@ -17203,18 +17163,6 @@
         ]
     },
     {
-        "home_team": "Basel",
-        "away_team": "FC Tobol",
-        "score": "3 - 1",
-        "home_goals_minutes": [
-            "20’'",
-            "67’'"
-        ],
-        "away_goals_minutes": [
-            "49’'"
-        ]
-    },
-    {
         "home_team": "Brøndby",
         "away_team": "Valur",
         "score": "3 - 1",
@@ -17486,18 +17434,6 @@
         ],
         "away_goals_minutes": [
             "60’'"
-        ]
-    },
-    {
-        "home_team": "FK Ekranas",
-        "away_team": "Dinamo Zagreb",
-        "score": "1 - 4",
-        "home_goals_minutes": [
-            "14’'"
-        ],
-        "away_goals_minutes": [
-            "32’'",
-            "69’'"
         ]
     },
     {
@@ -19235,13 +19171,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Bahrain",
-        "away_team": "Lebanon",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Jordan",
         "away_team": "United Arab Emirates",
         "score": "1 - 2",
@@ -20950,13 +20879,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Australia",
-        "away_team": "Lebanon",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Korea Republic",
         "away_team": "IR Iran",
         "score": "1 - 1",
@@ -21356,13 +21278,6 @@
             "13’'",
             "77’'"
         ]
-    },
-    {
-        "home_team": "Lebanon",
-        "away_team": "Bahrain",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Saudi Arabia",
@@ -22617,16 +22532,6 @@
         ]
     },
     {
-        "home_team": "Åtvidaberg",
-        "away_team": "Grasshopper",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": [
-            "12’'",
-            "57’'"
-        ]
-    },
-    {
         "home_team": "Braga",
         "away_team": "Chievo",
         "score": "2 - 0",
@@ -22965,16 +22870,6 @@
         ],
         "away_goals_minutes": [
             "90+3’'"
-        ]
-    },
-    {
-        "home_team": "Dinamo Zagreb",
-        "away_team": "Auxerre",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": [
-            "43’'",
-            "72’'"
         ]
     },
     {
@@ -25118,17 +25013,6 @@
         ]
     },
     {
-        "home_team": "Auxerre",
-        "away_team": "Dinamo Zagreb",
-        "score": "3 - 1",
-        "home_goals_minutes": [
-            "35’'",
-            "41’'",
-            "70’'"
-        ],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Zulte Waregem",
         "away_team": "Lokomotiv Moscow",
         "score": "2 - 0",
@@ -25194,18 +25078,6 @@
         "away_goals_minutes": [
             "69’'"
         ]
-    },
-    {
-        "home_team": "Grasshopper",
-        "away_team": "Åtvidaberg",
-        "score": "5 - 0",
-        "home_goals_minutes": [
-            "29’'",
-            "31’'",
-            "57’'",
-            "67’'"
-        ],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Brøndby",
@@ -26406,13 +26278,6 @@
             "37’'",
             "85’'"
         ]
-    },
-    {
-        "home_team": "Kuwait",
-        "away_team": "Lebanon",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Iraq",
@@ -27833,15 +27698,6 @@
         "score": "0 - 0",
         "home_goals_minutes": [],
         "away_goals_minutes": []
-    },
-    {
-        "home_team": "Basel",
-        "away_team": "Feyenoord",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": [
-            "76’'"
-        ]
     },
     {
         "home_team": "AZ Alkmaar",
@@ -31369,20 +31225,6 @@
             "22’'",
             "67’'"
         ]
-    },
-    {
-        "home_team": "Lebanon",
-        "away_team": "Australia",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Singapore",
-        "away_team": "Palestine",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "China PR",

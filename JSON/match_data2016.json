@@ -443,55 +443,6 @@
         ]
     },
     {
-        "home_team": "Grimsby Town",
-        "away_team": "Guiseley",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Tranmere Rovers",
-        "away_team": "Macclesfield Town",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chester",
-        "away_team": "Altrincham",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Woking",
-        "away_team": "Aldershot Town",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gateshead",
-        "away_team": "Barrow",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "FC Halifax Town",
-        "away_team": "Lincoln City",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Southport",
-        "away_team": "Wrexham",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Espanyol",
         "away_team": "Barcelona",
         "score": "0 - 0",
@@ -549,111 +500,6 @@
         "away_goals_minutes": [
             "66’'"
         ]
-    },
-    {
-        "home_team": "Gazélec Ajaccio",
-        "away_team": "Sainte-Marien.",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Avranches MSM",
-        "away_team": "Saint-Malo",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Blanc-Mesnil",
-        "away_team": "Nantes",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "US Concarneau",
-        "away_team": "TA Rennes",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Villefranche",
-        "away_team": "Sarre-Union",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mantois",
-        "away_team": "Stade Briochin",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dunkerque",
-        "away_team": "Troyes",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Entente SSG",
-        "away_team": "Toulouse SJ",
-        "score": "0 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pagny",
-        "away_team": "Sochaux",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chambly Oise",
-        "away_team": "EF Reims",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Besançon",
-        "away_team": "Angers",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Granville",
-        "away_team": "Laval",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "AS Moulins",
-        "away_team": "Niort",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Toulouse Rodéo",
-        "away_team": "Montois",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sedan Ardennes",
-        "away_team": "Bastia",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Brisbane Roar",
@@ -1523,20 +1369,6 @@
         ]
     },
     {
-        "home_team": "Wrexham",
-        "away_team": "Woking",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Welling United",
-        "away_team": "Grimsby Town",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Bromley",
         "away_team": "Southport",
         "score": "0 - 0",
@@ -1547,34 +1379,6 @@
         "home_team": "Boreham Wood",
         "away_team": "Cheltenham Town",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lincoln City",
-        "away_team": "Dover Athletic",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Aldershot Town",
-        "away_team": "Chester",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Barrow",
-        "away_team": "Tranmere Rovers",
-        "score": "3 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Macclesfield Town",
-        "away_team": "FC Halifax Town",
-        "score": "0 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -4124,13 +3928,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Lincoln City",
-        "away_team": "Forest Green Rovers",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Sevilla",
         "away_team": "Málaga",
         "score": "2 - 1",
@@ -4408,13 +4205,6 @@
         "away_goals_minutes": [
             "58’'"
         ]
-    },
-    {
-        "home_team": "Saint-Malo",
-        "away_team": "Montois",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Adelaide United",
@@ -5949,48 +5739,6 @@
         ]
     },
     {
-        "home_team": "Rennes",
-        "away_team": "Bourg-Péronnas",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gazélec Ajaccio",
-        "away_team": "Guingamp",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Angers",
-        "away_team": "Bordeaux",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sarre-Union",
-        "away_team": "Niort",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bastia",
-        "away_team": "Sochaux",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Paris Saint-Germain",
-        "away_team": "Toulouse",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Celtic",
         "away_team": "Hamilton Academical",
         "score": "8 - 1",
@@ -6069,55 +5817,6 @@
         ]
     },
     {
-        "home_team": "Mantois",
-        "away_team": "Nantes",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Evian",
-        "away_team": "Monaco",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Trélissac",
-        "away_team": "Lille",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "US Concarneau",
-        "away_team": "Troyes",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chambly Oise",
-        "away_team": "Lyon",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "US Boulogne",
-        "away_team": "Lorient",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Marseille",
-        "away_team": "Montpellier",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Skoda Xanthi",
         "away_team": "PAOK",
         "score": "1 - 1",
@@ -6147,13 +5846,6 @@
             "20’'",
             "90+4’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saint-Étienne",
-        "away_team": "Ajaccio",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -6998,79 +6690,9 @@
         ]
     },
     {
-        "home_team": "Macclesfield Town",
-        "away_team": "Aldershot Town",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Grimsby Town",
-        "away_team": "Altrincham",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Torquay United",
-        "away_team": "Gateshead",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Boreham Wood",
-        "away_team": "Eastleigh",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Welling United",
-        "away_team": "Barrow",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Chester",
         "away_team": "Southport",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kidderminster Harriers",
-        "away_team": "Guiseley",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Woking",
-        "away_team": "FC Halifax Town",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Forest Green Rovers",
-        "away_team": "Braintree Town",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bromley",
-        "away_team": "Tranmere Rovers",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wrexham",
-        "away_team": "Lincoln City",
-        "score": "3 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -7483,13 +7105,6 @@
             "56’'",
             "82’'"
         ]
-    },
-    {
-        "home_team": "Granville",
-        "away_team": "Sarreguemines",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Central Coast Mariners",
@@ -8088,13 +7703,6 @@
         "away_goals_minutes": [
             "23’'"
         ]
-    },
-    {
-        "home_team": "Dover Athletic",
-        "away_team": "Cheltenham Town",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Athletic Club",
@@ -9067,27 +8675,6 @@
         "home_goals_minutes": [
             "85’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Altrincham",
-        "away_team": "Woking",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Southport",
-        "away_team": "Forest Green Rovers",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Braintree Town",
-        "away_team": "Wrexham",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -10142,76 +9729,6 @@
             "58’'",
             "70’'"
         ]
-    },
-    {
-        "home_team": "Gateshead",
-        "away_team": "Grimsby Town",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Tranmere Rovers",
-        "away_team": "Torquay United",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Forest Green Rovers",
-        "away_team": "Macclesfield Town",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eastleigh",
-        "away_team": "Wrexham",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "FC Halifax Town",
-        "away_team": "Welling United",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lincoln City",
-        "away_team": "Guiseley",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Aldershot Town",
-        "away_team": "Kidderminster Harriers",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cheltenham Town",
-        "away_team": "Bromley",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Woking",
-        "away_team": "Barrow",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Braintree Town",
-        "away_team": "Chester",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Colchester United",
@@ -11341,13 +10858,6 @@
         ]
     },
     {
-        "home_team": "Leipzig U19",
-        "away_team": "Cottbus U19",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "United States",
         "away_team": "Iceland",
         "score": "3 - 2",
@@ -12155,13 +11665,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Hertha U19",
-        "away_team": "Bremen U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Deportivo La Coruña",
         "away_team": "Rayo Vallecano",
         "score": "2 - 2",
@@ -12468,13 +11971,6 @@
         ]
     },
     {
-        "home_team": "Braintree Town",
-        "away_team": "Welling United",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Barrow",
         "away_team": "Gateshead",
         "score": "0 - 0",
@@ -12605,13 +12101,6 @@
         "home_team": "Zob Ahan",
         "away_team": "Esteghlal",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Padideh",
-        "away_team": "Saipa",
-        "score": "1 - 0",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -13081,13 +12570,6 @@
             "82’'",
             "84’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dortmund U19",
-        "away_team": "Sprockhövel",
-        "score": "6 - 0",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -14175,48 +13657,6 @@
             "21’'",
             "54’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Tranmere Rovers",
-        "away_team": "Southport",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Barrow",
-        "away_team": "Cheltenham Town",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wrexham",
-        "away_team": "Forest Green Rovers",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lincoln City",
-        "away_team": "Eastleigh",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Welling United",
-        "away_team": "Altrincham",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Boreham Wood",
-        "away_team": "Kidderminster Harriers",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -15376,55 +14816,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Eintracht Braunschweig U19",
-        "away_team": "CZ Jena U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hertha U19",
-        "away_team": "HSV U19",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fortuna U19",
-        "away_team": "Dortmund U19",
-        "score": "1 - 6",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Leipzig U19",
-        "away_team": "Wolfsburg U19",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bayern U19",
-        "away_team": "Fürth U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "KSC U19",
-        "away_team": "Mainz U19",
-        "score": "2 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Heidenheim U19",
-        "away_team": "TSV 1860 München U19",
-        "score": "2 - 6",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Bournemouth",
         "away_team": "Arsenal",
         "score": "0 - 2",
@@ -16468,97 +15859,6 @@
         ]
     },
     {
-        "home_team": "Cottbus U19",
-        "away_team": "Havelse U19",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ingolstadt U19",
-        "away_team": "Hoffenheim U19",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sprockhövel",
-        "away_team": "Münster U19",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Düsseldorf U19",
-        "away_team": "Leverkusen U19",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bochum U19",
-        "away_team": "1.FC Mönchengl",
-        "score": "8 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "M'gladbach U19",
-        "away_team": "RW Essen U19",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Duisburg U19",
-        "away_team": "Schalke U19",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Erfurt U19",
-        "away_team": "Hannover U19",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Viktoria Berl",
-        "away_team": "Kiel U19",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bremen U19",
-        "away_team": "St. Pauli U19",
-        "score": "5 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Frankfurt U19",
-        "away_team": "Nürnberg U19",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saarbrück. U19",
-        "away_team": "Freiburg U19",
-        "score": "4 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Darmstadt",
-        "away_team": "Stuttgart U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Espanyol",
         "away_team": "Real Sociedad",
         "score": "0 - 5",
@@ -16796,27 +16096,6 @@
             "45+2’'",
             "75’'"
         ]
-    },
-    {
-        "home_team": "Kidderminster Harriers",
-        "away_team": "Eastleigh",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Altrincham",
-        "away_team": "Wrexham",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bromley",
-        "away_team": "Grimsby Town",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "West Ham United",
@@ -18419,27 +17698,6 @@
         ]
     },
     {
-        "home_team": "Kidderminster Harriers",
-        "away_team": "Macclesfield Town",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "FC Halifax Town",
-        "away_team": "Forest Green Rovers",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dover Athletic",
-        "away_team": "Gateshead",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Aldershot Town",
         "away_team": "Tranmere Rovers",
         "score": "0 - 0",
@@ -18447,44 +17705,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Wrexham",
-        "away_team": "Bromley",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Altrincham",
-        "away_team": "Lincoln City",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cheltenham Town",
-        "away_team": "Welling United",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Woking",
-        "away_team": "Guiseley",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Grimsby Town",
         "away_team": "Boreham Wood",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Southport",
-        "away_team": "Braintree Town",
-        "score": "1 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -19385,18 +18608,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Gostaresh Foulad",
-        "away_team": "Malavan",
-        "score": "3 - 1",
-        "home_goals_minutes": [
-            "17’'",
-            "45+3’'"
-        ],
-        "away_goals_minutes": [
-            "78’'"
-        ]
-    },
-    {
         "home_team": "Esteghlal Ahvaz",
         "away_team": "Zob Ahan",
         "score": "1 - 1",
@@ -19928,48 +19139,6 @@
         "home_team": "Livingston",
         "away_team": "Hibernian",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eintracht Braunschweig U19",
-        "away_team": "Leipzig U19",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "TSV 1860 München U19",
-        "away_team": "KSC U19",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ingolstadt U19",
-        "away_team": "Darmstadt",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Nürnberg U19",
-        "away_team": "Stuttgart U19",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fürth U19",
-        "away_team": "Frankfurt U19",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hoffenheim U19",
-        "away_team": "Saarbrück. U19",
-        "score": "3 - 0",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -21225,93 +20394,9 @@
         ]
     },
     {
-        "home_team": "CZ Jena U19",
-        "away_team": "Erfurt U19",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "HSV U19",
-        "away_team": "Cottbus U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Mainz U19",
         "away_team": "Bayern U19",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Schalke U19",
-        "away_team": "Düsseldorf U19",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "RW Essen U19",
-        "away_team": "Dortmund U19",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wuppertal U19",
-        "away_team": "Fortuna U19",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Leverkusen U19",
-        "away_team": "M'gladbach U19",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "1.FC Mönchengl",
-        "away_team": "Sprockhövel",
-        "score": "8 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "St. Pauli U19",
-        "away_team": "Viktoria Berl",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kiel U19",
-        "away_team": "Wolfsburg U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Münster U19",
-        "away_team": "Duisburg U19",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Köln U19",
-        "away_team": "Bochum U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Freiburg U19",
-        "away_team": "Heidenheim U19",
-        "score": "2 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -21742,27 +20827,6 @@
         "away_goals_minutes": [
             "59’'"
         ]
-    },
-    {
-        "home_team": "Altrincham",
-        "away_team": "Chester",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cheltenham Town",
-        "away_team": "Kidderminster Harriers",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Braintree Town",
-        "away_team": "Boreham Wood",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Club Olimpo",
@@ -22213,13 +21277,6 @@
         ]
     },
     {
-        "home_team": "Leipzig U19",
-        "away_team": "Bremen U19",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Dortmund",
         "away_team": "Porto",
         "score": "2 - 0",
@@ -22583,13 +21640,6 @@
         ]
     },
     {
-        "home_team": "Dortmund U19",
-        "away_team": "Bochum U19",
-        "score": "4 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Levante",
         "away_team": "Getafe",
         "score": "3 - 0",
@@ -22819,15 +21869,6 @@
             "5’'"
         ],
         "away_goals_minutes": []
-    },
-    {
-        "home_team": "Siah Jamegan",
-        "away_team": "Padideh",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": [
-            "3’'"
-        ]
     },
     {
         "home_team": "Esteghlal",
@@ -23458,27 +22499,6 @@
         "away_goals_minutes": [
             "65’'"
         ]
-    },
-    {
-        "home_team": "Forest Green Rovers",
-        "away_team": "Eastleigh",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "FC Halifax Town",
-        "away_team": "Grimsby Town",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lincoln City",
-        "away_team": "Southport",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Arsenal",
@@ -24154,13 +23174,6 @@
         "home_goals_minutes": [
             "8’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Litex Lovech",
-        "away_team": "Montana",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -25093,41 +24106,6 @@
         "home_team": "Erfurt U19",
         "away_team": "Eintracht Braunschweig U19",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saarbrück. U19",
-        "away_team": "Ingolstadt U19",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cottbus U19",
-        "away_team": "Hannover U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hertha U19",
-        "away_team": "CZ Jena U19",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Heidenheim U19",
-        "away_team": "Hoffenheim U19",
-        "score": "0 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stuttgart U19",
-        "away_team": "Fürth U19",
-        "score": "1 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -26418,104 +25396,6 @@
         ]
     },
     {
-        "home_team": "Leipzig U19",
-        "away_team": "Kiel U19",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bayern U19",
-        "away_team": "TSV 1860 München U19",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Frankfurt U19",
-        "away_team": "Mainz U19",
-        "score": "1 - 6",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bochum U19",
-        "away_team": "Wuppertal U19",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sprockhövel",
-        "away_team": "Köln U19",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "M'gladbach U19",
-        "away_team": "Schalke U19",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dortmund U19",
-        "away_team": "Leverkusen U19",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Duisburg U19",
-        "away_team": "1.FC Mönchengl",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bremen U19",
-        "away_team": "HSV U19",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wolfsburg U19",
-        "away_team": "St. Pauli U19",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "KSC U19",
-        "away_team": "Freiburg U19",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Darmstadt",
-        "away_team": "Nürnberg U19",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Münster U19",
-        "away_team": "Düsseldorf U19",
-        "score": "3 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fortuna U19",
-        "away_team": "RW Essen U19",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Southend United",
         "away_team": "Burton Albion",
         "score": "3 - 1",
@@ -26964,41 +25844,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Wrexham",
-        "away_team": "Kidderminster Harriers",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guiseley",
-        "away_team": "Forest Green Rovers",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Braintree Town",
-        "away_team": "FC Halifax Town",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Grimsby Town",
-        "away_team": "Woking",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Torquay United",
-        "away_team": "Welling United",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Atlético de Rafaela",
         "away_team": "Temperley",
         "score": "0 - 2",
@@ -27320,13 +26165,6 @@
             "51’'",
             "63’'"
         ]
-    },
-    {
-        "home_team": "Mainz U19",
-        "away_team": "Heidenheim U19",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Liverpool",
@@ -28610,44 +27448,9 @@
         ]
     },
     {
-        "home_team": "Barrow",
-        "away_team": "Forest Green Rovers",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Macclesfield Town",
         "away_team": "Wrexham",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kidderminster Harriers",
-        "away_team": "Bromley",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guiseley",
-        "away_team": "Braintree Town",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Welling United",
-        "away_team": "Aldershot Town",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Southport",
-        "away_team": "Boreham Wood",
-        "score": "0 - 3",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -29287,13 +28090,6 @@
             "53’'",
             "65’'"
         ]
-    },
-    {
-        "home_team": "Lokomotiv Plovdiv",
-        "away_team": "Litex Lovech",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Colo-Colo",
@@ -30355,48 +29151,6 @@
         ]
     },
     {
-        "home_team": "TSV 1860 München U19",
-        "away_team": "Frankfurt U19",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Freiburg U19",
-        "away_team": "Bayern U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hoffenheim U19",
-        "away_team": "KSC U19",
-        "score": "5 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eintracht Braunschweig U19",
-        "away_team": "Hertha U19",
-        "score": "3 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hannover U19",
-        "away_team": "Bremen U19",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ingolstadt U19",
-        "away_team": "Heidenheim U19",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Manchester United",
         "away_team": "Arsenal",
         "score": "3 - 2",
@@ -30421,13 +29175,6 @@
         "away_goals_minutes": [
             "19’'"
         ]
-    },
-    {
-        "home_team": "Chester",
-        "away_team": "Tranmere Rovers",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Liverpool",
@@ -31696,27 +30443,6 @@
         ]
     },
     {
-        "home_team": "Sprockhövel",
-        "away_team": "Wuppertal U19",
-        "score": "0 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bochum U19",
-        "away_team": "Fortuna U19",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Schalke U19",
-        "away_team": "Dortmund U19",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "1.FC Mönchengl",
         "away_team": "Düsseldorf U19",
         "score": "0 - 0",
@@ -31724,58 +30450,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Leverkusen U19",
-        "away_team": "RW Essen U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Köln U19",
-        "away_team": "Duisburg U19",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Erfurt U19",
-        "away_team": "Leipzig U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "CZ Jena U19",
-        "away_team": "Cottbus U19",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "HSV U19",
         "away_team": "Viktoria Berl",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "St. Pauli U19",
-        "away_team": "Kiel U19",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Münster U19",
-        "away_team": "M'gladbach U19",
-        "score": "5 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saarbrück. U19",
-        "away_team": "Darmstadt",
-        "score": "2 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -32322,41 +30999,6 @@
         "home_team": "Notts County",
         "away_team": "Dagenham & Redbridge",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Braintree Town",
-        "away_team": "Kidderminster Harriers",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eastleigh",
-        "away_team": "Cheltenham Town",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bromley",
-        "away_team": "Welling United",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Macclesfield Town",
-        "away_team": "Torquay United",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dover Athletic",
-        "away_team": "Southport",
-        "score": "1 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -33228,13 +31870,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Litex Lovech",
-        "away_team": "Pirin Blagoevgrad",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Levski Sofia",
         "away_team": "Montana",
         "score": "0 - 0",
@@ -33682,13 +32317,6 @@
         "away_goals_minutes": [
             "89’'"
         ]
-    },
-    {
-        "home_team": "Forest Green Rovers",
-        "away_team": "Grimsby Town",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "1860 Munich",
@@ -34639,72 +33267,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Southport",
-        "away_team": "FC Halifax Town",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Tranmere Rovers",
-        "away_team": "Gateshead",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Woking",
-        "away_team": "Dover Athletic",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Braintree Town",
-        "away_team": "Eastleigh",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Torquay United",
-        "away_team": "Kidderminster Harriers",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chester",
-        "away_team": "Bromley",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Welling United",
-        "away_team": "Cheltenham Town",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Altrincham",
         "away_team": "Macclesfield Town",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Boreham Wood",
-        "away_team": "Barrow",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lincoln City",
-        "away_team": "Aldershot Town",
-        "score": "2 - 0",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -35390,13 +33955,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Slavia Sofia",
-        "away_team": "Litex Lovech",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Lokomotiv Plovdiv",
         "away_team": "Levski Sofia",
         "score": "1 - 1",
@@ -35691,16 +34249,6 @@
         "away_team": "Vasas",
         "score": "0 - 0",
         "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gostaresh Foulad",
-        "away_team": "Esteghlal Ahvaz",
-        "score": "4 - 0",
-        "home_goals_minutes": [
-            "15’'",
-            "79’'"
-        ],
         "away_goals_minutes": []
     },
     {
@@ -36313,51 +34861,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Cottbus U19",
-        "away_team": "Eintracht Braunschweig U19",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "KSC U19",
-        "away_team": "Ingolstadt U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Wolfsburg U19",
         "away_team": "HSV U19",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Heidenheim U19",
-        "away_team": "Saarbrück. U19",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Darmstadt",
-        "away_team": "Fürth U19",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Frankfurt U19",
-        "away_team": "Freiburg U19",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hertha U19",
-        "away_team": "Erfurt U19",
-        "score": "3 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -38101,104 +36607,6 @@
         ]
     },
     {
-        "home_team": "Kiel U19",
-        "away_team": "Havelse U19",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bremen U19",
-        "away_team": "CZ Jena U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Leipzig U19",
-        "away_team": "St. Pauli U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bayern U19",
-        "away_team": "Hoffenheim U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Nürnberg U19",
-        "away_team": "Mainz U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Düsseldorf U19",
-        "away_team": "Köln U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fortuna U19",
-        "away_team": "Leverkusen U19",
-        "score": "0 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "RW Essen U19",
-        "away_team": "Schalke U19",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dortmund U19",
-        "away_team": "Münster U19",
-        "score": "8 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sprockhövel",
-        "away_team": "Bochum U19",
-        "score": "0 - 6",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Duisburg U19",
-        "away_team": "Wuppertal U19",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "M'gladbach U19",
-        "away_team": "1.FC Mönchengl",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Viktoria Berl",
-        "away_team": "Hannover U19",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stuttgart U19",
-        "away_team": "TSV 1860 München U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Espanyol",
         "away_team": "Rayo Vallecano",
         "score": "2 - 1",
@@ -38686,58 +37094,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Eastleigh",
-        "away_team": "Woking",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dover Athletic",
-        "away_team": "Welling United",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guiseley",
-        "away_team": "Tranmere Rovers",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Altrincham",
-        "away_team": "Gateshead",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bromley",
-        "away_team": "FC Halifax Town",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Grimsby Town",
-        "away_team": "Southport",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Torquay United",
         "away_team": "Braintree Town",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chester",
-        "away_team": "Aldershot Town",
-        "score": "8 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -39134,13 +37493,6 @@
         "away_goals_minutes": [
             "49’'"
         ]
-    },
-    {
-        "home_team": "HSV U19",
-        "away_team": "Hannover U19",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Dortmund",
@@ -40507,41 +38859,6 @@
         ]
     },
     {
-        "home_team": "Wrexham",
-        "away_team": "Boreham Wood",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Macclesfield Town",
-        "away_team": "Lincoln City",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eastleigh",
-        "away_team": "Chester",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cheltenham Town",
-        "away_team": "Woking",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Southport",
-        "away_team": "Welling United",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Aldershot Town",
         "away_team": "Torquay United",
         "score": "0 - 0",
@@ -40549,30 +38866,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Bromley",
-        "away_team": "Guiseley",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gateshead",
-        "away_team": "Forest Green Rovers",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Dover Athletic",
         "away_team": "Tranmere Rovers",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Barrow",
-        "away_team": "Altrincham",
-        "score": "3 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -41278,13 +39574,6 @@
             "42’'",
             "76’'"
         ]
-    },
-    {
-        "home_team": "Litex Lovech",
-        "away_team": "Beroe",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Montana",
@@ -42415,37 +40704,9 @@
         ]
     },
     {
-        "home_team": "Köln U19",
-        "away_team": "M'gladbach U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Hertha U19",
         "away_team": "Leipzig U19",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eintracht Braunschweig U19",
-        "away_team": "Bremen U19",
-        "score": "3 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Heidenheim U19",
-        "away_team": "Darmstadt",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Freiburg U19",
-        "away_team": "Stuttgart U19",
-        "score": "0 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -44006,114 +42267,9 @@
         ]
     },
     {
-        "home_team": "Erfurt U19",
-        "away_team": "Cottbus U19",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wuppertal U19",
-        "away_team": "Düsseldorf U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "1.FC Mönchengl",
-        "away_team": "Dortmund U19",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Münster U19",
-        "away_team": "RW Essen U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sprockhövel",
-        "away_team": "Fortuna U19",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Schalke U19",
-        "away_team": "Leverkusen U19",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Bochum U19",
         "away_team": "Duisburg U19",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "CZ Jena U19",
-        "away_team": "Viktoria Berl",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hannover U19",
-        "away_team": "Wolfsburg U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hoffenheim U19",
-        "away_team": "Frankfurt U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "HSV U19",
-        "away_team": "Kiel U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Havelse U19",
-        "away_team": "St. Pauli U19",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mainz U19",
-        "away_team": "Fürth U19",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saarbrück. U19",
-        "away_team": "KSC U19",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ingolstadt U19",
-        "away_team": "Bayern U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "TSV 1860 München U19",
-        "away_team": "Nürnberg U19",
-        "score": "2 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -44558,27 +42714,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Guiseley",
-        "away_team": "Grimsby Town",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eastleigh",
-        "away_team": "Bromley",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dover Athletic",
-        "away_team": "Lincoln City",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Braintree Town",
         "away_team": "Gateshead",
         "score": "0 - 0",
@@ -44874,13 +43009,6 @@
         ]
     },
     {
-        "home_team": "M'gladbach U19",
-        "away_team": "Bochum U19",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Valencia",
         "away_team": "Athletic Club",
         "score": "2 - 1",
@@ -45041,13 +43169,6 @@
         "away_goals_minutes": [
             "77’'"
         ]
-    },
-    {
-        "home_team": "Fürth U19",
-        "away_team": "Nürnberg U19",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Iraq",
@@ -46174,72 +44295,9 @@
         ]
     },
     {
-        "home_team": "Torquay United",
-        "away_team": "Southport",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Braintree Town",
-        "away_team": "Cheltenham Town",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guiseley",
-        "away_team": "Dover Athletic",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Welling United",
-        "away_team": "Gateshead",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Boreham Wood",
         "away_team": "Macclesfield Town",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Altrincham",
-        "away_team": "Aldershot Town",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wrexham",
-        "away_team": "Chester",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Tranmere Rovers",
-        "away_team": "Forest Green Rovers",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Barrow",
-        "away_team": "Bromley",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lincoln City",
-        "away_team": "Kidderminster Harriers",
-        "score": "1 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -46854,13 +44912,6 @@
         "home_goals_minutes": [
             "51’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Botev Plovdiv",
-        "away_team": "Litex Lovech",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -47858,27 +45909,6 @@
         "away_goals_minutes": [
             "25’'"
         ]
-    },
-    {
-        "home_team": "Wuppertal U19",
-        "away_team": "Köln U19",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "CZ Jena U19",
-        "away_team": "Leipzig U19",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Havelse U19",
-        "away_team": "Viktoria Berl",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Newcastle United",
@@ -49589,30 +47619,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Wolfsburg",
-        "away_team": "ACF Brescia",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Barcelona",
         "away_team": "PSG FEM",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Olympique Lyon",
-        "away_team": "Slavia Praha",
-        "score": "9 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rosengård",
-        "away_team": "FFC Frankfurt",
-        "score": "0 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -49626,15 +47635,6 @@
         ],
         "away_goals_minutes": [
             "23’'"
-        ]
-    },
-    {
-        "home_team": "Chad",
-        "away_team": "Tanzania",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": [
-            "32’'"
         ]
     },
     {
@@ -49984,13 +47984,6 @@
             "63’'",
             "90+1’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kuwait",
-        "away_team": "Laos",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -50593,37 +48586,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Gateshead",
-        "away_team": "Macclesfield Town",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Tranmere Rovers",
-        "away_team": "Lincoln City",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Forest Green Rovers",
         "away_team": "Aldershot Town",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Braintree Town",
-        "away_team": "Bromley",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cheltenham Town",
-        "away_team": "Boreham Wood",
-        "score": "4 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -50825,48 +48790,6 @@
         "home_goals_minutes": [
             "79’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "FC Halifax Town",
-        "away_team": "Altrincham",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Southport",
-        "away_team": "Guiseley",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Woking",
-        "away_team": "Kidderminster Harriers",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chester",
-        "away_team": "Barrow",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Grimsby Town",
-        "away_team": "Wrexham",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dover Athletic",
-        "away_team": "Torquay United",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -51686,13 +49609,6 @@
         ]
     },
     {
-        "home_team": "Tanzania",
-        "away_team": "Chad",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Equatorial Guinea",
         "away_team": "Mali",
         "score": "0 - 1",
@@ -51887,90 +49803,6 @@
         "away_goals_minutes": [
             "85’'"
         ]
-    },
-    {
-        "home_team": "Barrow",
-        "away_team": "FC Halifax Town",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lincoln City",
-        "away_team": "Gateshead",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Torquay United",
-        "away_team": "Eastleigh",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Boreham Wood",
-        "away_team": "Dover Athletic",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Macclesfield Town",
-        "away_team": "Grimsby Town",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kidderminster Harriers",
-        "away_team": "Tranmere Rovers",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Aldershot Town",
-        "away_team": "Braintree Town",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Welling United",
-        "away_team": "Woking",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bromley",
-        "away_team": "Forest Green Rovers",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guiseley",
-        "away_team": "Chester",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Altrincham",
-        "away_team": "Southport",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wrexham",
-        "away_team": "Cheltenham Town",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Argentinos Juniors",
@@ -52460,13 +50292,6 @@
         ]
     },
     {
-        "home_team": "Thailand",
-        "away_team": "Indonesia",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Afghanistan",
         "away_team": "Singapore",
         "score": "2 - 1",
@@ -52607,13 +50432,6 @@
         ]
     },
     {
-        "home_team": "Korea Republic",
-        "away_team": "Kuwait",
-        "score": "3* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "China PR",
         "away_team": "Qatar",
         "score": "2 - 0",
@@ -52657,30 +50475,9 @@
         ]
     },
     {
-        "home_team": "FFC Frankfurt",
-        "away_team": "Rosengård",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Slavia Praha",
         "away_team": "Olympique Lyon",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "PSG FEM",
-        "away_team": "Barcelona",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "ACF Brescia",
-        "away_team": "Wolfsburg",
-        "score": "0 - 3",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -52821,13 +50618,6 @@
         ]
     },
     {
-        "home_team": "Bremen U19",
-        "away_team": "Hertha U19",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Queens Park Rangers",
         "away_team": "Middlesbrough",
         "score": "2 - 3",
@@ -52840,13 +50630,6 @@
             "51’'",
             "57’'"
         ]
-    },
-    {
-        "home_team": "Cheltenham Town",
-        "away_team": "Grimsby Town",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Rayo Vallecano",
@@ -54006,79 +51789,9 @@
         ]
     },
     {
-        "home_team": "Macclesfield Town",
-        "away_team": "Braintree Town",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dover Athletic",
-        "away_team": "FC Halifax Town",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kidderminster Harriers",
-        "away_team": "Altrincham",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gateshead",
-        "away_team": "Torquay United",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Tranmere Rovers",
-        "away_team": "Welling United",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Aldershot Town",
-        "away_team": "Barrow",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chester",
-        "away_team": "Boreham Wood",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bromley",
-        "away_team": "Lincoln City",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Southport",
-        "away_team": "Woking",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Forest Green Rovers",
         "away_team": "Wrexham",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eastleigh",
-        "away_team": "Guiseley",
-        "score": "1 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -54789,13 +52502,6 @@
         "away_goals_minutes": [
             "54’'"
         ]
-    },
-    {
-        "home_team": "Litex Lovech",
-        "away_team": "Cherno More",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Montana",
@@ -56143,48 +53849,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Leipzig U19",
-        "away_team": "Havelse U19",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "St. Pauli U19",
-        "away_team": "HSV U19",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Frankfurt U19",
-        "away_team": "Ingolstadt U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Darmstadt",
-        "away_team": "Mainz U19",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fürth U19",
-        "away_team": "TSV 1860 München U19",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "KSC U19",
-        "away_team": "Heidenheim U19",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Leicester City",
         "away_team": "Southampton",
         "score": "1 - 0",
@@ -56948,19 +54612,6 @@
             "73’'"
         ],
         "away_goals_minutes": []
-    },
-    {
-        "home_team": "Persepolis",
-        "away_team": "Siah Jamegan",
-        "score": "3 - 2",
-        "home_goals_minutes": [
-            "42’'",
-            "70’'",
-            "88’'"
-        ],
-        "away_goals_minutes": [
-            "59’'"
-        ]
     },
     {
         "home_team": "Rah Ahan Yazdan",
@@ -57734,90 +55385,6 @@
         ]
     },
     {
-        "home_team": "Bremen U19",
-        "away_team": "Erfurt U19",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Nürnberg U19",
-        "away_team": "Freiburg U19",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bayern U19",
-        "away_team": "Saarbrück. U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Düsseldorf U19",
-        "away_team": "Bochum U19",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dortmund U19",
-        "away_team": "Köln U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "RW Essen U19",
-        "away_team": "1.FC Mönchengl",
-        "score": "7 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Duisburg U19",
-        "away_team": "Sprockhövel",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fortuna U19",
-        "away_team": "Schalke U19",
-        "score": "1 - 10",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cottbus U19",
-        "away_team": "Hertha U19",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Viktoria Berl",
-        "away_team": "Eintracht Braunschweig U19",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wolfsburg U19",
-        "away_team": "CZ Jena U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kiel U19",
-        "away_team": "Hannover U19",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Leverkusen U19",
         "away_team": "Münster U19",
         "score": "0 - 0",
@@ -58343,41 +55910,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Barrow",
-        "away_team": "Braintree Town",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Torquay United",
-        "away_team": "Chester",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "FC Halifax Town",
-        "away_team": "Boreham Wood",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Altrincham",
-        "away_team": "Dover Athletic",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Aldershot Town",
-        "away_team": "Grimsby Town",
-        "score": "3 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Huachipato",
         "away_team": "San Luis",
         "score": "3 - 3",
@@ -58481,20 +56013,6 @@
         "home_goals_minutes": [
             "50’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stuttgart U19",
-        "away_team": "Hoffenheim U19",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "M'gladbach U19",
-        "away_team": "Wuppertal U19",
-        "score": "5 - 3",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -59602,19 +57120,6 @@
         ]
     },
     {
-        "home_team": "Gostaresh Foulad",
-        "away_team": "Rah Ahan Yazdan",
-        "score": "3 - 2",
-        "home_goals_minutes": [
-            "9’'",
-            "68’'",
-            "90’'"
-        ],
-        "away_goals_minutes": [
-            "76’'"
-        ]
-    },
-    {
         "home_team": "Saba Qom",
         "away_team": "Saipa",
         "score": "4 - 0",
@@ -60329,27 +57834,6 @@
         ]
     },
     {
-        "home_team": "Boreham Wood",
-        "away_team": "Southport",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Woking",
-        "away_team": "Gateshead",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guiseley",
-        "away_team": "Cheltenham Town",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Altrincham",
         "away_team": "Bromley",
         "score": "0 - 0",
@@ -60357,58 +57841,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Welling United",
-        "away_team": "Kidderminster Harriers",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Grimsby Town",
         "away_team": "Eastleigh",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wrexham",
-        "away_team": "Dover Athletic",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Torquay United",
-        "away_team": "Tranmere Rovers",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Barrow",
-        "away_team": "Macclesfield Town",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lincoln City",
-        "away_team": "Chester",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Braintree Town",
-        "away_team": "Forest Green Rovers",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "FC Halifax Town",
-        "away_team": "Aldershot Town",
-        "score": "0 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -61135,13 +58570,6 @@
         ]
     },
     {
-        "home_team": "Ludogorets Razgrad",
-        "away_team": "Litex Lovech",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Cherno More",
         "away_team": "Pirin Blagoevgrad",
         "score": "1 - 1",
@@ -61435,16 +58863,6 @@
             "53’'"
         ],
         "away_goals_minutes": []
-    },
-    {
-        "home_team": "PS Kemi Kings",
-        "away_team": "SJK",
-        "score": "3* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": [
-            "20’'",
-            "90’'"
-        ]
     },
     {
         "home_team": "PK–35 Vantaa",
@@ -62464,41 +59882,6 @@
         "away_goals_minutes": [
             "63’'"
         ]
-    },
-    {
-        "home_team": "HSV U19",
-        "away_team": "Havelse U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "KSC U19",
-        "away_team": "Darmstadt",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hoffenheim U19",
-        "away_team": "Nürnberg U19",
-        "score": "4 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eintracht Braunschweig U19",
-        "away_team": "Wolfsburg U19",
-        "score": "2 - 6",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saarbrück. U19",
-        "away_team": "Frankfurt U19",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Austria",
@@ -64317,34 +61700,6 @@
         ]
     },
     {
-        "home_team": "Kiel U19",
-        "away_team": "Eintracht Braunschweig U19",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Nürnberg U19",
-        "away_team": "Ingolstadt U19",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Düsseldorf U19",
-        "away_team": "Duisburg U19",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Leverkusen U19",
-        "away_team": "Köln U19",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Stoke City",
         "away_team": "Tottenham Hotspur",
         "score": "0 - 4",
@@ -65022,13 +62377,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Woking",
-        "away_team": "Grimsby Town",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Espanyol",
         "away_team": "Celta Vigo",
         "score": "1 - 1",
@@ -65309,13 +62657,6 @@
         "away_goals_minutes": [
             "71’'"
         ]
-    },
-    {
-        "home_team": "Hannover U19",
-        "away_team": "Hertha U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Bolívar",
@@ -66561,17 +63902,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Rah Ahan Yazdan",
-        "away_team": "Padideh",
-        "score": "3 - 1",
-        "home_goals_minutes": [
-            "48’'",
-            "48’'",
-            "85’'"
-        ],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Esteghlal Ahvaz",
         "away_team": "Persepolis",
         "score": "0 - 2",
@@ -67312,90 +64642,6 @@
         ]
     },
     {
-        "home_team": "Gateshead",
-        "away_team": "Bromley",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eastleigh",
-        "away_team": "Tranmere Rovers",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Forest Green Rovers",
-        "away_team": "FC Halifax Town",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lincoln City",
-        "away_team": "Woking",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kidderminster Harriers",
-        "away_team": "Dover Athletic",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Grimsby Town",
-        "away_team": "Chester",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Torquay United",
-        "away_team": "Barrow",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Aldershot Town",
-        "away_team": "Southport",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wrexham",
-        "away_team": "Braintree Town",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Altrincham",
-        "away_team": "Welling United",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Boreham Wood",
-        "away_team": "Guiseley",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Macclesfield Town",
-        "away_team": "Cheltenham Town",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Everton",
         "away_team": "Manchester United",
         "score": "1 - 2",
@@ -68079,13 +65325,6 @@
             "66’'",
             "87’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Montana",
-        "away_team": "Litex Lovech",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -69109,69 +66348,6 @@
             "18’'",
             "71’'"
         ]
-    },
-    {
-        "home_team": "CZ Jena U19",
-        "away_team": "Havelse U19",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Freiburg U19",
-        "away_team": "TSV 1860 München U19",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hertha U19",
-        "away_team": "Wolfsburg U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ingolstadt U19",
-        "away_team": "Fürth U19",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hannover U19",
-        "away_team": "HSV U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hoffenheim U19",
-        "away_team": "Mainz U19",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saarbrück. U19",
-        "away_team": "Nürnberg U19",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Olympique Lyon",
-        "away_team": "PSG FEM",
-        "score": "7 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wolfsburg",
-        "away_team": "FFC Frankfurt",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Sunderland",
@@ -70955,100 +68131,9 @@
         ]
     },
     {
-        "home_team": "Erfurt U19",
-        "away_team": "Kiel U19",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bremen U19",
-        "away_team": "Leipzig U19",
-        "score": "6 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bayern U19",
-        "away_team": "Darmstadt",
-        "score": "6 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Köln U19",
-        "away_team": "Schalke U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Duisburg U19",
-        "away_team": "M'gladbach U19",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Wuppertal U19",
         "away_team": "Leverkusen U19",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bochum U19",
-        "away_team": "RW Essen U19",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sprockhövel",
-        "away_team": "Dortmund U19",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Düsseldorf U19",
-        "away_team": "Fortuna U19",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cottbus U19",
-        "away_team": "Viktoria Berl",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "1.FC Mönchengl",
-        "away_team": "Münster U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eintracht Braunschweig U19",
-        "away_team": "St. Pauli U19",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Heidenheim U19",
-        "away_team": "Stuttgart U19",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "KSC U19",
-        "away_team": "Frankfurt U19",
-        "score": "3 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -71497,13 +68582,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Havelse U19",
-        "away_team": "Wolfsburg U19",
-        "score": "0 - 11",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Atlético Madrid",
         "away_team": "Bayern Munich",
         "score": "1 - 0",
@@ -71808,13 +68886,6 @@
         ]
     },
     {
-        "home_team": "Göteborg",
-        "away_team": "Malmö",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Jönköpings Södra",
         "away_team": "Falkenberg",
         "score": "1 - 1",
@@ -71824,13 +68895,6 @@
         "away_goals_minutes": [
             "50’'"
         ]
-    },
-    {
-        "home_team": "Viktoria Berl",
-        "away_team": "Hertha U19",
-        "score": "0 - 7",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Villarreal",
@@ -73690,90 +70754,6 @@
         ]
     },
     {
-        "home_team": "Southport",
-        "away_team": "Kidderminster Harriers",
-        "score": "3 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Woking",
-        "away_team": "Eastleigh",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bromley",
-        "away_team": "Aldershot Town",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Barrow",
-        "away_team": "Wrexham",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Braintree Town",
-        "away_team": "Altrincham",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Welling United",
-        "away_team": "Boreham Wood",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cheltenham Town",
-        "away_team": "Lincoln City",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "FC Halifax Town",
-        "away_team": "Macclesfield Town",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Tranmere Rovers",
-        "away_team": "Grimsby Town",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dover Athletic",
-        "away_team": "Forest Green Rovers",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guiseley",
-        "away_team": "Torquay United",
-        "score": "4 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chester",
-        "away_team": "Gateshead",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Real Sociedad",
         "away_team": "Real Madrid",
         "score": "0 - 1",
@@ -74475,13 +71455,6 @@
         "home_team": "Real Potosí",
         "away_team": "Sport Boys Warnes",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Litex Lovech",
-        "away_team": "Lokomotiv Plovdiv",
-        "score": "-- - --*",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -75516,111 +72489,6 @@
             "55’'",
             "69’'"
         ]
-    },
-    {
-        "home_team": "Kiel U19",
-        "away_team": "Hertha U19",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hannover U19",
-        "away_team": "Leipzig U19",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wolfsburg U19",
-        "away_team": "Cottbus U19",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "HSV U19",
-        "away_team": "CZ Jena U19",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Havelse U19",
-        "away_team": "Eintracht Braunschweig U19",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Viktoria Berl",
-        "away_team": "Bremen U19",
-        "score": "1 - 7",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "St. Pauli U19",
-        "away_team": "Erfurt U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Nürnberg U19",
-        "away_team": "Heidenheim U19",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Freiburg U19",
-        "away_team": "Darmstadt",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Frankfurt U19",
-        "away_team": "Bayern U19",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fürth U19",
-        "away_team": "Saarbrück. U19",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "TSV 1860 München U19",
-        "away_team": "Hoffenheim U19",
-        "score": "0 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mainz U19",
-        "away_team": "Ingolstadt U19",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "RW Essen U19",
-        "away_team": "Sprockhövel",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "FFC Frankfurt",
-        "away_team": "Wolfsburg",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Swansea City",
@@ -76898,55 +73766,6 @@
         ]
     },
     {
-        "home_team": "Münster U19",
-        "away_team": "Köln U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Schalke U19",
-        "away_team": "Wuppertal U19",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "1.FC Mönchengl",
-        "away_team": "Fortuna U19",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dortmund U19",
-        "away_team": "Duisburg U19",
-        "score": "6 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Leverkusen U19",
-        "away_team": "Bochum U19",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Düsseldorf U19",
-        "away_team": "M'gladbach U19",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "PSG FEM",
-        "away_team": "Olympique Lyon",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Chelsea",
         "away_team": "Tottenham Hotspur",
         "score": "2 - 2",
@@ -77308,13 +74127,6 @@
         ]
     },
     {
-        "home_team": "Stuttgart U19",
-        "away_team": "KSC U19",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Bayern Munich",
         "away_team": "Atlético Madrid",
         "score": "2 - 1",
@@ -77640,13 +74452,6 @@
         "away_goals_minutes": [
             "21’'"
         ]
-    },
-    {
-        "home_team": "Dover Athletic",
-        "away_team": "Forest Green Rovers",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Ciclón",
@@ -78037,13 +74842,6 @@
         ]
     },
     {
-        "home_team": "Petare",
-        "away_team": "Portuguesa",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Mineros",
         "away_team": "Aragua",
         "score": "1 - 2",
@@ -78171,13 +74969,6 @@
         "away_goals_minutes": [
             "12’'"
         ]
-    },
-    {
-        "home_team": "Grimsby Town",
-        "away_team": "Braintree Town",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Petrolero",
@@ -79046,13 +75837,6 @@
         ]
     },
     {
-        "home_team": "Forest Green Rovers",
-        "away_team": "Dover Athletic",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Lugo",
         "away_team": "Alcorcón",
         "score": "1 - 2",
@@ -79785,13 +76569,6 @@
             "75’'",
             "81’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pirin Blagoevgrad",
-        "away_team": "Litex Lovech",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -80764,149 +77541,9 @@
         ]
     },
     {
-        "home_team": "Leipzig U19",
-        "away_team": "Viktoria Berl",
-        "score": "6 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hertha U19",
-        "away_team": "St. Pauli U19",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Havelse U19",
-        "away_team": "Erfurt U19",
-        "score": "6 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "CZ Jena U19",
-        "away_team": "Hannover U19",
-        "score": "5 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eintracht Braunschweig U19",
-        "away_team": "HSV U19",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bremen U19",
-        "away_team": "Wolfsburg U19",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cottbus U19",
-        "away_team": "Kiel U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "KSC U19",
-        "away_team": "Nürnberg U19",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bayern U19",
-        "away_team": "Stuttgart U19",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hoffenheim U19",
-        "away_team": "Freiburg U19",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Darmstadt",
-        "away_team": "Frankfurt U19",
-        "score": "2 - 7",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Heidenheim U19",
-        "away_team": "Fürth U19",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ingolstadt U19",
-        "away_team": "TSV 1860 München U19",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saarbrück. U19",
-        "away_team": "Mainz U19",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Duisburg U19",
-        "away_team": "RW Essen U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Köln U19",
-        "away_team": "1.FC Mönchengl",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Sprockhövel",
         "away_team": "Leverkusen U19",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bochum U19",
-        "away_team": "Schalke U19",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fortuna U19",
-        "away_team": "M'gladbach U19",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wuppertal U19",
-        "away_team": "Münster U19",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Düsseldorf U19",
-        "away_team": "Dortmund U19",
-        "score": "2 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -81080,13 +77717,6 @@
         "home_team": "Doncaster Rovers",
         "away_team": "Burton Albion",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Braintree Town",
-        "away_team": "Grimsby Town",
-        "score": "0 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -81958,15 +78588,6 @@
         "away_goals_minutes": [
             "81’'",
             "83’'"
-        ]
-    },
-    {
-        "home_team": "Malavan",
-        "away_team": "Saba Qom",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": [
-            "86’'"
         ]
     },
     {
@@ -83233,20 +79854,6 @@
         ]
     },
     {
-        "home_team": "Dortmund U19",
-        "away_team": "TSV 1860 München U19",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hoffenheim U19",
-        "away_team": "Bremen U19",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "São Paulo",
         "away_team": "Atlético Mineiro",
         "score": "1 - 0",
@@ -83457,13 +80064,6 @@
         "away_goals_minutes": [
             "71’'"
         ]
-    },
-    {
-        "home_team": "Litex Lovech",
-        "away_team": "Slavia Sofia",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Botev Plovdiv",
@@ -85838,13 +82438,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Beroe",
-        "away_team": "Litex Lovech",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Cherno More",
         "away_team": "Botev Plovdiv",
         "score": "3 - 0",
@@ -86914,13 +83507,6 @@
         "home_goals_minutes": [
             "90+1’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Forest Green Rovers",
-        "away_team": "Grimsby Town",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -88837,20 +85423,6 @@
         ]
     },
     {
-        "home_team": "Bremen U19",
-        "away_team": "Hoffenheim U19",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "TSV 1860 München U19",
-        "away_team": "Dortmund U19",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Independiente del Valle",
         "away_team": "Pumas UNAM",
         "score": "2 - 1",
@@ -89232,13 +85804,6 @@
         ]
     },
     {
-        "home_team": "Eintracht Frankfurt",
-        "away_team": "Nürnberg",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Zulte Waregem",
         "away_team": "Club Brugge",
         "score": "0 - 2",
@@ -89514,13 +86079,6 @@
         "away_goals_minutes": [
             "44’'"
         ]
-    },
-    {
-        "home_team": "Würzburger Kickers",
-        "away_team": "MSV Duisburg",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Livorno",
@@ -90964,13 +87522,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Litex Lovech",
-        "away_team": "Botev Plovdiv",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Puerto Rico",
         "away_team": "United States",
         "score": "1 - 3",
@@ -92091,13 +88642,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Nürnberg",
-        "away_team": "Eintracht Frankfurt",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Belgrano",
         "away_team": "Rosario Central",
         "score": "1 - 0",
@@ -92270,13 +88814,6 @@
         "home_team": "Valladolid",
         "away_team": "Girona",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "MSV Duisburg",
-        "away_team": "Würzburger Kickers",
-        "score": "1 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -92832,13 +89369,6 @@
         "home_team": "Azerbaijan",
         "away_team": "Andorra",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wolfsburg",
-        "away_team": "Olympique Lyon",
-        "score": "1 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -95261,20 +91791,6 @@
         ]
     },
     {
-        "home_team": "Hoffenheim U19",
-        "away_team": "Dortmund U19",
-        "score": "3 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cherno More",
-        "away_team": "Litex Lovech",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Gambia",
         "away_team": "Zambia",
         "score": "0 - 0",
@@ -96499,13 +93015,6 @@
         "home_team": "Brazil",
         "away_team": "Ecuador",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chad",
-        "away_team": "Nigeria",
-        "score": "-- - --*",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -105310,13 +101819,6 @@
         "away_goals_minutes": [
             "41’'"
         ]
-    },
-    {
-        "home_team": "Slovan Bratislava",
-        "away_team": "Partizani Tirana",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Llandudno FC",
@@ -115209,18 +111711,6 @@
         ]
     },
     {
-        "home_team": "Matera",
-        "away_team": "Caronnese",
-        "score": "3* - 0",
-        "home_goals_minutes": [
-            "83’'",
-            "84’'"
-        ],
-        "away_goals_minutes": [
-            "56’'"
-        ]
-    },
-    {
         "home_team": "Pordenone",
         "away_team": "FC Grosseto",
         "score": "5 - 2",
@@ -122519,13 +119009,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Créteil",
-        "away_team": "Évian Savoie",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Guangzhou Evergrande Taobao",
         "away_team": "Beijing Guoan LeEco",
         "score": "0 - 0",
@@ -122979,15 +119462,6 @@
             "71’'"
         ],
         "away_goals_minutes": []
-    },
-    {
-        "home_team": "Millonarios",
-        "away_team": "CA Bucaramanga",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": [
-            "29’'"
-        ]
     },
     {
         "home_team": "SD Aucas",
@@ -126062,13 +122536,6 @@
         ]
     },
     {
-        "home_team": "Stoke City U23",
-        "away_team": "West Ham United U23",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Wolfsburg U19",
         "away_team": "Hannover U19",
         "score": "2 - 0",
@@ -128208,34 +124675,6 @@
             "79’'",
             "85’'"
         ]
-    },
-    {
-        "home_team": "Aston Villa U23",
-        "away_team": "Wolverhampton Wanderers U23",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Norwich City U23",
-        "away_team": "Newcastle United U23",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fulham U23",
-        "away_team": "Blackburn Rovers U23",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Swansea City U23",
-        "away_team": "West Bromwich Albion U23",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Middlesbrough U23",
@@ -135440,41 +131879,6 @@
         ]
     },
     {
-        "home_team": "Norwich City U23",
-        "away_team": "Stoke City U23",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brighton & Hove Albion U23",
-        "away_team": "Aston Villa U23",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "West Bromwich Albion U23",
-        "away_team": "Fulham U23",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wolverhampton Wanderers U23",
-        "away_team": "Swansea City U23",
-        "score": "3 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "West Ham United U23",
-        "away_team": "Newcastle United U23",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Blackburn Rovers U23",
         "away_team": "Middlesbrough U23",
         "score": "0 - 0",
@@ -137210,13 +133614,6 @@
         ]
     },
     {
-        "home_team": "Norwich City U23",
-        "away_team": "Middlesbrough U23",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Burton Albion",
         "away_team": "Derby County",
         "score": "1 - 0",
@@ -137979,27 +134376,6 @@
             "63’'",
             "90+3’'"
         ]
-    },
-    {
-        "home_team": "Wolverhampton Wanderers U23",
-        "away_team": "West Bromwich Albion U23",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brighton & Hove Albion U23",
-        "away_team": "Fulham U23",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Swansea City U23",
-        "away_team": "West Ham United U23",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "TSV 1860 München U19",
@@ -140227,13 +136603,6 @@
         ]
     },
     {
-        "home_team": "Stoke City U23",
-        "away_team": "Blackburn Rovers U23",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Dresden U19",
         "away_team": "Wolfsburg U19",
         "score": "0 - 4",
@@ -140976,18 +137345,6 @@
         ],
         "away_goals_minutes": [
             "27’'"
-        ]
-    },
-    {
-        "home_team": "Sassuolo",
-        "away_team": "Pescara",
-        "score": "0 - 3*",
-        "home_goals_minutes": [
-            "38’'",
-            "67’'"
-        ],
-        "away_goals_minutes": [
-            "81’'"
         ]
     },
     {
@@ -142758,13 +139115,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Aston Villa U23",
-        "away_team": "Newcastle United U23",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Uganda",
         "away_team": "Kenya",
         "score": "0 - 0",
@@ -143476,16 +139826,6 @@
         ]
     },
     {
-        "home_team": "Bolivia",
-        "away_team": "Peru",
-        "score": "0 - 3*",
-        "home_goals_minutes": [
-            "38’'",
-            "86’'"
-        ],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Argentina",
         "away_team": "Uruguay",
         "score": "1 - 0",
@@ -143789,13 +140129,6 @@
         "away_goals_minutes": [
             "7’'"
         ]
-    },
-    {
-        "home_team": "Egypt",
-        "away_team": "Chad",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Cameroon",
@@ -145783,13 +142116,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Chile",
-        "away_team": "Bolivia",
-        "score": "3* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Brazil",
         "away_team": "Colombia",
         "score": "2 - 1",
@@ -147314,13 +143640,6 @@
         "away_goals_minutes": [
             "90+5’'"
         ]
-    },
-    {
-        "home_team": "West Ham United U23",
-        "away_team": "Wolverhampton Wanderers U23",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Manchester United",
@@ -151346,18 +147665,6 @@
         ]
     },
     {
-        "home_team": "Melgar",
-        "away_team": "Deportivo Municipal",
-        "score": "3* - 0",
-        "home_goals_minutes": [
-            "55’'",
-            "61’'"
-        ],
-        "away_goals_minutes": [
-            "42’'"
-        ]
-    },
-    {
         "home_team": "Universitario",
         "away_team": "Sport Huancayo",
         "score": "1 - 0",
@@ -152385,41 +148692,6 @@
         "away_goals_minutes": [
             "84’'"
         ]
-    },
-    {
-        "home_team": "Fulham U23",
-        "away_team": "Aston Villa U23",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "West Bromwich Albion U23",
-        "away_team": "Brighton & Hove Albion U23",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Blackburn Rovers U23",
-        "away_team": "Norwich City U23",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Newcastle United U23",
-        "away_team": "Stoke City U23",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Middlesbrough U23",
-        "away_team": "Swansea City U23",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Benfica",
@@ -156862,17 +153134,6 @@
         ]
     },
     {
-        "home_team": "Alianza Lima",
-        "away_team": "Universitario",
-        "score": "3* - 0",
-        "home_goals_minutes": [
-            "44’'"
-        ],
-        "away_goals_minutes": [
-            "60’'"
-        ]
-    },
-    {
         "home_team": "Górnik Łęczna",
         "away_team": "Korona Kielce",
         "score": "4 - 0",
@@ -157448,13 +153709,6 @@
             "12’'",
             "71’'"
         ]
-    },
-    {
-        "home_team": "Stoke City U23",
-        "away_team": "Fulham U23",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Hoffenheim U19",
@@ -159818,41 +156072,6 @@
         "away_goals_minutes": [
             "43’'"
         ]
-    },
-    {
-        "home_team": "Wolverhampton Wanderers U23",
-        "away_team": "Middlesbrough U23",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Norwich City U23",
-        "away_team": "West Ham United U23",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brighton & Hove Albion U23",
-        "away_team": "Newcastle United U23",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Aston Villa U23",
-        "away_team": "West Bromwich Albion U23",
-        "score": "2 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Swansea City U23",
-        "away_team": "Blackburn Rovers U23",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Hungary",
@@ -168117,44 +164336,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Newcastle United U23",
-        "away_team": "Swansea City U23",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Blackburn Rovers U23",
-        "away_team": "Wolverhampton Wanderers U23",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "West Ham United U23",
         "away_team": "Brighton & Hove Albion U23",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fulham U23",
-        "away_team": "Norwich City U23",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Middlesbrough U23",
-        "away_team": "Aston Villa U23",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "West Bromwich Albion U23",
-        "away_team": "Stoke City U23",
-        "score": "2 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -179303,20 +175487,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Stoke City U23",
-        "away_team": "Middlesbrough U23",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wolverhampton Wanderers U23",
-        "away_team": "Newcastle United U23",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Chelsea",
         "away_team": "Leicester City",
         "score": "3 - 0",
@@ -179763,139 +175933,6 @@
         ]
     },
     {
-        "home_team": "Tonbridge",
-        "away_team": "Dartford",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Westfields",
-        "away_team": "Leiston",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Burgess Hill",
-        "away_team": "Dover Athletic",
-        "score": "0 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eastleigh",
-        "away_team": "North Leigh",
-        "score": "6 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Altrincham",
-        "away_team": "Matlock Town",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Nantwich Town",
-        "away_team": "Stourbridge",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Braintree Town",
-        "away_team": "Bromley",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Egham Town",
-        "away_team": "St Albans City",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stamford",
-        "away_team": "Wrexham",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Boreham Wood",
-        "away_team": "Hendon",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Maidstone United",
-        "away_team": "Billericay",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sutton United",
-        "away_team": "Forest Green Rovers",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Merstham",
-        "away_team": "Ebbsfleet United",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "North Ferriby United",
-        "away_team": "Macclesfield Town",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kidderminster",
-        "away_team": "Weymouth",
-        "score": "6 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Torquay United",
-        "away_team": "Woking",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Solihull Moors",
-        "away_team": "Kettering Town",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lincoln Utd",
-        "away_team": "Spennymoor",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stockport",
-        "away_team": "Bishop AL",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Taunton Town",
         "away_team": "Hemel Hempst",
         "score": "0 - 0",
@@ -179903,86 +175940,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Harrogate",
-        "away_team": "FC Halifax Town",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Lincoln City",
         "away_team": "Guiseley",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Aldershot Town",
-        "away_team": "Eastbourne Bor",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Barrow",
-        "away_team": "Tranmere Rovers",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chesham United",
-        "away_team": "Potters Bar",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Alfreton Town",
-        "away_team": "Gateshead",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dagenham & Redbridge",
-        "away_team": "Wealdstone",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Southport",
-        "away_team": "Chester",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Welling United",
-        "away_team": "Whitehawk",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Harrow Borough",
-        "away_team": "Margate",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Beaconsfield",
-        "away_team": "Brackley Town",
-        "score": "0 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "York City",
-        "away_team": "Curzon Ashton",
-        "score": "1 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -184362,13 +180322,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Curzon Ashton",
-        "away_team": "York City",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Eibar",
         "away_team": "Osasuna",
         "score": "2 - 3",
@@ -184715,27 +180668,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Norwich City U23",
-        "away_team": "West Bromwich Albion U23",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Swansea City U23",
-        "away_team": "Fulham U23",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Aston Villa U23",
-        "away_team": "West Ham United U23",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Sporting CP",
         "away_team": "Dortmund",
         "score": "1 - 2",
@@ -184838,34 +180770,6 @@
             "17’'",
             "41’'"
         ]
-    },
-    {
-        "home_team": "Margate",
-        "away_team": "Harrow Borough",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guiseley",
-        "away_team": "Lincoln City",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Woking",
-        "away_team": "Torquay United",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wrexham",
-        "away_team": "Stamford",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Delhi Dynamos",
@@ -185076,13 +180980,6 @@
         "away_goals_minutes": [
             "55’'"
         ]
-    },
-    {
-        "home_team": "Gateshead",
-        "away_team": "Alfreton Town",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Universitario de Sucre",
@@ -186452,13 +182349,6 @@
         "away_goals_minutes": [
             "90+2’'"
         ]
-    },
-    {
-        "home_team": "Middlesbrough U23",
-        "away_team": "West Ham United U23",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Bournemouth",
@@ -188861,13 +184751,6 @@
         ]
     },
     {
-        "home_team": "Stoke City U23",
-        "away_team": "Brighton & Hove Albion U23",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Osnabrück U19",
         "away_team": "Dresden U19",
         "score": "0 - 0",
@@ -190679,15 +186562,6 @@
         ]
     },
     {
-        "home_team": "Rampla Juniors",
-        "away_team": "Peñarol",
-        "score": "1* - 0",
-        "home_goals_minutes": [
-            "38’'"
-        ],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Ureña",
         "away_team": "Deportivo Anzoátegui",
         "score": "1 - 5",
@@ -191488,34 +187362,6 @@
             "38’'",
             "64’'"
         ]
-    },
-    {
-        "home_team": "Aston Villa U23",
-        "away_team": "Swansea City U23",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "West Bromwich Albion U23",
-        "away_team": "Blackburn Rovers U23",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Norwich City U23",
-        "away_team": "Wolverhampton Wanderers U23",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fulham U23",
-        "away_team": "Newcastle United U23",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Romania",
@@ -198876,48 +194722,6 @@
         ]
     },
     {
-        "home_team": "Newcastle United U23",
-        "away_team": "Middlesbrough U23",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brighton & Hove Albion U23",
-        "away_team": "Norwich City U23",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Aston Villa U23",
-        "away_team": "Blackburn Rovers U23",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "West Ham United U23",
-        "away_team": "West Bromwich Albion U23",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wolverhampton Wanderers U23",
-        "away_team": "Fulham U23",
-        "score": "4 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Swansea City U23",
-        "away_team": "Stoke City U23",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Manchester City",
         "away_team": "Barcelona",
         "score": "3 - 1",
@@ -201531,16 +197335,6 @@
             "66’'",
             "69’'",
             "76’'"
-        ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Essen",
-        "away_team": "Freiburg",
-        "score": "1 - 0",
-        "home_goals_minutes": [
-            "38’'",
-            "38’'"
         ],
         "away_goals_minutes": []
     },
@@ -205481,15 +201275,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Tahiti",
-        "away_team": "Solomon Islands",
-        "score": "3* - 0",
-        "home_goals_minutes": [
-            "53’'"
-        ],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Uganda",
         "away_team": "Zambia",
         "score": "0 - 1",
@@ -206175,55 +201960,6 @@
             "63’'",
             "78’'"
         ]
-    },
-    {
-        "home_team": "Plouzané",
-        "away_team": "Granville",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Montois",
-        "away_team": "Niort",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Compiègne",
-        "away_team": "Sedan Ardennes",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Étaples",
-        "away_team": "Valenciennes",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Romorantin",
-        "away_team": "Blois Foot 41",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Steenvoorde",
-        "away_team": "US Maubeuge",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sarrebourg",
-        "away_team": "Troyes",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Adelaide United",
@@ -206940,62 +202676,6 @@
         ]
     },
     {
-        "home_team": "Club Colonial",
-        "away_team": "SC Feignies",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Avranches MSM",
-        "away_team": "AS Dragon",
-        "score": "9 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "ASM Belfort",
-        "away_team": "Phare du Canal",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Tarbes",
-        "away_team": "Golden Lion",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Côte Chaude",
-        "away_team": "Athlético MS",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Avoine",
-        "away_team": "AS Excelsior",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rodez Aveyron",
-        "away_team": "FC Mtsapéré",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "US Oberlauterbach-Eberbach",
-        "away_team": "Strasbourg",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Palavas",
         "away_team": "Toulouse Rodéo",
         "score": "0 - 0",
@@ -207003,282 +202683,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Mulhouse",
-        "away_team": "Matoury",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ploufragan",
-        "away_team": "Vannes OC",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "AS Magenta",
-        "away_team": "Pau FC",
-        "score": "1 - 7",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ytrac Foot",
-        "away_team": "Clermont Foot",
-        "score": "0 - 6",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pontarlier",
-        "away_team": "Sochaux",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Vendée Poiré",
-        "away_team": "Le Mée",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Amiens",
-        "away_team": "Chambly Oise",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "TA Rennes",
-        "away_team": "GSI Pontivy",
-        "score": "2 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Istres",
-        "away_team": "Nîmes",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Viry-Châtillon",
-        "away_team": "SU Divaise",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Le Geldar",
-        "away_team": "IS-Selongey",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Erstein",
-        "away_team": "Épinal",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Blagnac",
-        "away_team": "Béziers",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bords-de-Saône",
-        "away_team": "Gazélec Ajaccio",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "FC Soleil Bischheim",
-        "away_team": "Sarreguemines",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Laval",
-        "away_team": "US Concarneau",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saint Priest",
-        "away_team": "Rhône Vallées",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cluses-Scionz",
-        "away_team": "Borgo",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Le Mans",
-        "away_team": "Beauvais-Oise",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Challans",
-        "away_team": "ASPTT",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Locminé",
-        "away_team": "Vitré",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saint-Sernin",
-        "away_team": "Auxerre",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stade Poitevin",
-        "away_team": "Châteauroux",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Genêts Anglets",
-        "away_team": "St Liguare",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Roye-Noyon",
-        "away_team": "APM Metz",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Grand-Quevilly",
-        "away_team": "Le Havre",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Étoile FC FSR",
-        "away_team": "Bourg-Péronnas",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saint-Omer",
-        "away_team": "IC Croix",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Les Herbiers",
-        "away_team": "Orléans",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Balma",
-        "away_team": "Luc-Primaube",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Volvic",
-        "away_team": "Alès OL",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sables Olonne",
-        "away_team": "Sénart-Moissy",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "ASPTT Brest",
-        "away_team": "Brest",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "C. Franciscain",
         "away_team": "Lunéville",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pouzauges",
-        "away_team": "Champigny",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "JA Biarritz",
-        "away_team": "FC Bassin",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ol. Marcquois",
-        "away_team": "Lens",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "AS Aixoise",
-        "away_team": "Ajaccio",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Vaulx-en-Velin",
-        "away_team": "Hyères FC",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "CS Moulien",
-        "away_team": "FC Fleury 91",
-        "score": "0 - 3",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -208197,34 +203604,6 @@
         ]
     },
     {
-        "home_team": "Chaumont",
-        "away_team": "Andrézieux",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "OS Marcellin",
-        "away_team": "FC Rousse",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "EC Ornain",
-        "away_team": "Jarville JF",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ernéenne Foot",
-        "away_team": "Blanc-Mesnil",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Le Cendre",
         "away_team": "Thiers",
         "score": "0 - 0",
@@ -208232,184 +203611,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Bobigny",
-        "away_team": "Quevilly-Rouen",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "SA Sézanne",
-        "away_team": "Louhans",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stade Portel",
-        "away_team": "CS Avion",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ht Lyonnais",
-        "away_team": "Yzeure",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Claye-Souilly",
-        "away_team": "ESC Longueau",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kaysersberg",
-        "away_team": "Dahlenheim",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "SJ D'Ardière",
-        "away_team": "Savigneux Mont",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Homécourt",
-        "away_team": "Px-Mézières",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "US Saint-Maximin",
-        "away_team": "Reims",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Villeneuve",
-        "away_team": "US Boulogne",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "AS Misérieux",
         "away_team": "Grenoble Foot",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "UA Niort",
-        "away_team": "Limoges",
-        "score": "0 - 6",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saint-Amand",
-        "away_team": "Wasquehal Foot",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "US Chauny",
-        "away_team": "JA Drancy",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pontivy",
-        "away_team": "Stade Briochin",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guipavas",
-        "away_team": "Montagnarde",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bonchamp",
-        "away_team": "Alençon",
-        "score": "1 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Frontignan",
-        "away_team": "Paulhan",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saumur",
-        "away_team": "Tours",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "UF Mâcon",
-        "away_team": "Lyon-Duchère",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "RC Rannée-La Guerche-Drouges",
-        "away_team": "Vertou",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Besançon",
-        "away_team": "Haguenau",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "ES Parisienne",
-        "away_team": "Bastia-Borgo",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "St Pantaleon",
-        "away_team": "Bergerac",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sarre-Union",
-        "away_team": "Kronenbourg",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ol. Pavillais",
-        "away_team": "Red Star",
-        "score": "0 - 3",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -209329,13 +204533,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Universitario",
-        "away_team": "Alianza Lima",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Wolfsburg",
         "away_team": "Eskilstuna United",
         "score": "3 - 0",
@@ -210150,13 +205347,6 @@
             "73’'",
             "86’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Middlesbrough U23",
-        "away_team": "Fulham U23",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -213630,16 +208820,6 @@
         ]
     },
     {
-        "home_team": "Real Garcilaso",
-        "away_team": "Universidad César Vallejo",
-        "score": "0 - 3*",
-        "home_goals_minutes": [
-            "21’'",
-            "83’'"
-        ],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Alianza Atlético",
         "away_team": "Alianza Lima",
         "score": "4 - 0",
@@ -214393,34 +209573,6 @@
             "43’'",
             "61’'"
         ]
-    },
-    {
-        "home_team": "Newcastle United U23",
-        "away_team": "West Bromwich Albion U23",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Aston Villa U23",
-        "away_team": "Norwich City U23",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Swansea City U23",
-        "away_team": "Brighton & Hove Albion U23",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "West Ham United U23",
-        "away_team": "Blackburn Rovers U23",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Antigua and Barbuda",
@@ -218749,13 +213901,6 @@
         ]
     },
     {
-        "home_team": "Stoke City U23",
-        "away_team": "Aston Villa U23",
-        "score": "2 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Kiel U19",
         "away_team": "Dresden U19",
         "score": "1 - 2",
@@ -220288,13 +215433,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Tochigi SC",
-        "away_team": "Zweigen Kanazawa",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Matsumoto Yamaga",
         "away_team": "Fagiano Okayama",
         "score": "1 - 2",
@@ -220316,13 +215454,6 @@
         "away_goals_minutes": [
             "90’'"
         ]
-    },
-    {
-        "home_team": "Tochigi SC",
-        "away_team": "Zweigen Kanazawa",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Bayern U19",
@@ -220548,13 +215679,6 @@
             "39’'",
             "76’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Peñarol",
-        "away_team": "Nacional",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -220937,37 +216061,9 @@
         ]
     },
     {
-        "home_team": "Norwich City U23",
-        "away_team": "Swansea City U23",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "West Bromwich Albion U23",
         "away_team": "Middlesbrough U23",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Blackburn Rovers U23",
-        "away_team": "Newcastle United U23",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fulham U23",
-        "away_team": "West Ham United U23",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brighton & Hove Albion U23",
-        "away_team": "Wolverhampton Wanderers U23",
-        "score": "2 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -222082,13 +217178,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Atlético Nacional",
-        "away_team": "Chapecoense",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Queens Park Rangers",
         "away_team": "Wolverhampton Wanderers",
         "score": "1 - 2",
@@ -222600,13 +217689,6 @@
             "59’'",
             "81’'"
         ]
-    },
-    {
-        "home_team": "Limoges",
-        "away_team": "Les Herbiers",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Quilmes",
@@ -223735,107 +218817,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Px-Mézières",
-        "away_team": "US Maubeuge",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Villeneuve",
-        "away_team": "Reims",
-        "score": "0 - 7",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Épinal",
-        "away_team": "Sedan Ardennes",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cluses-Scionz",
-        "away_team": "Auxerre",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sarre-Union",
-        "away_team": "Strasbourg",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "ASPTT",
-        "away_team": "Laval",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Athlético MS",
-        "away_team": "Hyères FC",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Stade Briochin",
         "away_team": "Châteauroux",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Viry-Châtillon",
-        "away_team": "ASM Belfort",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pontarlier",
-        "away_team": "Grenoble Foot",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kaysersberg",
-        "away_team": "SC Feignies",
-        "score": "0 - 9",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Andrézieux",
-        "away_team": "Louhans",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Istres",
-        "away_team": "Rodez Aveyron",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ernéenne Foot",
-        "away_team": "Quevilly-Rouen",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sarreguemines",
-        "away_team": "Valenciennes",
-        "score": "2 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -223847,93 +218831,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Le Mans",
-        "away_team": "Chambly Oise",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ste-Geneviève",
-        "away_team": "Roye-Noyon",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Ht Lyonnais",
         "away_team": "IS-Selongey",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "GSI Pontivy",
-        "away_team": "Brest",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lunéville",
-        "away_team": "Jarville JF",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Alès OL",
-        "away_team": "Gazélec Ajaccio",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "ESC Longueau",
-        "away_team": "IC Croix",
-        "score": "0 - 7",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Vannes OC",
-        "away_team": "Avranches MSM",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Montagnarde",
-        "away_team": "Granville",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Balma",
-        "away_team": "Bergerac",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "SJ D'Ardière",
-        "away_team": "Besançon",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rhône Vallées",
-        "away_team": "Clermont Foot",
-        "score": "0 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stade Portel",
-        "away_team": "Ajaccio",
-        "score": "0 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -225584,104 +220484,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "OS Marcellin",
-        "away_team": "Troyes",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "JA Biarritz",
-        "away_team": "Sables Olonne",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "FC Fleury 91",
-        "away_team": "Lyon-Duchère",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wasquehal Foot",
-        "away_team": "Lens",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Frontignan",
-        "away_team": "Bastia-Borgo",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saumur",
-        "away_team": "Vendée Poiré",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pouzauges",
-        "away_team": "Toulouse Rodéo",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Blagnac",
-        "away_team": "Red Star",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pau FC",
-        "away_team": "Tarbes",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Alençon",
-        "away_team": "JA Drancy",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "RC Rannée-La Guerche-Drouges",
-        "away_team": "Blois Foot 41",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Le Cendre",
-        "away_team": "Étoile FC FSR",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Locminé",
-        "away_team": "Le Havre",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "AS Excelsior",
-        "away_team": "Mulhouse",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Unión",
         "away_team": "Rosario Central",
         "score": "2 - 0",
@@ -226681,26 +221483,12 @@
         ]
     },
     {
-        "home_team": "Zweigen Kanazawa",
-        "away_team": "Tochigi SC",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Cerezo Osaka",
         "away_team": "Fagiano Okayama",
         "score": "1 - 0",
         "home_goals_minutes": [
             "52’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Zweigen Kanazawa",
-        "away_team": "Tochigi SC",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -227515,13 +222303,6 @@
         "away_goals_minutes": [
             "68’'"
         ]
-    },
-    {
-        "home_team": "Chapecoense",
-        "away_team": "Atlético Nacional",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Braga",
@@ -231414,13 +226195,6 @@
         ]
     },
     {
-        "home_team": "Chapecoense",
-        "away_team": "Atlético Mineiro",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Lokomotiv Gorna Oryahovitsa",
         "away_team": "CSKA Sofia",
         "score": "0 - 0",
@@ -232326,48 +227100,6 @@
             "4’'",
             "73’'"
         ]
-    },
-    {
-        "home_team": "Fulham U23",
-        "away_team": "Brighton & Hove Albion U23",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "West Ham United U23",
-        "away_team": "Swansea City U23",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Newcastle United U23",
-        "away_team": "Aston Villa U23",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "West Bromwich Albion U23",
-        "away_team": "Wolverhampton Wanderers U23",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Blackburn Rovers U23",
-        "away_team": "Stoke City U23",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Middlesbrough U23",
-        "away_team": "Norwich City U23",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Everton",
@@ -233670,13 +228402,6 @@
             "49’'",
             "62’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stoke City U23",
-        "away_team": "Newcastle United U23",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -236306,16 +231031,6 @@
         ]
     },
     {
-        "home_team": "Târgu Mureș",
-        "away_team": "Pandurii Târgu Jiu",
-        "score": "3 - 0",
-        "home_goals_minutes": [
-            "19’'",
-            "36’'"
-        ],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Politehnica Iași",
         "away_team": "Dinamo București",
         "score": "3 - 1",
@@ -236709,41 +231424,6 @@
         "away_goals_minutes": [
             "72’'"
         ]
-    },
-    {
-        "home_team": "Norwich City U23",
-        "away_team": "Blackburn Rovers U23",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Aston Villa U23",
-        "away_team": "Fulham U23",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wolverhampton Wanderers U23",
-        "away_team": "West Ham United U23",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Swansea City U23",
-        "away_team": "Middlesbrough U23",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brighton & Hove Albion U23",
-        "away_team": "West Bromwich Albion U23",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Belgium",

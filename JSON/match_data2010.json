@@ -679,13 +679,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Ghana",
-        "away_team": "Togo",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Manchester City",
         "away_team": "Blackburn Rovers",
         "score": "4 - 1",
@@ -788,13 +781,6 @@
             "48’'",
             "54’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Burkina Faso",
-        "away_team": "Togo",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -1528,13 +1514,6 @@
         "away_goals_minutes": [
             "30’'"
         ]
-    },
-    {
-        "home_team": "Côte d'Ivoire",
-        "away_team": "Togo",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Saint-Étienne",
@@ -17538,13 +17517,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Santa Coloma",
-        "away_team": "Birkirkara FC",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "S.P. Tre Fiori",
         "away_team": "FK Rudar Pljevlja",
         "score": "0 - 3",
@@ -18841,16 +18813,6 @@
         ]
     },
     {
-        "home_team": "FC Atyrau",
-        "away_team": "Győr",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": [
-            "26’'",
-            "88’'"
-        ]
-    },
-    {
         "home_team": "Elfsborg",
         "away_team": "FC Iskra-Stal",
         "score": "2 - 1",
@@ -19087,18 +19049,6 @@
         "away_goals_minutes": [
             "14’'",
             "23’'"
-        ]
-    },
-    {
-        "home_team": "FC Baku",
-        "away_team": "Budućnost Podgorica",
-        "score": "0 - 3*",
-        "home_goals_minutes": [
-            "77’'",
-            "90+3’'"
-        ],
-        "away_goals_minutes": [
-            "38’'"
         ]
     },
     {
@@ -19444,17 +19394,6 @@
         ],
         "away_goals_minutes": [
             "71’'"
-        ]
-    },
-    {
-        "home_team": "Budućnost Podgorica",
-        "away_team": "FC Baku",
-        "score": "1 - 2",
-        "home_goals_minutes": [
-            "64’'"
-        ],
-        "away_goals_minutes": [
-            "42’'"
         ]
     },
     {
@@ -30464,13 +30403,6 @@
         ]
     },
     {
-        "home_team": "Italy",
-        "away_team": "Serbia",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "France",
         "away_team": "Luxembourg",
         "score": "2 - 0",
@@ -31250,19 +31182,6 @@
             "28’'",
             "62’'"
         ]
-    },
-    {
-        "home_team": "Arsenal",
-        "away_team": "Shakhtar Donetsk",
-        "score": "5 - 1",
-        "home_goals_minutes": [
-            "19’'",
-            "42’'",
-            "60’'",
-            "66’'",
-            "69’'"
-        ],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Marseille",
@@ -33517,17 +33436,6 @@
         ],
         "away_goals_minutes": [
             "86’'"
-        ]
-    },
-    {
-        "home_team": "Shakhtar Donetsk",
-        "away_team": "Arsenal",
-        "score": "2 - 1",
-        "home_goals_minutes": [
-            "28’'"
-        ],
-        "away_goals_minutes": [
-            "10’'"
         ]
     },
     {
@@ -36333,16 +36241,6 @@
             "90+3’'"
         ],
         "away_goals_minutes": []
-    },
-    {
-        "home_team": "Partizan",
-        "away_team": "Shakhtar Donetsk",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": [
-            "52’'",
-            "59’'"
-        ]
     },
     {
         "home_team": "Spartak Moscow",

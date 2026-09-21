@@ -9595,20 +9595,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Bolivia",
-        "away_team": "Chile",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Argentina",
-        "away_team": "Ecuador",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Paraguay",
         "away_team": "Brazil",
         "score": "0 - 0",
@@ -9639,20 +9625,6 @@
             "46’'",
             "48’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Uruguay",
-        "away_team": "Venezuela",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Peru",
-        "away_team": "Colombia",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -16082,41 +16054,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Bolivia",
-        "away_team": "Paraguay",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Venezuela",
-        "away_team": "Chile",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Uruguay",
-        "away_team": "Peru",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ecuador",
-        "away_team": "Colombia",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brazil",
-        "away_team": "Argentina",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Kansas City Wizards",
         "away_team": "New England Revolution",
         "score": "2 - 3",
@@ -16131,72 +16068,9 @@
         ]
     },
     {
-        "home_team": "South Africa",
-        "away_team": "Cape Verde",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Malawi",
-        "away_team": "Morocco",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Zambia",
-        "away_team": "Togo",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gabon",
-        "away_team": "Zimbabwe",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Nigeria",
-        "away_team": "Rwanda",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Senegal",
-        "away_team": "Congo",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Burkina Faso",
-        "away_team": "Ghana",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Tunisia",
-        "away_team": "Botswana",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Algeria",
         "away_team": "Angola",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ecuador",
-        "away_team": "Bolivia",
-        "score": "3 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -16234,41 +16108,6 @@
         ]
     },
     {
-        "home_team": "Cameroon",
-        "away_team": "Benin",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Uganda",
-        "away_team": "Congo DR",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Liberia",
-        "away_team": "Mali",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Côte d'Ivoire",
-        "away_team": "Libya",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sudan",
-        "away_team": "Egypt",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Argentina",
         "away_team": "Paraguay",
         "score": "0 - 0",
@@ -16279,20 +16118,6 @@
         "home_team": "Peru",
         "away_team": "Venezuela",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Colombia",
-        "away_team": "Uruguay",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chile",
-        "away_team": "Brazil",
-        "score": "1 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -16875,34 +16700,6 @@
         ]
     },
     {
-        "home_team": "Botswana",
-        "away_team": "Malawi",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rwanda",
-        "away_team": "Gabon",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cape Verde",
-        "away_team": "Uganda",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mali",
-        "away_team": "Zambia",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Dominica",
         "away_team": "Mexico",
         "score": "0 - 10",
@@ -17026,69 +16823,6 @@
         "away_goals_minutes": [
             "57’'"
         ]
-    },
-    {
-        "home_team": "Ghana",
-        "away_team": "South Africa",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Zimbabwe",
-        "away_team": "Algeria",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Congo",
-        "away_team": "Liberia",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Congo DR",
-        "away_team": "Burkina Faso",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Angola",
-        "away_team": "Nigeria",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Benin",
-        "away_team": "Sudan",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Togo",
-        "away_team": "Senegal",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guinea",
-        "away_team": "Tunisia",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Egypt",
-        "away_team": "Côte d'Ivoire",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Costa Rica",
@@ -17423,76 +17157,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Botswana",
-        "away_team": "Morocco",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Malawi",
-        "away_team": "Guinea",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "South Africa",
-        "away_team": "Burkina Faso",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cape Verde",
-        "away_team": "Congo DR",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gabon",
-        "away_team": "Angola",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Nigeria",
-        "away_team": "Algeria",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rwanda",
-        "away_team": "Zimbabwe",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Senegal",
-        "away_team": "Zambia",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Uganda",
-        "away_team": "Ghana",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sudan",
-        "away_team": "Libya",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "D.C. United",
         "away_team": "MetroStars",
         "score": "6 - 2",
@@ -17544,30 +17208,9 @@
         ]
     },
     {
-        "home_team": "Cameroon",
-        "away_team": "Côte d'Ivoire",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Congo",
-        "away_team": "Mali",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Liberia",
         "away_team": "Togo",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Benin",
-        "away_team": "Egypt",
-        "score": "3 - 3",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -19555,18 +19198,6 @@
         "away_goals_minutes": [
             "22’'",
             "78’'"
-        ]
-    },
-    {
-        "home_team": "PAOK",
-        "away_team": "Maccabi Tel Aviv",
-        "score": "0 - 3*",
-        "home_goals_minutes": [
-            "50’'"
-        ],
-        "away_goals_minutes": [
-            "12’'",
-            "42’'"
         ]
     },
     {
@@ -22685,41 +22316,6 @@
         ]
     },
     {
-        "home_team": "Libya",
-        "away_team": "Benin",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Zambia",
-        "away_team": "Liberia",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kenya",
-        "away_team": "Malawi",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Burkina Faso",
-        "away_team": "Uganda",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Morocco",
-        "away_team": "Tunisia",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "United States",
         "away_team": "El Salvador",
         "score": "2 - 0",
@@ -22763,13 +22359,6 @@
             "45’'",
             "89’'"
         ]
-    },
-    {
-        "home_team": "Peru",
-        "away_team": "Argentina",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Northern Ireland",
@@ -23069,76 +22658,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Ghana",
-        "away_team": "Cape Verde",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Zimbabwe",
-        "away_team": "Nigeria",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Congo DR",
-        "away_team": "South Africa",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Angola",
-        "away_team": "Rwanda",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Togo",
-        "away_team": "Congo",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Côte d'Ivoire",
-        "away_team": "Sudan",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guinea",
-        "away_team": "Botswana",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mali",
-        "away_team": "Senegal",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Egypt",
-        "away_team": "Cameroon",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Algeria",
-        "away_team": "Gabon",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Guatemala",
         "away_team": "Costa Rica",
         "score": "2 - 1",
@@ -23149,27 +22668,6 @@
         "away_goals_minutes": [
             "24’'"
         ]
-    },
-    {
-        "home_team": "Uruguay",
-        "away_team": "Ecuador",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brazil",
-        "away_team": "Bolivia",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Paraguay",
-        "away_team": "Venezuela",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Chile",
@@ -24544,15 +24042,6 @@
             "29’'",
             "46’'",
             "76’'"
-        ]
-    },
-    {
-        "home_team": "Roma",
-        "away_team": "Dynamo Kyiv",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": [
-            "29’'"
         ]
     },
     {
@@ -28410,55 +27899,6 @@
         ]
     },
     {
-        "home_team": "Libya",
-        "away_team": "Egypt",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Malawi",
-        "away_team": "Tunisia",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cape Verde",
-        "away_team": "Burkina Faso",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Botswana",
-        "away_team": "Kenya",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rwanda",
-        "away_team": "Algeria",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gabon",
-        "away_team": "Nigeria",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sudan",
-        "away_team": "Cameroon",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Honduras",
         "away_team": "Canada",
         "score": "1 - 1",
@@ -28502,34 +27942,6 @@
         "away_goals_minutes": [
             "75’'"
         ]
-    },
-    {
-        "home_team": "Argentina",
-        "away_team": "Uruguay",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bolivia",
-        "away_team": "Peru",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Colombia",
-        "away_team": "Paraguay",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Venezuela",
-        "away_team": "Brazil",
-        "score": "2 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "England",
@@ -28754,13 +28166,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Slovenia",
-        "away_team": "Italy",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Azerbaijan",
         "away_team": "Northern Ireland",
         "score": "0 - 0",
@@ -28835,55 +28240,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Angola",
-        "away_team": "Zimbabwe",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Congo",
-        "away_team": "Zambia",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Togo",
-        "away_team": "Mali",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Benin",
-        "away_team": "Côte d'Ivoire",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Liberia",
-        "away_team": "Senegal",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guinea",
-        "away_team": "Morocco",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Uganda",
-        "away_team": "South Africa",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Trinidad and Tobago",
         "away_team": "St. Kitts and Nevis",
         "score": "5 - 1",
@@ -28906,13 +28262,6 @@
         "away_goals_minutes": [
             "25’'"
         ]
-    },
-    {
-        "home_team": "Ecuador",
-        "away_team": "Chile",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Beira-Mar",
@@ -29013,13 +28362,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Paraguay",
-        "away_team": "Peru",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Chile",
         "away_team": "Argentina",
         "score": "0 - 0",
@@ -29068,13 +28410,6 @@
             "72’'",
             "79’'"
         ]
-    },
-    {
-        "home_team": "Iceland",
-        "away_team": "Sweden",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Norway",
@@ -29421,13 +28756,6 @@
             "5’'",
             "51’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Venezuela",
-        "away_team": "Ecuador",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -32578,21 +31906,6 @@
         ]
     },
     {
-        "home_team": "Dinamo Zagreb",
-        "away_team": "Beveren",
-        "score": "6 - 1",
-        "home_goals_minutes": [
-            "21’'",
-            "35’'",
-            "41’'",
-            "55’'",
-            "87’'"
-        ],
-        "away_goals_minutes": [
-            "81’'"
-        ]
-    },
-    {
         "home_team": "Heart of Midlothian",
         "away_team": "Schalke 04",
         "score": "0 - 1",
@@ -34318,13 +33631,6 @@
         ]
     },
     {
-        "home_team": "Kenya",
-        "away_team": "Guinea",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Honduras",
         "away_team": "Costa Rica",
         "score": "0 - 0",
@@ -34388,41 +33694,6 @@
             "67’'",
             "78’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ecuador",
-        "away_team": "Brazil",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Colombia",
-        "away_team": "Bolivia",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Uruguay",
-        "away_team": "Paraguay",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Peru",
-        "away_team": "Chile",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Argentina",
-        "away_team": "Venezuela",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {

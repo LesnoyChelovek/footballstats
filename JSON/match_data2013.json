@@ -8909,20 +8909,6 @@
         ]
     },
     {
-        "home_team": "Colombia",
-        "away_team": "Bolivia",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Uruguay",
-        "away_team": "Paraguay",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Argentina",
         "away_team": "Venezuela",
         "score": "3 - 0",
@@ -8940,13 +8926,6 @@
         "home_goals_minutes": [
             "87’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "New Zealand",
-        "away_team": "New Caledonia",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -9545,22 +9524,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Equatorial Guinea",
-        "away_team": "Cape Verde",
-        "score": "0 - 3*",
-        "home_goals_minutes": [
-            "3’'",
-            "16’'",
-            "78’'",
-            "87’'"
-        ],
-        "away_goals_minutes": [
-            "5’'",
-            "18’'",
-            "84’'"
-        ]
-    },
-    {
         "home_team": "Chicago Fire",
         "away_team": "Chivas USA",
         "score": "1 - 4",
@@ -9636,41 +9599,6 @@
         "away_goals_minutes": [
             "44’'"
         ]
-    },
-    {
-        "home_team": "Ecuador",
-        "away_team": "Paraguay",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chile",
-        "away_team": "Uruguay",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Venezuela",
-        "away_team": "Colombia",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Solomon Islands",
-        "away_team": "New Zealand",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "New Caledonia",
-        "away_team": "Tahiti",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Estonia",
@@ -18052,23 +17980,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Bolivia",
-        "away_team": "Venezuela",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Argentina",
         "away_team": "Colombia",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Paraguay",
-        "away_team": "Chile",
-        "score": "1 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -18265,18 +18179,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Botswana",
-        "away_team": "Ethiopia",
-        "score": "3* - 0",
-        "home_goals_minutes": [
-            "76’'"
-        ],
-        "away_goals_minutes": [
-            "34’'",
-            "46’'"
-        ]
-    },
-    {
         "home_team": "Central African Republic",
         "away_team": "South Africa",
         "score": "0 - 3",
@@ -18336,18 +18238,6 @@
         "away_goals_minutes": [
             "55’'",
             "89’'"
-        ]
-    },
-    {
-        "home_team": "Cape Verde",
-        "away_team": "Equatorial Guinea",
-        "score": "3* - 0",
-        "home_goals_minutes": [
-            "17’'",
-            "52’'"
-        ],
-        "away_goals_minutes": [
-            "54’'"
         ]
     },
     {
@@ -18443,16 +18333,6 @@
             "76’'",
             "83’'"
         ]
-    },
-    {
-        "home_team": "Togo",
-        "away_team": "Cameroon",
-        "score": "0 - 3*",
-        "home_goals_minutes": [
-            "31’'",
-            "71’'"
-        ],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Benin",
@@ -18568,20 +18448,6 @@
         "away_goals_minutes": [
             "4’'"
         ]
-    },
-    {
-        "home_team": "Venezuela",
-        "away_team": "Uruguay",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chile",
-        "away_team": "Bolivia",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Sweden",
@@ -24045,16 +23911,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Nantes",
-        "away_team": "Bastia",
-        "score": "0 - 0",
-        "home_goals_minutes": [
-            "23’'",
-            "90’'"
-        ],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Bordeaux",
         "away_team": "Monaco",
         "score": "0 - 2",
@@ -24897,27 +24753,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Kardemir Karabükspor",
-        "away_team": "Kasımpaşa",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rizespor",
-        "away_team": "Gençlerbirliği",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Konyaspor",
-        "away_team": "Fenerbahçe",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Crystal Palace",
         "away_team": "Tottenham Hotspur",
         "score": "0 - 1",
@@ -25197,27 +25032,6 @@
         ]
     },
     {
-        "home_team": "Eskişehirspor",
-        "away_team": "Bursaspor",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Akhisar Belediyespor",
-        "away_team": "Elazığspor",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Beşiktaş",
-        "away_team": "Trabzonspor",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Manchester City",
         "away_team": "Newcastle United",
         "score": "4 - 0",
@@ -25266,20 +25080,6 @@
             "83’'",
             "85’'"
         ]
-    },
-    {
-        "home_team": "Kayserispor",
-        "away_team": "Sivasspor",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Galatasaray",
-        "away_team": "Gaziantepspor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Shakhter Karagandy",
@@ -25849,13 +25649,6 @@
         ]
     },
     {
-        "home_team": "Gençlerbirliği",
-        "away_team": "Akhisar Belediyespor",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Stoke City",
         "away_team": "Crystal Palace",
         "score": "2 - 1",
@@ -26055,62 +25848,6 @@
         "home_team": "Spezia",
         "away_team": "Cittadella",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Empoli",
-        "away_team": "Latina",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brescia",
-        "away_team": "Virtus Lanciano",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Avellino",
-        "away_team": "Novara",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ternana",
-        "away_team": "Carpi",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Padova",
-        "away_team": "Trapani",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Modena",
-        "away_team": "Palermo",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Siena",
-        "away_team": "Crotone",
-        "score": "5 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pescara",
-        "away_team": "Juve Stabia",
-        "score": "3 - 0",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -26323,20 +26060,6 @@
             "54’'",
             "56’'"
         ]
-    },
-    {
-        "home_team": "Kasımpaşa",
-        "away_team": "Kayserispor",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fenerbahçe",
-        "away_team": "Eskişehirspor",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Gaziantepspor",
@@ -26673,27 +26396,6 @@
         ]
     },
     {
-        "home_team": "Elazığspor",
-        "away_team": "Kardemir Karabükspor",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sivasspor",
-        "away_team": "Konyaspor",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bursaspor",
-        "away_team": "Galatasaray",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Manchester United",
         "away_team": "Chelsea",
         "score": "0 - 0",
@@ -26722,13 +26424,6 @@
         ]
     },
     {
-        "home_team": "Cesena",
-        "away_team": "Varese",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Braga",
         "away_team": "Belenenses",
         "score": "2 - 1",
@@ -26739,20 +26434,6 @@
         "away_goals_minutes": [
             "75’'"
         ]
-    },
-    {
-        "home_team": "Trabzonspor",
-        "away_team": "Rizespor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kayseri Erciyesspor",
-        "away_team": "Beşiktaş",
-        "score": "2 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Basel",
@@ -27290,13 +26971,6 @@
         ]
     },
     {
-        "home_team": "Konyaspor",
-        "away_team": "Kasımpaşa",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Eskişehirspor",
         "away_team": "Galatasaray",
         "score": "0 - 0",
@@ -27490,65 +27164,9 @@
         ]
     },
     {
-        "home_team": "Novara",
-        "away_team": "Siena",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Crotone",
-        "away_team": "Cesena",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Palermo",
-        "away_team": "Empoli",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Virtus Lanciano",
-        "away_team": "Reggina",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Juve Stabia",
-        "away_team": "Spezia",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Latina",
-        "away_team": "Avellino",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Bari",
         "away_team": "Brescia",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Varese",
-        "away_team": "Modena",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cittadella",
-        "away_team": "Ternana",
-        "score": "2 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -27742,27 +27360,6 @@
             "59’'",
             "67’'"
         ]
-    },
-    {
-        "home_team": "Kayserispor",
-        "away_team": "Elazığspor",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fenerbahçe",
-        "away_team": "Sivasspor",
-        "score": "5 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Antalyaspor",
-        "away_team": "Bursaspor",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Arsenal",
@@ -28140,41 +27737,6 @@
         ]
     },
     {
-        "home_team": "Beşiktaş",
-        "away_team": "Gaziantepspor",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kardemir Karabükspor",
-        "away_team": "Gençlerbirliği",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rizespor",
-        "away_team": "Kayseri Erciyesspor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Akhisar Belediyespor",
-        "away_team": "Trabzonspor",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Trapani",
-        "away_team": "Pescara",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Estoril",
         "away_team": "Académica",
         "score": "1 - 1",
@@ -28245,27 +27807,6 @@
         "home_team": "Panama",
         "away_team": "Jamaica",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Colombia",
-        "away_team": "Ecuador",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Paraguay",
-        "away_team": "Bolivia",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chile",
-        "away_team": "Venezuela",
-        "score": "3 - 0",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -28628,20 +28169,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Angola",
-        "away_team": "Liberia",
-        "score": "3* - 0",
-        "home_goals_minutes": [
-            "2’'",
-            "48’'",
-            "61’'",
-            "64’'"
-        ],
-        "away_goals_minutes": [
-            "79’'"
-        ]
-    },
-    {
         "home_team": "Sierra Leone",
         "away_team": "Equatorial Guinea",
         "score": "3 - 2",
@@ -28690,16 +28217,6 @@
         ]
     },
     {
-        "home_team": "Tunisia",
-        "away_team": "Cape Verde",
-        "score": "3* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": [
-            "28’'",
-            "41’'"
-        ]
-    },
-    {
         "home_team": "Senegal",
         "away_team": "Uganda",
         "score": "1 - 0",
@@ -28718,20 +28235,6 @@
         "away_goals_minutes": [
             "61’'"
         ]
-    },
-    {
-        "home_team": "Spezia",
-        "away_team": "Carpi",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brescia",
-        "away_team": "Novara",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "LA Galaxy",
@@ -28853,69 +28356,6 @@
             "75’'",
             "77’'"
         ]
-    },
-    {
-        "home_team": "Latina",
-        "away_team": "Varese",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Empoli",
-        "away_team": "Trapani",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pescara",
-        "away_team": "Crotone",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cesena",
-        "away_team": "Virtus Lanciano",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Reggina",
-        "away_team": "Juve Stabia",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Modena",
-        "away_team": "Cittadella",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Siena",
-        "away_team": "Bari",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Avellino",
-        "away_team": "Ternana",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Padova",
-        "away_team": "Palermo",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Chivas USA",
@@ -29361,13 +28801,6 @@
         ]
     },
     {
-        "home_team": "Palermo",
-        "away_team": "Cesena",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Bordeaux",
         "away_team": "Paris Saint-Germain",
         "score": "0 - 2",
@@ -29385,13 +28818,6 @@
             "3’'",
             "38’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Galatasaray",
-        "away_team": "Antalyaspor",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -29633,65 +29059,9 @@
         ]
     },
     {
-        "home_team": "Juve Stabia",
-        "away_team": "Siena",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Cittadella",
         "away_team": "Latina",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Crotone",
-        "away_team": "Spezia",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Novara",
-        "away_team": "Padova",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Carpi",
-        "away_team": "Empoli",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bari",
-        "away_team": "Modena",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Virtus Lanciano",
-        "away_team": "Avellino",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Trapani",
-        "away_team": "Reggina",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Varese",
-        "away_team": "Pescara",
-        "score": "3 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -29913,27 +29283,6 @@
             "8’'",
             "27’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kayseri Erciyesspor",
-        "away_team": "Akhisar Belediyespor",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Trabzonspor",
-        "away_team": "Kardemir Karabükspor",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gaziantepspor",
-        "away_team": "Rizespor",
-        "score": "2 - 5",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -30232,34 +29581,6 @@
         ]
     },
     {
-        "home_team": "Sivasspor",
-        "away_team": "Eskişehirspor",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gençlerbirliği",
-        "away_team": "Kayserispor",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bursaspor",
-        "away_team": "Beşiktaş",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Elazığspor",
-        "away_team": "Konyaspor",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Swansea City",
         "away_team": "Liverpool",
         "score": "2 - 2",
@@ -30305,20 +29626,6 @@
             "70’'",
             "85’'"
         ]
-    },
-    {
-        "home_team": "Ternana",
-        "away_team": "Brescia",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kasımpaşa",
-        "away_team": "Fenerbahçe",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Galatasaray",
@@ -30793,13 +30100,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Spezia",
-        "away_team": "Palermo",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Saint-Étienne",
         "away_team": "Toulouse",
         "score": "1 - 2",
@@ -30840,13 +30140,6 @@
         "home_team": "Kardemir Karabükspor",
         "away_team": "Kayseri Erciyesspor",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Akhisar Belediyespor",
-        "away_team": "Gaziantepspor",
-        "score": "2 - 0",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -31061,69 +30354,6 @@
         "away_goals_minutes": [
             "1’'"
         ]
-    },
-    {
-        "home_team": "Pescara",
-        "away_team": "Bari",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Empoli",
-        "away_team": "Padova",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cittadella",
-        "away_team": "Juve Stabia",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Modena",
-        "away_team": "Trapani",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brescia",
-        "away_team": "Crotone",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cesena",
-        "away_team": "Carpi",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Avellino",
-        "away_team": "Varese",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Siena",
-        "away_team": "Ternana",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Reggina",
-        "away_team": "Novara",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Reims",
@@ -31341,55 +30571,6 @@
         "away_goals_minutes": [
             "71’'"
         ]
-    },
-    {
-        "home_team": "Sivasspor",
-        "away_team": "Kasımpaşa",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Konyaspor",
-        "away_team": "Gençlerbirliği",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fenerbahçe",
-        "away_team": "Elazığspor",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eskişehirspor",
-        "away_team": "Antalyaspor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mohammedan",
-        "away_team": "Pune",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Churchill Brothers",
-        "away_team": "Salgaocar",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mumbai FC",
-        "away_team": "Sporting Goa",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Manchester City",
@@ -31713,41 +30894,6 @@
         ]
     },
     {
-        "home_team": "Rizespor",
-        "away_team": "Bursaspor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Beşiktaş",
-        "away_team": "Galatasaray",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "United",
-        "away_team": "Rangdajied United",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bengaluru",
-        "away_team": "Mohun Bagan",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dempo",
-        "away_team": "Shillong Lajong",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Espanyol",
         "away_team": "Athletic Club",
         "score": "3 - 2",
@@ -31771,13 +30917,6 @@
         "away_goals_minutes": [
             "62’'"
         ]
-    },
-    {
-        "home_team": "Kayserispor",
-        "away_team": "Trabzonspor",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Levante",
@@ -31836,34 +30975,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Pescara",
-        "away_team": "Avellino",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Novara",
-        "away_team": "Cittadella",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Varese",
-        "away_team": "Reggina",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Crotone",
-        "away_team": "Modena",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Padova",
         "away_team": "Latina",
         "score": "0 - 0",
@@ -31881,34 +30992,6 @@
         "home_team": "Empoli",
         "away_team": "Siena",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Juve Stabia",
-        "away_team": "Virtus Lanciano",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bari",
-        "away_team": "Palermo",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ternana",
-        "away_team": "Spezia",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Trapani",
-        "away_team": "Cesena",
-        "score": "0 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -32460,65 +31543,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Reggina",
-        "away_team": "Carpi",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Latina",
-        "away_team": "Brescia",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Virtus Lanciano",
-        "away_team": "Bari",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Varese",
-        "away_team": "Ternana",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Palermo",
-        "away_team": "Juve Stabia",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cittadella",
-        "away_team": "Crotone",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Spezia",
         "away_team": "Novara",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Siena",
-        "away_team": "Trapani",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Modena",
-        "away_team": "Padova",
-        "score": "3 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -32769,20 +31796,6 @@
             "69’'",
             "89’'"
         ]
-    },
-    {
-        "home_team": "Gaziantepspor",
-        "away_team": "Kardemir Karabükspor",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Galatasaray",
-        "away_team": "Rizespor",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Churchill Brothers",
@@ -33089,55 +32102,6 @@
         ]
     },
     {
-        "home_team": "Trabzonspor",
-        "away_team": "Konyaspor",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Elazığspor",
-        "away_team": "Sivasspor",
-        "score": "2 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kasımpaşa",
-        "away_team": "Eskişehirspor",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gençlerbirliği",
-        "away_team": "Fenerbahçe",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "United",
-        "away_team": "Sporting Goa",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mumbai FC",
-        "away_team": "Dempo",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bengaluru",
-        "away_team": "Rangdajied United",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Shillong Lajong",
         "away_team": "Pune",
         "score": "0 - 0",
@@ -33182,20 +32146,6 @@
         ]
     },
     {
-        "home_team": "Avellino",
-        "away_team": "Empoli",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cesena",
-        "away_team": "Pescara",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Vitória Setúbal",
         "away_team": "Gil Vicente",
         "score": "2 - 2",
@@ -33207,20 +32157,6 @@
             "5’'",
             "58’'"
         ]
-    },
-    {
-        "home_team": "Kayseri Erciyesspor",
-        "away_team": "Kayserispor",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Antalyaspor",
-        "away_team": "Beşiktaş",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Arsenal",
@@ -33716,13 +32652,6 @@
         ]
     },
     {
-        "home_team": "Padova",
-        "away_team": "Varese",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Bastia",
         "away_team": "Lorient",
         "score": "4 - 1",
@@ -33773,20 +32702,6 @@
         "away_goals_minutes": [
             "80’'"
         ]
-    },
-    {
-        "home_team": "Kardemir Karabükspor",
-        "away_team": "Bursaspor",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rangdajied United",
-        "away_team": "Dempo",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Cardiff City",
@@ -33993,69 +32908,6 @@
         ]
     },
     {
-        "home_team": "Empoli",
-        "away_team": "Modena",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cesena",
-        "away_team": "Siena",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brescia",
-        "away_team": "Palermo",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Novara",
-        "away_team": "Virtus Lanciano",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pescara",
-        "away_team": "Spezia",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Trapani",
-        "away_team": "Latina",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ternana",
-        "away_team": "Juve Stabia",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Carpi",
-        "away_team": "Cittadella",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Avellino",
-        "away_team": "Bari",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Nantes",
         "away_team": "Evian",
         "score": "3 - 0",
@@ -34231,41 +33083,6 @@
             "11’'",
             "67’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kayserispor",
-        "away_team": "Gaziantepspor",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eskişehirspor",
-        "away_team": "Beşiktaş",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Konyaspor",
-        "away_team": "Kayseri Erciyesspor",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Churchill Brothers",
-        "away_team": "Mumbai FC",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Shillong Lajong",
-        "away_team": "Sporting Goa",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -34642,58 +33459,9 @@
         ]
     },
     {
-        "home_team": "Kasımpaşa",
-        "away_team": "Elazığspor",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Akhisar Belediyespor",
-        "away_team": "Galatasaray",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rizespor",
-        "away_team": "Antalyaspor",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sivasspor",
-        "away_team": "Gençlerbirliği",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Fenerbahçe",
         "away_team": "Trabzonspor",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Salgaocar",
-        "away_team": "Mohammedan",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bengaluru",
-        "away_team": "United",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Crotone",
-        "away_team": "Reggina",
-        "score": "2 - 0",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -34737,48 +33505,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Shillong Lajong",
-        "away_team": "East Bengal",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Salgaocar",
-        "away_team": "Dempo",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mumbai FC",
-        "away_team": "United",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bengaluru",
-        "away_team": "Mohammedan",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rangdajied United",
-        "away_team": "Churchill Brothers",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pune",
-        "away_team": "Mohun Bagan",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Honduras",
         "away_team": "Costa Rica",
         "score": "1 - 0",
@@ -34816,20 +33542,6 @@
         "home_goals_minutes": [
             "30’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Colombia",
-        "away_team": "Chile",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Venezuela",
-        "away_team": "Paraguay",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -35125,13 +33837,6 @@
         ]
     },
     {
-        "home_team": "Sydney FC",
-        "away_team": "Newcastle Jets",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Burkina Faso",
         "away_team": "Algeria",
         "score": "3 - 2",
@@ -35157,20 +33862,6 @@
         "away_goals_minutes": [
             "90+4’'"
         ]
-    },
-    {
-        "home_team": "Spezia",
-        "away_team": "Brescia",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Reggina",
-        "away_team": "Empoli",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "FC Dallas",
@@ -35205,13 +33896,6 @@
         "away_goals_minutes": [
             "90’'"
         ]
-    },
-    {
-        "home_team": "Central Coast Mariners",
-        "away_team": "Western Sydney Wanderers",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Melbourne Victory",
@@ -35254,34 +33938,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Cittadella",
-        "away_team": "Padova",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bari",
-        "away_team": "Crotone",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Virtus Lanciano",
-        "away_team": "Ternana",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Siena",
-        "away_team": "Avellino",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Latina",
         "away_team": "Modena",
         "score": "0 - 0",
@@ -35296,47 +33952,12 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Juve Stabia",
-        "away_team": "Cesena",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Palermo",
-        "away_team": "Pescara",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Portland Timbers",
         "away_team": "Seattle Sounders",
         "score": "1 - 0",
         "home_goals_minutes": [
             "45’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Adelaide United",
-        "away_team": "Perth Glory",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wellington Phoenix",
-        "away_team": "Brisbane Roar",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Carpi",
-        "away_team": "Novara",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -35850,13 +34471,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "East Bengal",
-        "away_team": "Dempo",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Hoffenheim",
         "away_team": "Bayer Leverkusen",
         "score": "1 - 2",
@@ -35876,13 +34490,6 @@
             "49’'",
             "71’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cesena",
-        "away_team": "Bari",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -35913,20 +34520,6 @@
         "home_goals_minutes": [
             "7’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Adelaide United",
-        "away_team": "Melbourne Victory",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mumbai FC",
-        "away_team": "Salgaocar",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -36149,69 +34742,6 @@
         ]
     },
     {
-        "home_team": "Ternana",
-        "away_team": "Novara",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Crotone",
-        "away_team": "Virtus Lanciano",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Empoli",
-        "away_team": "Varese",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Trapani",
-        "away_team": "Spezia",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pescara",
-        "away_team": "Latina",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Modena",
-        "away_team": "Reggina",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brescia",
-        "away_team": "Cittadella",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Avellino",
-        "away_team": "Carpi",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Padova",
-        "away_team": "Juve Stabia",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Ajaccio",
         "away_team": "Nantes",
         "score": "0 - 1",
@@ -36333,20 +34863,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Melbourne Heart",
-        "away_team": "Central Coast Mariners",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brisbane Roar",
-        "away_team": "Sydney FC",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Twente",
         "away_team": "Ajax",
         "score": "1 - 1",
@@ -36410,48 +34926,6 @@
             "36’'",
             "86’'"
         ]
-    },
-    {
-        "home_team": "Elazığspor",
-        "away_team": "Eskişehirspor",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Galatasaray",
-        "away_team": "Kardemir Karabükspor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gençlerbirliği",
-        "away_team": "Kasımpaşa",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Shillong Lajong",
-        "away_team": "United",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mohun Bagan",
-        "away_team": "Sporting Goa",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pune",
-        "away_team": "Churchill Brothers",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Aston Villa",
@@ -36690,13 +35164,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Western Sydney Wanderers",
-        "away_team": "Wellington Phoenix",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "AZ Alkmaar",
         "away_team": "Cambuur",
         "score": "3 - 1",
@@ -36753,34 +35220,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Gaziantepspor",
-        "away_team": "Konyaspor",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Antalyaspor",
-        "away_team": "Akhisar Belediyespor",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kayseri Erciyesspor",
-        "away_team": "Fenerbahçe",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rangdajied United",
-        "away_team": "Mohammedan",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Crystal Palace",
         "away_team": "Fulham",
         "score": "1 - 4",
@@ -36811,20 +35250,6 @@
             "32’'",
             "35’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Siena",
-        "away_team": "Palermo",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bursaspor",
-        "away_team": "Kayserispor",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -37029,27 +35454,6 @@
         "away_goals_minutes": [
             "77’'"
         ]
-    },
-    {
-        "home_team": "Bengaluru",
-        "away_team": "Dempo",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mumbai FC",
-        "away_team": "Shillong Lajong",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mohun Bagan",
-        "away_team": "Salgaocar",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Lyon",
@@ -37308,13 +35712,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Sporting Goa",
-        "away_team": "Rangdajied United",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Mohammedan",
         "away_team": "United",
         "score": "0 - 0",
@@ -37344,13 +35741,6 @@
         ]
     },
     {
-        "home_team": "Reggina",
-        "away_team": "Pescara",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Nantes",
         "away_team": "Lille",
         "score": "0 - 1",
@@ -37358,13 +35748,6 @@
         "away_goals_minutes": [
             "41’'"
         ]
-    },
-    {
-        "home_team": "Melbourne Victory",
-        "away_team": "Brisbane Roar",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "NEC Nijmegen",
@@ -37386,20 +35769,6 @@
         "away_goals_minutes": [
             "4’'"
         ]
-    },
-    {
-        "home_team": "Fenerbahçe",
-        "away_team": "Gaziantepspor",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sivasspor",
-        "away_team": "Kayseri Erciyesspor",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Aston Villa",
@@ -37610,58 +35979,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Carpi",
-        "away_team": "Latina",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Palermo",
         "away_team": "Varese",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ternana",
-        "away_team": "Crotone",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Spezia",
-        "away_team": "Modena",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bari",
-        "away_team": "Trapani",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Virtus Lanciano",
-        "away_team": "Padova",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brescia",
-        "away_team": "Siena",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Juve Stabia",
-        "away_team": "Empoli",
-        "score": "0 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -37781,20 +36101,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Central Coast Mariners",
-        "away_team": "Adelaide United",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sydney FC",
-        "away_team": "Western Sydney Wanderers",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "NAC Breda",
         "away_team": "Go Ahead Eagles",
         "score": "5 - 0",
@@ -37864,41 +36170,6 @@
         "home_goals_minutes": [
             "63’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kardemir Karabükspor",
-        "away_team": "Antalyaspor",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Elazığspor",
-        "away_team": "Gençlerbirliği",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Akhisar Belediyespor",
-        "away_team": "Beşiktaş",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mumbai FC",
-        "away_team": "Mohun Bagan",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "East Bengal",
-        "away_team": "Bengaluru",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -38192,13 +36463,6 @@
         ]
     },
     {
-        "home_team": "Perth Glory",
-        "away_team": "Melbourne Heart",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Wellington Phoenix",
         "away_team": "Newcastle Jets",
         "score": "0 - 0",
@@ -38289,48 +36553,6 @@
         ]
     },
     {
-        "home_team": "Eskişehirspor",
-        "away_team": "Rizespor",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Konyaspor",
-        "away_team": "Bursaspor",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kayserispor",
-        "away_team": "Galatasaray",
-        "score": "2 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "United",
-        "away_team": "Salgaocar",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sporting Goa",
-        "away_team": "Mohammedan",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pune",
-        "away_team": "Rangdajied United",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Getafe",
         "away_team": "Athletic Club",
         "score": "0 - 1",
@@ -38338,13 +36560,6 @@
         "away_goals_minutes": [
             "8’'"
         ]
-    },
-    {
-        "home_team": "Novara",
-        "away_team": "Cesena",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Paços de Ferreira",
@@ -38358,20 +36573,6 @@
             "59’'",
             "77’'"
         ]
-    },
-    {
-        "home_team": "Kasımpaşa",
-        "away_team": "Trabzonspor",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Shillong Lajong",
-        "away_team": "Churchill Brothers",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Espanyol",
@@ -38401,13 +36602,6 @@
         "away_goals_minutes": [
             "16’'"
         ]
-    },
-    {
-        "home_team": "Cittadella",
-        "away_team": "Avellino",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Valencia",
@@ -38656,69 +36850,6 @@
         ]
     },
     {
-        "home_team": "Varese",
-        "away_team": "Juve Stabia",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cesena",
-        "away_team": "Ternana",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Padova",
-        "away_team": "Spezia",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Latina",
-        "away_team": "Reggina",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Trapani",
-        "away_team": "Carpi",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Crotone",
-        "away_team": "Novara",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pescara",
-        "away_team": "Brescia",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Modena",
-        "away_team": "Virtus Lanciano",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Empoli",
-        "away_team": "Bari",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Paris Saint-Germain",
         "away_team": "Lorient",
         "score": "4 - 0",
@@ -38728,13 +36859,6 @@
             "43’'",
             "81’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Western Sydney Wanderers",
-        "away_team": "Adelaide United",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -38758,20 +36882,6 @@
             "37’'",
             "86’'"
         ]
-    },
-    {
-        "home_team": "Galatasaray",
-        "away_team": "Konyaspor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "East Bengal",
-        "away_team": "Salgaocar",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Dempo",
@@ -39006,13 +37116,6 @@
         ]
     },
     {
-        "home_team": "Siena",
-        "away_team": "Cittadella",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Ajaccio",
         "away_team": "Valenciennes",
         "score": "1 - 3",
@@ -39105,20 +37208,6 @@
         ]
     },
     {
-        "home_team": "Perth Glory",
-        "away_team": "Sydney FC",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Newcastle Jets",
-        "away_team": "Central Coast Mariners",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Ajax",
         "away_team": "Vitesse",
         "score": "0 - 1",
@@ -39185,48 +37274,6 @@
         "away_goals_minutes": [
             "30’'"
         ]
-    },
-    {
-        "home_team": "Bursaspor",
-        "away_team": "Fenerbahçe",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kayseri Erciyesspor",
-        "away_team": "Kasımpaşa",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "United",
-        "away_team": "Churchill Brothers",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mumbai FC",
-        "away_team": "Bengaluru",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sporting Goa",
-        "away_team": "Pune",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Shillong Lajong",
-        "away_team": "Mohammedan",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Everton",
@@ -39382,13 +37429,6 @@
         ]
     },
     {
-        "home_team": "Avellino",
-        "away_team": "Palermo",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Lille",
         "away_team": "Monaco",
         "score": "2 - 0",
@@ -39441,13 +37481,6 @@
         "home_goals_minutes": [
             "48’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brisbane Roar",
-        "away_team": "Melbourne Heart",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -39528,13 +37561,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Trabzonspor",
-        "away_team": "Elazığspor",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Beşiktaş",
         "away_team": "Kardemir Karabükspor",
         "score": "0 - 0",
@@ -39561,34 +37587,6 @@
         "home_team": "Bologna",
         "away_team": "Chievo",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Melbourne Victory",
-        "away_team": "Wellington Phoenix",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gaziantepspor",
-        "away_team": "Sivasspor",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Antalyaspor",
-        "away_team": "Kayserispor",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gençlerbirliği",
-        "away_team": "Eskişehirspor",
-        "score": "2 - 0",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -39672,20 +37670,6 @@
         "away_goals_minutes": [
             "65’'"
         ]
-    },
-    {
-        "home_team": "Sporting Goa",
-        "away_team": "East Bengal",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rangdajied United",
-        "away_team": "Salgaocar",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Barcelona",
@@ -39801,34 +37785,6 @@
             "36’'",
             "104’'"
         ]
-    },
-    {
-        "home_team": "Mohammedan",
-        "away_team": "Mumbai FC",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dempo",
-        "away_team": "Churchill Brothers",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Shillong Lajong",
-        "away_team": "Mohun Bagan",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pune",
-        "away_team": "Bengaluru",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Rubin Kazan",
@@ -40139,13 +38095,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Spezia",
-        "away_team": "Cesena",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Monaco",
         "away_team": "Evian",
         "score": "1 - 1",
@@ -40155,13 +38104,6 @@
         "away_goals_minutes": [
             "20’'"
         ]
-    },
-    {
-        "home_team": "Melbourne Heart",
-        "away_team": "Western Sydney Wanderers",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Heerenveen",
@@ -40178,20 +38120,6 @@
             "72’'",
             "88’'"
         ]
-    },
-    {
-        "home_team": "Eskişehirspor",
-        "away_team": "Akhisar Belediyespor",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Elazığspor",
-        "away_team": "Kayseri Erciyesspor",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Liverpool",
@@ -40410,69 +38338,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Juve Stabia",
-        "away_team": "Modena",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Reggina",
-        "away_team": "Padova",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cittadella",
-        "away_team": "Pescara",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Virtus Lanciano",
-        "away_team": "Siena",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Novara",
-        "away_team": "Latina",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bari",
-        "away_team": "Varese",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Palermo",
-        "away_team": "Trapani",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Carpi",
-        "away_team": "Crotone",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brescia",
-        "away_team": "Avellino",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Paris Saint-Germain",
         "away_team": "Nice",
         "score": "3 - 1",
@@ -40538,27 +38403,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Adelaide United",
-        "away_team": "Newcastle Jets",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sydney FC",
-        "away_team": "Melbourne Victory",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wellington Phoenix",
-        "away_team": "Perth Glory",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "ADO Den Haag",
         "away_team": "Cambuur",
         "score": "3 - 0",
@@ -40606,34 +38450,6 @@
         "away_goals_minutes": [
             "63’'"
         ]
-    },
-    {
-        "home_team": "Kasımpaşa",
-        "away_team": "Gaziantepspor",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sivasspor",
-        "away_team": "Bursaspor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kayserispor",
-        "away_team": "Beşiktaş",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kardemir Karabükspor",
-        "away_team": "Rizespor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Tottenham Hotspur",
@@ -40887,13 +38703,6 @@
         ]
     },
     {
-        "home_team": "Central Coast Mariners",
-        "away_team": "Brisbane Roar",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Feyenoord",
         "away_team": "AZ Alkmaar",
         "score": "2 - 2",
@@ -40939,34 +38748,6 @@
         "away_goals_minutes": [
             "44’'"
         ]
-    },
-    {
-        "home_team": "Konyaspor",
-        "away_team": "Antalyaspor",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gençlerbirliği",
-        "away_team": "Trabzonspor",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fenerbahçe",
-        "away_team": "Galatasaray",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ternana",
-        "away_team": "Empoli",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Iceland",
@@ -41105,13 +38886,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Melbourne Heart",
-        "away_team": "Sydney FC",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Nigeria",
         "away_team": "Ethiopia",
         "score": "2 - 0",
@@ -41140,27 +38914,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Reggina",
-        "away_team": "Palermo",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Perth Glory",
-        "away_team": "Adelaide United",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Western Sydney Wanderers",
-        "away_team": "Melbourne Victory",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Cameroon",
         "away_team": "Tunisia",
         "score": "4 - 1",
@@ -41173,76 +38926,6 @@
         "away_goals_minutes": [
             "50’'"
         ]
-    },
-    {
-        "home_team": "Modena",
-        "away_team": "Carpi",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Trapani",
-        "away_team": "Novara",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Empoli",
-        "away_team": "Virtus Lanciano",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pescara",
-        "away_team": "Ternana",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cesena",
-        "away_team": "Cittadella",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Latina",
-        "away_team": "Bari",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Siena",
-        "away_team": "Spezia",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Varese",
-        "away_team": "Crotone",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Avellino",
-        "away_team": "Juve Stabia",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Newcastle Jets",
-        "away_team": "Brisbane Roar",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Egypt",
@@ -41444,27 +39127,6 @@
             "39’'",
             "58’'"
         ]
-    },
-    {
-        "home_team": "Brisbane Roar",
-        "away_team": "Western Sydney Wanderers",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Salgaocar",
-        "away_team": "Pune",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Shillong Lajong",
-        "away_team": "Rangdajied United",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Fulham",
@@ -41696,27 +39358,6 @@
         ]
     },
     {
-        "home_team": "Juve Stabia",
-        "away_team": "Trapani",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Virtus Lanciano",
-        "away_team": "Varese",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Crotone",
-        "away_team": "Avellino",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Brescia",
         "away_team": "Cesena",
         "score": "0 - 0",
@@ -41724,30 +39365,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Spezia",
-        "away_team": "Empoli",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Cittadella",
         "away_team": "Reggina",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bari",
-        "away_team": "Padova",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ternana",
-        "away_team": "Modena",
-        "score": "1 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -41831,27 +39451,6 @@
         ]
     },
     {
-        "home_team": "Sydney FC",
-        "away_team": "Wellington Phoenix",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Perth Glory",
-        "away_team": "Central Coast Mariners",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Melbourne Victory",
-        "away_team": "Adelaide United",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Ajax",
         "away_team": "Heracles Almelo",
         "score": "3 - 0",
@@ -41919,27 +39518,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Rizespor",
-        "away_team": "Kayserispor",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Galatasaray",
-        "away_team": "Sivasspor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bursaspor",
-        "away_team": "Kasımpaşa",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Mohammedan",
         "away_team": "Churchill Brothers",
         "score": "0 - 0",
@@ -41950,13 +39528,6 @@
         "home_team": "Bengaluru",
         "away_team": "Sporting Goa",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dempo",
-        "away_team": "United",
-        "score": "1 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -42129,20 +39700,6 @@
         ]
     },
     {
-        "home_team": "Palermo",
-        "away_team": "Latina",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Carpi",
-        "away_team": "Siena",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Nantes",
         "away_team": "Monaco",
         "score": "0 - 1",
@@ -42177,13 +39734,6 @@
         "away_goals_minutes": [
             "29’'"
         ]
-    },
-    {
-        "home_team": "Newcastle Jets",
-        "away_team": "Melbourne Heart",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Groningen",
@@ -42291,41 +39841,6 @@
         ]
     },
     {
-        "home_team": "Kayseri Erciyesspor",
-        "away_team": "Gençlerbirliği",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gaziantepspor",
-        "away_team": "Elazığspor",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Antalyaspor",
-        "away_team": "Fenerbahçe",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Trabzonspor",
-        "away_team": "Eskişehirspor",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mohun Bagan",
-        "away_team": "East Bengal",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "West Bromwich Albion",
         "away_team": "Aston Villa",
         "score": "2 - 2",
@@ -42365,20 +39880,6 @@
         "away_goals_minutes": [
             "18’'"
         ]
-    },
-    {
-        "home_team": "Beşiktaş",
-        "away_team": "Konyaspor",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Akhisar Belediyespor",
-        "away_team": "Kardemir Karabükspor",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Porto",
@@ -42461,13 +39962,6 @@
         "home_team": "Steaua București",
         "away_team": "Schalke 04",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Salgaocar",
-        "away_team": "Bengaluru",
-        "score": "1 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -42576,20 +40070,6 @@
         "away_goals_minutes": [
             "80’'"
         ]
-    },
-    {
-        "home_team": "Mumbai FC",
-        "away_team": "Rangdajied United",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dempo",
-        "away_team": "Pune",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Mohun Bagan",
@@ -42853,20 +40333,6 @@
         ]
     },
     {
-        "home_team": "Churchill Brothers",
-        "away_team": "Sporting Goa",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "East Bengal",
-        "away_team": "United",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Villarreal",
         "away_team": "Málaga",
         "score": "1 - 1",
@@ -42896,13 +40362,6 @@
         "away_goals_minutes": [
             "19’'"
         ]
-    },
-    {
-        "home_team": "Empoli",
-        "away_team": "Brescia",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Marseille",
@@ -42946,20 +40405,6 @@
         "away_goals_minutes": [
             "56’'"
         ]
-    },
-    {
-        "home_team": "Elazığspor",
-        "away_team": "Bursaspor",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sivasspor",
-        "away_team": "Antalyaspor",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Newcastle United",
@@ -43162,27 +40607,6 @@
         ]
     },
     {
-        "home_team": "Trapani",
-        "away_team": "Virtus Lanciano",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pescara",
-        "away_team": "Carpi",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Palermo",
-        "away_team": "Novara",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Avellino",
         "away_team": "Cesena",
         "score": "0 - 0",
@@ -43190,37 +40614,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Varese",
-        "away_team": "Cittadella",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Reggina",
-        "away_team": "Spezia",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Modena",
-        "away_team": "Siena",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Padova",
         "away_team": "Crotone",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Latina",
-        "away_team": "Juve Stabia",
-        "score": "1 - 0",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -43291,20 +40687,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Brisbane Roar",
-        "away_team": "Perth Glory",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sydney FC",
-        "away_team": "Newcastle Jets",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "NAC Breda",
         "away_team": "Groningen",
         "score": "2 - 2",
@@ -43366,20 +40748,6 @@
         "home_team": "Kayserispor",
         "away_team": "Akhisar Belediyespor",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gençlerbirliği",
-        "away_team": "Gaziantepspor",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fenerbahçe",
-        "away_team": "Beşiktaş",
-        "score": "3 - 3",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -43614,13 +40982,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Melbourne Heart",
-        "away_team": "Adelaide United",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Vitesse",
         "away_team": "Cambuur",
         "score": "3 - 0",
@@ -43728,51 +41089,9 @@
         ]
     },
     {
-        "home_team": "Trabzonspor",
-        "away_team": "Kayseri Erciyesspor",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kasımpaşa",
-        "away_team": "Galatasaray",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Eskişehirspor",
         "away_team": "Kardemir Karabükspor",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mohun Bagan",
-        "away_team": "Rangdajied United",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bengaluru",
-        "away_team": "Shillong Lajong",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Salgaocar",
-        "away_team": "Sporting Goa",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pune",
-        "away_team": "United",
-        "score": "1 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -43808,13 +41127,6 @@
         ]
     },
     {
-        "home_team": "Bari",
-        "away_team": "Ternana",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Estoril",
         "away_team": "Vitória Guimarães",
         "score": "0 - 2",
@@ -43823,20 +41135,6 @@
             "39’'",
             "78’'"
         ]
-    },
-    {
-        "home_team": "Konyaspor",
-        "away_team": "Rizespor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mumbai FC",
-        "away_team": "East Bengal",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Crystal Palace",
@@ -44105,13 +41403,6 @@
         ]
     },
     {
-        "home_team": "Cesena",
-        "away_team": "Padova",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Marseille",
         "away_team": "Nantes",
         "score": "0 - 1",
@@ -44119,20 +41410,6 @@
         "away_goals_minutes": [
             "16’'"
         ]
-    },
-    {
-        "home_team": "Perth Glory",
-        "away_team": "Wellington Phoenix",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Adelaide United",
-        "away_team": "Brisbane Roar",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Utrecht",
@@ -44156,34 +41433,6 @@
             "19’'",
             "74’'"
         ]
-    },
-    {
-        "home_team": "Galatasaray",
-        "away_team": "Elazığspor",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Churchill Brothers",
-        "away_team": "Bengaluru",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Shillong Lajong",
-        "away_team": "Salgaocar",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mohun Bagan",
-        "away_team": "United",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Southampton",
@@ -44366,69 +41615,6 @@
         ]
     },
     {
-        "home_team": "Novara",
-        "away_team": "Modena",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Carpi",
-        "away_team": "Varese",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Siena",
-        "away_team": "Pescara",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cittadella",
-        "away_team": "Trapani",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Juve Stabia",
-        "away_team": "Bari",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Virtus Lanciano",
-        "away_team": "Palermo",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brescia",
-        "away_team": "Reggina",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ternana",
-        "away_team": "Latina",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Crotone",
-        "away_team": "Empoli",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Paris Saint-Germain",
         "away_team": "Sochaux",
         "score": "5 - 0",
@@ -44481,20 +41667,6 @@
         "away_goals_minutes": [
             "52’'"
         ]
-    },
-    {
-        "home_team": "Western Sydney Wanderers",
-        "away_team": "Melbourne Heart",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Central Coast Mariners",
-        "away_team": "Sydney FC",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Ajax",
@@ -44577,41 +41749,6 @@
             "77’'",
             "84’'"
         ]
-    },
-    {
-        "home_team": "Rizespor",
-        "away_team": "Fenerbahçe",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Antalyaspor",
-        "away_team": "Kasımpaşa",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sporting Goa",
-        "away_team": "Dempo",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rangdajied United",
-        "away_team": "East Bengal",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pune",
-        "away_team": "Mumbai FC",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Fulham",
@@ -44777,13 +41914,6 @@
         ]
     },
     {
-        "home_team": "Melbourne Victory",
-        "away_team": "Newcastle Jets",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Groningen",
         "away_team": "ADO Den Haag",
         "score": "1 - 2",
@@ -44867,30 +41997,9 @@
         ]
     },
     {
-        "home_team": "Akhisar Belediyespor",
-        "away_team": "Konyaspor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Bursaspor",
         "away_team": "Gençlerbirliği",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kardemir Karabükspor",
-        "away_team": "Kayserispor",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gaziantepspor",
-        "away_team": "Trabzonspor",
-        "score": "3 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -44919,20 +42028,6 @@
         "home_goals_minutes": [
             "73’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kayseri Erciyesspor",
-        "away_team": "Eskişehirspor",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Beşiktaş",
-        "away_team": "Sivasspor",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -45013,13 +42108,6 @@
             "59’'",
             "62’'"
         ]
-    },
-    {
-        "home_team": "Churchill Brothers",
-        "away_team": "Shillong Lajong",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "United",
@@ -45126,30 +42214,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Mohun Bagan",
-        "away_team": "Mumbai FC",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mohammedan",
-        "away_team": "Bengaluru",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Salgaocar",
         "away_team": "East Bengal",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rangdajied United",
-        "away_team": "Pune",
-        "score": "3 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -45434,13 +42501,6 @@
         ]
     },
     {
-        "home_team": "Reggina",
-        "away_team": "Siena",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Montpellier",
         "away_team": "Saint-Étienne",
         "score": "0 - 1",
@@ -45448,13 +42508,6 @@
         "away_goals_minutes": [
             "75’'"
         ]
-    },
-    {
-        "home_team": "Melbourne Victory",
-        "away_team": "Perth Glory",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Zwolle",
@@ -45478,20 +42531,6 @@
         "away_goals_minutes": [
             "71’'"
         ]
-    },
-    {
-        "home_team": "Konyaspor",
-        "away_team": "Kardemir Karabükspor",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fenerbahçe",
-        "away_team": "Akhisar Belediyespor",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Everton",
@@ -45698,65 +42737,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Padova",
-        "away_team": "Ternana",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Latina",
-        "away_team": "Crotone",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Modena",
-        "away_team": "Brescia",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Trapani",
-        "away_team": "Avellino",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bari",
-        "away_team": "Carpi",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Varese",
-        "away_team": "Spezia",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Palermo",
-        "away_team": "Cittadella",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Empoli",
         "away_team": "Cesena",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Juve Stabia",
-        "away_team": "Novara",
-        "score": "1 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -45828,27 +42811,6 @@
         ]
     },
     {
-        "home_team": "Adelaide United",
-        "away_team": "Central Coast Mariners",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wellington Phoenix",
-        "away_team": "Brisbane Roar",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Newcastle Jets",
-        "away_team": "Western Sydney Wanderers",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "ADO Den Haag",
         "away_team": "RKC Waalwijk",
         "score": "1 - 2",
@@ -45908,41 +42870,6 @@
             "13’'",
             "89’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sivasspor",
-        "away_team": "Rizespor",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Elazığspor",
-        "away_team": "Antalyaspor",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kayserispor",
-        "away_team": "Eskişehirspor",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sporting Goa",
-        "away_team": "Shillong Lajong",
-        "score": "5 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mohun Bagan",
-        "away_team": "Dempo",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -46129,13 +43056,6 @@
         ]
     },
     {
-        "home_team": "Virtus Lanciano",
-        "away_team": "Pescara",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Bordeaux",
         "away_team": "Valenciennes",
         "score": "2 - 1",
@@ -46171,13 +43091,6 @@
             "46’'",
             "79’'"
         ]
-    },
-    {
-        "home_team": "Sydney FC",
-        "away_team": "Melbourne Heart",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Cambuur",
@@ -46277,48 +43190,6 @@
         ]
     },
     {
-        "home_team": "Gençlerbirliği",
-        "away_team": "Galatasaray",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gaziantepspor",
-        "away_team": "Kayseri Erciyesspor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "United",
-        "away_team": "Pune",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bengaluru",
-        "away_team": "East Bengal",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Churchill Brothers",
-        "away_team": "Mohammedan",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rangdajied United",
-        "away_team": "Mumbai FC",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Valladolid",
         "away_team": "Celta Vigo",
         "score": "3 - 0",
@@ -46365,20 +43236,6 @@
         ]
     },
     {
-        "home_team": "Trabzonspor",
-        "away_team": "Bursaspor",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Central Coast Mariners",
-        "away_team": "Wellington Phoenix",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Marítimo",
         "away_team": "Braga",
         "score": "2 - 2",
@@ -46412,20 +43269,6 @@
         ]
     },
     {
-        "home_team": "Ternana",
-        "away_team": "Trapani",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pescara",
-        "away_team": "Padova",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Monaco",
         "away_team": "Valenciennes",
         "score": "1 - 2",
@@ -46436,13 +43279,6 @@
             "30’'",
             "58’'"
         ]
-    },
-    {
-        "home_team": "Brisbane Roar",
-        "away_team": "Newcastle Jets",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "RKC Waalwijk",
@@ -46701,62 +43537,6 @@
         ]
     },
     {
-        "home_team": "Crotone",
-        "away_team": "Juve Stabia",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Carpi",
-        "away_team": "Palermo",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Novara",
-        "away_team": "Empoli",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brescia",
-        "away_team": "Varese",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Siena",
-        "away_team": "Latina",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cesena",
-        "away_team": "Reggina",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cittadella",
-        "away_team": "Bari",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Spezia",
-        "away_team": "Virtus Lanciano",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Nice",
         "away_team": "Evian",
         "score": "3 - 1",
@@ -46816,13 +43596,6 @@
         "home_team": "Bastia",
         "away_team": "Montpellier",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Melbourne Heart",
-        "away_team": "Melbourne Victory",
-        "score": "1 - 3",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -46897,41 +43670,6 @@
             "56’'",
             "59’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Beşiktaş",
-        "away_team": "Elazığspor",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bengaluru",
-        "away_team": "Salgaocar",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sporting Goa",
-        "away_team": "United",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Shillong Lajong",
-        "away_team": "Dempo",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mohun Bagan",
-        "away_team": "Pune",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -47134,13 +43872,6 @@
         ]
     },
     {
-        "home_team": "Avellino",
-        "away_team": "Modena",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Paris Saint-Germain",
         "away_team": "Lille",
         "score": "2 - 2",
@@ -47183,13 +43914,6 @@
         "home_team": "Perth Glory",
         "away_team": "Adelaide United",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wellington Phoenix",
-        "away_team": "Sydney FC",
-        "score": "1 - 0",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -47269,58 +43993,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Eskişehirspor",
-        "away_team": "Gaziantepspor",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kardemir Karabükspor",
-        "away_team": "Fenerbahçe",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Antalyaspor",
-        "away_team": "Gençlerbirliği",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Galatasaray",
-        "away_team": "Trabzonspor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Arsenal",
         "away_team": "Chelsea",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Western Sydney Wanderers",
-        "away_team": "Central Coast Mariners",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Akhisar Belediyespor",
-        "away_team": "Sivasspor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bursaspor",
-        "away_team": "Kayseri Erciyesspor",
-        "score": "3 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -47440,100 +44115,9 @@
         ]
     },
     {
-        "home_team": "Trapani",
-        "away_team": "Crotone",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bari",
-        "away_team": "Spezia",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Juve Stabia",
-        "away_team": "Brescia",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Palermo",
-        "away_team": "Ternana",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Virtus Lanciano",
-        "away_team": "Carpi",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Empoli",
-        "away_team": "Cittadella",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Latina",
         "away_team": "Cesena",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Modena",
-        "away_team": "Pescara",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Reggina",
-        "away_team": "Avellino",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Padova",
-        "away_team": "Siena",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sydney FC",
-        "away_team": "Brisbane Roar",
-        "score": "2 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Melbourne Heart",
-        "away_team": "Wellington Phoenix",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kasımpaşa",
-        "away_team": "Akhisar Belediyespor",
-        "score": "2 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gençlerbirliği",
-        "away_team": "Beşiktaş",
-        "score": "1 - 0",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -47609,30 +44193,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Melbourne Victory",
-        "away_team": "Western Sydney Wanderers",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Elazığspor",
-        "away_team": "Rizespor",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Gaziantepspor",
         "away_team": "Bursaspor",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kayseri Erciyesspor",
-        "away_team": "Galatasaray",
-        "score": "1 - 3",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -47679,124 +44242,5 @@
         "away_goals_minutes": [
             "4’'"
         ]
-    },
-    {
-        "home_team": "Siena",
-        "away_team": "Varese",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Novara",
-        "away_team": "Bari",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ternana",
-        "away_team": "Reggina",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pescara",
-        "away_team": "Empoli",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cittadella",
-        "away_team": "Virtus Lanciano",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Spezia",
-        "away_team": "Latina",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Carpi",
-        "away_team": "Juve Stabia",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brescia",
-        "away_team": "Trapani",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Crotone",
-        "away_team": "Palermo",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Avellino",
-        "away_team": "Padova",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cesena",
-        "away_team": "Modena",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Adelaide United",
-        "away_team": "Newcastle Jets",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Konyaspor",
-        "away_team": "Eskişehirspor",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sivasspor",
-        "away_team": "Kardemir Karabükspor",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Trabzonspor",
-        "away_team": "Antalyaspor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fenerbahçe",
-        "away_team": "Kayserispor",
-        "score": "5 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Central Coast Mariners",
-        "away_team": "Perth Glory",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     }
 ]

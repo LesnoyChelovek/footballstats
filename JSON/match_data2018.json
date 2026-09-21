@@ -3788,19 +3788,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Ajax Cape Town",
-        "away_team": "Platinum Stars",
-        "score": "0 - 3*",
-        "home_goals_minutes": [
-            "73’'",
-            "82’'",
-            "90+2’'"
-        ],
-        "away_goals_minutes": [
-            "40’'"
-        ]
-    },
-    {
         "home_team": "Maritzburg United",
         "away_team": "Bloemfontein Celtic",
         "score": "4 - 0",
@@ -13914,13 +13901,6 @@
         ]
     },
     {
-        "home_team": "Universidad Técnica de Cajamarca",
-        "away_team": "Sporting Cristal",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Korea Republic",
         "away_team": "Latvia",
         "score": "1 - 0",
@@ -15611,13 +15591,6 @@
         ]
     },
     {
-        "home_team": "Montevideo Wanderers",
-        "away_team": "El Tanque Sisley",
-        "score": "0* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "River Plate",
         "away_team": "Boston River",
         "score": "2 - 2",
@@ -16778,17 +16751,6 @@
         "score": "0 - 0",
         "home_goals_minutes": [],
         "away_goals_minutes": []
-    },
-    {
-        "home_team": "Polokwane City",
-        "away_team": "Ajax Cape Town",
-        "score": "3* - 0",
-        "home_goals_minutes": [
-            "69’'"
-        ],
-        "away_goals_minutes": [
-            "81’'"
-        ]
     },
     {
         "home_team": "Chippa United",
@@ -18580,18 +18542,6 @@
         "away_goals_minutes": [
             "55’'"
         ]
-    },
-    {
-        "home_team": "Independiente FBC",
-        "away_team": "Nacional Asunción",
-        "score": "0 - 3*",
-        "home_goals_minutes": [
-            "7’'",
-            "38’'",
-            "62’'",
-            "69’'"
-        ],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Real Garcilaso",
@@ -23802,13 +23752,6 @@
         ]
     },
     {
-        "home_team": "Cerro",
-        "away_team": "El Tanque Sisley",
-        "score": "0* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Sunderland",
         "away_team": "Brentford",
         "score": "0 - 2",
@@ -25635,19 +25578,6 @@
             "59’'"
         ],
         "away_goals_minutes": []
-    },
-    {
-        "home_team": "Liverpool",
-        "away_team": "Boston River",
-        "score": "2* - 2",
-        "home_goals_minutes": [
-            "2’'",
-            "89’'"
-        ],
-        "away_goals_minutes": [
-            "30’'",
-            "46’'"
-        ]
     },
     {
         "home_team": "Progreso",
@@ -31332,13 +31262,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Boston River",
-        "away_team": "El Tanque Sisley",
-        "score": "0* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Rampla Juniors",
         "away_team": "Defensor Sporting",
         "score": "1 - 1",
@@ -32427,13 +32350,6 @@
         "home_goals_minutes": [
             "45+1’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "PAOK",
-        "away_team": "Olympiacos",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -34287,16 +34203,6 @@
         "away_team": "Trujillanos",
         "score": "0 - 0",
         "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ajax Cape Town",
-        "away_team": "SuperSport United",
-        "score": "0 - 3*",
-        "home_goals_minutes": [
-            "50’'",
-            "78’'"
-        ],
         "away_goals_minutes": []
     },
     {
@@ -36750,15 +36656,6 @@
         "away_team": "Pogoń Szczecin",
         "score": "0 - 0",
         "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Piast Gliwice",
-        "away_team": "Górnik Zabrze",
-        "score": "0 - 3*",
-        "home_goals_minutes": [
-            "49’'"
-        ],
         "away_goals_minutes": []
     },
     {
@@ -40786,13 +40683,6 @@
         ]
     },
     {
-        "home_team": "Atenas de San Carlos",
-        "away_team": "El Tanque Sisley",
-        "score": "0* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Manchester United",
         "away_team": "Liverpool",
         "score": "2 - 1",
@@ -44097,13 +43987,6 @@
         "away_goals_minutes": [
             "33’'"
         ]
-    },
-    {
-        "home_team": "PAOK",
-        "away_team": "AEK Athens",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Bengaluru",
@@ -51499,13 +51382,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Torque",
-        "away_team": "El Tanque Sisley",
-        "score": "0* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "South Africa",
         "away_team": "Angola",
         "score": "1 - 1",
@@ -55230,13 +55106,6 @@
         "home_goals_minutes": [
             "48’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fénix",
-        "away_team": "El Tanque Sisley",
-        "score": "0* - 0",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -59052,34 +58921,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Kortrijk",
-        "away_team": "Waasland-Beveren",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lierse",
-        "away_team": "Excel Mouscron",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lokeren",
-        "away_team": "Sint-Truiden",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eupen",
-        "away_team": "Beerschot Wilrijk",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Derby County U23",
         "away_team": "Chelsea U23",
         "score": "0 - 3",
@@ -60585,13 +60426,6 @@
         ]
     },
     {
-        "home_team": "Zulte Waregem",
-        "away_team": "OH Leuven",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Everton U23",
         "away_team": "Manchester City U23",
         "score": "3 - 4",
@@ -61632,13 +61466,6 @@
             "12’'",
             "86’'"
         ]
-    },
-    {
-        "home_team": "Antwerp",
-        "away_team": "Oostende",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Stoke City U23",
@@ -63430,13 +63257,6 @@
         "home_goals_minutes": [
             "18’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Progreso",
-        "away_team": "El Tanque Sisley",
-        "score": "0* - 0",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -66246,34 +66066,6 @@
         ]
     },
     {
-        "home_team": "Beerschot Wilrijk",
-        "away_team": "Lokeren",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Oostende",
-        "away_team": "Eupen",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sint-Truiden",
-        "away_team": "Antwerp",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "OH Leuven",
-        "away_team": "Lierse",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Tottenham Hotspur U23",
         "away_team": "Derby County U23",
         "score": "4 - 2",
@@ -68043,20 +67835,6 @@
         "away_goals_minutes": [
             "72’'"
         ]
-    },
-    {
-        "home_team": "Excel Mouscron",
-        "away_team": "Kortrijk",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Waasland-Beveren",
-        "away_team": "Zulte Waregem",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Eimsbüttel U17",
@@ -73929,34 +73707,6 @@
         ]
     },
     {
-        "home_team": "Zulte Waregem",
-        "away_team": "Excel Mouscron",
-        "score": "5 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lokeren",
-        "away_team": "Eupen",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lierse",
-        "away_team": "Kortrijk",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Waasland-Beveren",
-        "away_team": "OH Leuven",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Cottbus U17",
         "away_team": "Bremen U17",
         "score": "0 - 1",
@@ -76047,20 +75797,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Antwerp",
-        "away_team": "Beerschot Wilrijk",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Oostende",
-        "away_team": "Sint-Truiden",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Sunderland U23",
         "away_team": "Leicester City U23",
         "score": "4 - 1",
@@ -77242,27 +76978,6 @@
         ]
     },
     {
-        "home_team": "Kortrijk",
-        "away_team": "OH Leuven",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lierse",
-        "away_team": "Zulte Waregem",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Excel Mouscron",
-        "away_team": "Waasland-Beveren",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Zimbabwe",
         "away_team": "Botswana",
         "score": "0 - 1",
@@ -78003,27 +77718,6 @@
         "away_goals_minutes": [
             "56’'"
         ]
-    },
-    {
-        "home_team": "Beerschot Wilrijk",
-        "away_team": "Sint-Truiden",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eupen",
-        "away_team": "Antwerp",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lokeren",
-        "away_team": "Oostende",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Bochum U17",
@@ -79034,13 +78728,6 @@
         "away_goals_minutes": [
             "48’'"
         ]
-    },
-    {
-        "home_team": "Zulte Waregem",
-        "away_team": "Kortrijk",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "West Ham United U23",
@@ -81719,27 +81406,6 @@
         ]
     },
     {
-        "home_team": "OH Leuven",
-        "away_team": "Excel Mouscron",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sint-Truiden",
-        "away_team": "Eupen",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Waasland-Beveren",
-        "away_team": "Lierse",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Union U17",
         "away_team": "Eintracht Braunschweig U17",
         "score": "0 - 1",
@@ -84167,13 +83833,6 @@
         ]
     },
     {
-        "home_team": "Oostende",
-        "away_team": "Beerschot Wilrijk",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Freiburg U17",
         "away_team": "Unterh. U17",
         "score": "1 - 1",
@@ -84605,13 +84264,6 @@
             "12’'",
             "82’'"
         ]
-    },
-    {
-        "home_team": "Antwerp",
-        "away_team": "Lokeren",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Swansea City U23",
@@ -86551,13 +86203,6 @@
             "78’'",
             "80’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Racing",
-        "away_team": "El Tanque Sisley",
-        "score": "0* - 0",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -89380,37 +89025,9 @@
         ]
     },
     {
-        "home_team": "Excel Mouscron",
-        "away_team": "Zulte Waregem",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kortrijk",
-        "away_team": "Lierse",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eupen",
-        "away_team": "Lokeren",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "OH Leuven",
         "away_team": "Waasland-Beveren",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sint-Truiden",
-        "away_team": "Oostende",
-        "score": "4 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -92499,20 +92116,6 @@
         ]
     },
     {
-        "home_team": "MVV Maastricht",
-        "away_team": "Almere City",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dordrecht",
-        "away_team": "Cambuur",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Aston Villa U23",
         "away_team": "Reading U23",
         "score": "4 - 3",
@@ -92914,20 +92517,6 @@
             "64’'",
             "80’'"
         ]
-    },
-    {
-        "home_team": "Alloa Athletic",
-        "away_team": "Raith Rovers",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Arbroath",
-        "away_team": "Dumbarton",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Tottenham Hotspur U23",
@@ -93798,13 +93387,6 @@
         "away_goals_minutes": [
             "71’'"
         ]
-    },
-    {
-        "home_team": "Dundee United",
-        "away_team": "Dunfermline Athletic",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Frej",
@@ -96073,69 +95655,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Kortrijk",
-        "away_team": "Zulte Waregem",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eupen",
-        "away_team": "Sint-Truiden",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Waasland-Beveren",
-        "away_team": "Excel Mouscron",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lierse",
-        "away_team": "OH Leuven",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lokeren",
-        "away_team": "Antwerp",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Almere City",
-        "away_team": "MVV Maastricht",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cambuur",
-        "away_team": "Dordrecht",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Raith Rovers",
-        "away_team": "Alloa Athletic",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dumbarton",
-        "away_team": "Arbroath",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Münster U17",
         "away_team": "Duisburg U17",
         "score": "0 - 2",
@@ -97357,13 +96876,6 @@
         ]
     },
     {
-        "home_team": "Vitosha Bistritsa",
-        "away_team": "Dunav Ruse",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Beroe",
         "away_team": "Vereya",
         "score": "1 - 0",
@@ -97566,13 +97078,6 @@
         ]
     },
     {
-        "home_team": "Helsingør",
-        "away_team": "Randers",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "FC Copenhagen",
         "away_team": "Brøndby",
         "score": "1 - 1",
@@ -97590,13 +97095,6 @@
         "home_goals_minutes": [
             "66’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lyngby",
-        "away_team": "Silkeborg",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -98447,13 +97945,6 @@
         ]
     },
     {
-        "home_team": "Beerschot Wilrijk",
-        "away_team": "Oostende",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Leganés",
         "away_team": "Levante",
         "score": "0 - 3",
@@ -98523,13 +98014,6 @@
         "away_goals_minutes": [
             "68’'"
         ]
-    },
-    {
-        "home_team": "Etar",
-        "away_team": "Pirin Blagoevgrad",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Midtjylland",
@@ -98756,13 +98240,6 @@
             "88’'",
             "90+5’'"
         ]
-    },
-    {
-        "home_team": "Dundee United",
-        "away_team": "Livingston",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Gefle",
@@ -99017,27 +98494,6 @@
         "away_goals_minutes": [
             "28’'"
         ]
-    },
-    {
-        "home_team": "OH Leuven",
-        "away_team": "Kortrijk",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Excel Mouscron",
-        "away_team": "Lierse",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Zulte Waregem",
-        "away_team": "Waasland-Beveren",
-        "score": "8 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Liverpool U23",
@@ -99615,34 +99071,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Sint-Truiden",
-        "away_team": "Beerschot Wilrijk",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Oostende",
-        "away_team": "Lokeren",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Antwerp",
-        "away_team": "Eupen",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Alloa Athletic",
-        "away_team": "Dumbarton",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Boston River",
         "away_team": "Jaguares",
         "score": "3 - 0",
@@ -99839,27 +99267,6 @@
         "away_goals_minutes": [
             "87’'"
         ]
-    },
-    {
-        "home_team": "Telstar",
-        "away_team": "De Graafschap",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Emmen",
-        "away_team": "NEC Nijmegen",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dordrecht",
-        "away_team": "Sparta Rotterdam",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Almere City",
@@ -100267,13 +99674,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Livingston",
-        "away_team": "Dundee United",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Örgryte",
         "away_team": "Gefle",
         "score": "3 - 1",
@@ -100285,27 +99685,6 @@
         "away_goals_minutes": [
             "35’'"
         ]
-    },
-    {
-        "home_team": "Lierse",
-        "away_team": "Waasland-Beveren",
-        "score": "0 - 5*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "OH Leuven",
-        "away_team": "Zulte Waregem",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kortrijk",
-        "away_team": "Excel Mouscron",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Yeovil Town",
@@ -102401,27 +101780,6 @@
         ]
     },
     {
-        "home_team": "Eupen",
-        "away_team": "Oostende",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lokeren",
-        "away_team": "Beerschot Wilrijk",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Antwerp",
-        "away_team": "Sint-Truiden",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Aston Villa U23",
         "away_team": "Brighton & Hove Albion U23",
         "score": "0 - 2",
@@ -103384,20 +102742,6 @@
         ]
     },
     {
-        "home_team": "Randers",
-        "away_team": "Helsingør",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Silkeborg",
-        "away_team": "Lyngby",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Hobro",
         "away_team": "SønderjyskE",
         "score": "3 - 2",
@@ -104070,16 +103414,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Lausanne-Sport",
-        "away_team": "Thun",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": [
-            "49’'",
-            "62’'"
-        ]
-    },
-    {
         "home_team": "Zürich",
         "away_team": "Basel",
         "score": "4 - 1",
@@ -104387,41 +103721,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "De Graafschap",
-        "away_team": "Telstar",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "NEC Nijmegen",
-        "away_team": "Emmen",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sparta Rotterdam",
-        "away_team": "Dordrecht",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Roda JC Kerkrade",
-        "away_team": "Almere City",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dumbarton",
-        "away_team": "Alloa Athletic",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Cottbus U17",
         "away_team": "HSV U17",
         "score": "0 - 2",
@@ -104537,20 +103836,6 @@
         "away_goals_minutes": [
             "33’'"
         ]
-    },
-    {
-        "home_team": "Dunav Ruse",
-        "away_team": "Vitosha Bistritsa",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pirin Blagoevgrad",
-        "away_team": "Etar",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Slaven Belupo",
@@ -105286,41 +104571,6 @@
         ]
     },
     {
-        "home_team": "Wolfsburg",
-        "away_team": "Holstein Kiel",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Vitosha Bistritsa",
-        "away_team": "Pirin Blagoevgrad",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Etar",
-        "away_team": "Dunav Ruse",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Helsingør",
-        "away_team": "Silkeborg",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lyngby",
-        "away_team": "Randers",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Santos Laguna",
         "away_team": "Toluca",
         "score": "2 - 1",
@@ -105453,20 +104703,6 @@
         "home_team": "Emmen",
         "away_team": "Sparta Rotterdam",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Almere City",
-        "away_team": "De Graafschap",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Livingston",
-        "away_team": "Partick Thistle",
-        "score": "2 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -105803,18 +105039,6 @@
         ]
     },
     {
-        "home_team": "Ayacucho",
-        "away_team": "Comerciantes Unidos",
-        "score": "3* - 0",
-        "home_goals_minutes": [
-            "81’'"
-        ],
-        "away_goals_minutes": [
-            "33’'",
-            "58’'"
-        ]
-    },
-    {
         "home_team": "Sport Huancayo",
         "away_team": "Real Garcilaso",
         "score": "1 - 1",
@@ -106040,27 +105264,6 @@
         "away_goals_minutes": [
             "51’'"
         ]
-    },
-    {
-        "home_team": "Zulte Waregem",
-        "away_team": "Lierse",
-        "score": "5* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Excel Mouscron",
-        "away_team": "OH Leuven",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Waasland-Beveren",
-        "away_team": "Kortrijk",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "IR Iran",
@@ -107627,27 +106830,6 @@
         ]
     },
     {
-        "home_team": "Oostende",
-        "away_team": "Antwerp",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Beerschot Wilrijk",
-        "away_team": "Eupen",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sint-Truiden",
-        "away_team": "Lokeren",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "HSV U17",
         "away_team": "Eintracht Braunschweig U17",
         "score": "3 - 0",
@@ -108476,16 +107658,6 @@
         ]
     },
     {
-        "home_team": "Lech Poznań",
-        "away_team": "Legia Warsaw",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": [
-            "10’'",
-            "69’'"
-        ]
-    },
-    {
         "home_team": "Górnik Zabrze",
         "away_team": "Wisła Kraków",
         "score": "2 - 0",
@@ -108792,27 +107964,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Sparta Rotterdam",
-        "away_team": "Emmen",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "De Graafschap",
-        "away_team": "Almere City",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Partick Thistle",
-        "away_team": "Livingston",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Lugo",
         "away_team": "Huesca",
         "score": "0 - 2",
@@ -108821,13 +107972,6 @@
             "6’'",
             "38’'"
         ]
-    },
-    {
-        "home_team": "Holstein Kiel",
-        "away_team": "Wolfsburg",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Montreal Impact",
@@ -108850,20 +107994,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Pirin Blagoevgrad",
-        "away_team": "Vitosha Bistritsa",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dunav Ruse",
-        "away_team": "Etar",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "CD Temuco",
         "away_team": "San Luis",
         "score": "2 - 2",
@@ -108875,20 +108005,6 @@
             "58’'",
             "78’'"
         ]
-    },
-    {
-        "home_team": "Randers",
-        "away_team": "Lyngby",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Silkeborg",
-        "away_team": "Helsingør",
-        "score": "4 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Brøndby",
@@ -109063,20 +108179,6 @@
         "away_goals_minutes": [
             "28’'"
         ]
-    },
-    {
-        "home_team": "Erzgebirge Aue",
-        "away_team": "Karlsruher",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Grenoble Foot",
-        "away_team": "Bourg-Péronnas",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "SønderjyskE",
@@ -109254,13 +108356,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Ajaccio",
-        "away_team": "Toulouse",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Orlando Pride",
         "away_team": "North Carolina Courage",
         "score": "3 - 4",
@@ -109403,13 +108498,6 @@
             "17’'",
             "40’'"
         ]
-    },
-    {
-        "home_team": "Zulte Waregem",
-        "away_team": "Lokeren",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Freiburg U17",
@@ -110998,13 +110086,6 @@
         "home_team": "Paris FC",
         "away_team": "Fleury",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Toulouse",
-        "away_team": "Ajaccio",
-        "score": "1 - 0",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -114311,18 +113392,6 @@
         "score": "0 - 0",
         "home_goals_minutes": [],
         "away_goals_minutes": []
-    },
-    {
-        "home_team": "Freiburg",
-        "away_team": "Essen",
-        "score": "1 - 1",
-        "home_goals_minutes": [
-            "90+2’'"
-        ],
-        "away_goals_minutes": [
-            "9’'",
-            "9’'"
-        ]
     },
     {
         "home_team": "MSV Duisburg",
@@ -131280,13 +130349,6 @@
         ]
     },
     {
-        "home_team": "Liverpool",
-        "away_team": "El Tanque Sisley",
-        "score": "0* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Defensor Sporting",
         "away_team": "Danubio",
         "score": "1 - 2",
@@ -140399,27 +139461,6 @@
         ]
     },
     {
-        "home_team": "Thetford",
-        "away_team": "Fakenham",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ascot United",
-        "away_team": "Camberley",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Winslow Utd",
-        "away_team": "Easington",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Ingolstadt 04",
         "away_team": "Greuther Fürth",
         "score": "1 - 1",
@@ -141735,205 +140776,9 @@
         ]
     },
     {
-        "home_team": "Croydon FC",
-        "away_team": "Tunbridge Well",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Tadley Calleva",
-        "away_team": "Baffins Milton",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Romulus",
-        "away_team": "Westfields",
-        "score": "6 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Burscough",
-        "away_team": "1874 Northwich",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Framlingham",
-        "away_team": "Whitton",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Penistone",
-        "away_team": "Bootle FC",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sileby Rangers",
-        "away_team": "Ely City",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Staveley MW",
-        "away_team": "Boston Town",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wednesfield",
-        "away_team": "Rocester FC",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Whitworth",
-        "away_team": "Harborough",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bodmin Town",
-        "away_team": "Keynsham Town",
-        "score": "4 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Croydon",
-        "away_team": "Rochester Utd",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Godmanchester",
-        "away_team": "Newport Pagnel",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bemerton Heath",
-        "away_team": "Cowes Sports",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Selby Town",
-        "away_team": "Whickham",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bottesford",
-        "away_team": "Radford FC",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Crowborough",
-        "away_team": "Hanworth",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Arundel FC",
-        "away_team": "Chertsey",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Hallen",
         "away_team": "Longwell GS",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kirkley & Pak.",
-        "away_team": "Clacton",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Leighton Town",
-        "away_team": "Wootton Basset",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Northallerton",
-        "away_team": "Garforth",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ellesmere",
-        "away_team": "Leicester Road",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Swaffham",
-        "away_team": "Yaxley",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hamble Club",
-        "away_team": "Alresford Town",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brislington",
-        "away_team": "Cadbury Heath",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sunderland RCA",
-        "away_team": "Ryhope CW",
-        "score": "5 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Beckenham Town",
-        "away_team": "Colliers Wood",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Tuffley",
-        "away_team": "Colney Heath",
-        "score": "1 - 4",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -141945,387 +140790,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Boldmere",
-        "away_team": "Malvern",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Holmer Green",
-        "away_team": "Longlevens",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brockenhurst",
-        "away_team": "Christchurch",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hullbridge",
-        "away_team": "Gorleston",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rainworth",
-        "away_team": "Dunkirk",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eastbourne Utd",
-        "away_team": "Hackney Wick",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Abingdon Utd",
-        "away_team": "Burnham",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Melksham",
-        "away_team": "Badshot Lea FC",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Teversal",
-        "away_team": "L'borough Uni",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cobham",
-        "away_team": "Sheppey",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Utd Services",
-        "away_team": "Andover",
-        "score": "5 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sleaford Town",
-        "away_team": "Normanton",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wroxham",
-        "away_team": "Saffron Walden",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sandhurst",
-        "away_team": "Lymington Town",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Clevedon Town",
-        "away_team": "Portland",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Bridport",
         "away_team": "Wellington",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Spelthorne",
-        "away_team": "Peacehaven",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fareham Town",
-        "away_team": "Frimley Green",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Horndean FC",
-        "away_team": "Godalming",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bradford Town",
-        "away_team": "Roman Glass",
-        "score": "5 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Nirvana",
-        "away_team": "Grimsby Boro",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fisher",
-        "away_team": "Horsham YMCA",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wells City FC",
-        "away_team": "Shaftesbury",
-        "score": "2 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Windsor",
-        "away_team": "Highworth",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Raynes Park",
-        "away_team": "Lingfield FC",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Glasshoughton",
-        "away_team": "Blyth Town",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Uckfield",
-        "away_team": "Glebe",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "West Didsbury",
-        "away_team": "Squires Gate",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sevenoaks",
-        "away_team": "Lordswood",
-        "score": "6 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stourport",
-        "away_team": "Shawbury Utd",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Liversedge",
-        "away_team": "Padiham",
-        "score": "5 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Woodbridge",
-        "away_team": "Clapton",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Haverhill Rov",
-        "away_team": "Haverhill",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bearsted",
-        "away_team": "Chichester",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Highmoor",
-        "away_team": "Chipping",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Arlesey",
-        "away_team": "Desborough",
-        "score": "3 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bishops Cleeve",
-        "away_team": "Stotfold",
-        "score": "5 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Knaphill",
-        "away_team": "Sholing FC",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Broadfields",
-        "away_team": "Banstead",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Winsford Utd",
-        "away_team": "Irlam",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Heather",
-        "away_team": "Kimberley",
-        "score": "3 - 6",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Daventry Town",
-        "away_team": "Potton United",
-        "score": "9 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Quorn",
-        "away_team": "Belper Utd",
-        "score": "6 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sphinx",
-        "away_team": "Alport",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Oxhey Jets",
-        "away_team": "Wantage",
-        "score": "3 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Burnham Ram",
-        "away_team": "West Essex",
-        "score": "3 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Benfield",
-        "away_team": "Stockton Town",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ipswich WFC",
-        "away_team": "Baldock",
-        "score": "0 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Flackwell H",
-        "away_team": "Nth Greenford",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Biggleswade U",
-        "away_team": "W'borough T",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saltash",
-        "away_team": "Odd Down AFC",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Raunds Town",
-        "away_team": "Eynesbury",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lutterworth",
-        "away_team": "Heanor Town",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kirby Muxloe",
-        "away_team": "Mansfield",
-        "score": "0 - 6",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "City Liverpool",
-        "away_team": "Silsden",
-        "score": "3 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -142337,576 +140804,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Biggleswade FC",
-        "away_team": "ON Chenecks",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Redbridge",
-        "away_team": "Long Melford",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Highgate",
-        "away_team": "Wulfrunians",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Crawley Green",
-        "away_team": "Woodley",
-        "score": "7 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Southend Manor",
-        "away_team": "Romania",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Corinthian",
-        "away_team": "Canterbury",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wodson Park",
-        "away_team": "Hoddesdon",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Consett",
-        "away_team": "North Shields",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Maltby Main",
-        "away_team": "Athersley",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ashington",
-        "away_team": "Knaresborough",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Shepton Mallet",
-        "away_team": "Willand Rovers",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Holyport",
-        "away_team": "Brimscombe",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Stoneham",
         "away_team": "Portchester",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Litherland",
-        "away_team": "Charnock",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hebburn",
-        "away_team": "Dunston",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Newport IoW",
-        "away_team": "Amesbury Town",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Buckland Athl.",
-        "away_team": "Pewsey Vale",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Atherstone",
-        "away_team": "Hanley Town",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Prestwich Heys",
-        "away_team": "Abbey Hey",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "RC Warwick",
-        "away_team": "Coleshill",
-        "score": "4 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Westbury Utd",
-        "away_team": "Cribbs",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "London Lions",
-        "away_team": "Wembley",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rothwell",
-        "away_team": "Pinchbeck",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stowmarket",
-        "away_team": "Basildon",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hinckley",
-        "away_team": "Anstey",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hemsworth",
-        "away_team": "Runcorn Town",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Great Yarmouth",
-        "away_team": "Hadleigh",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "East Preston",
-        "away_team": "Balham",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Congleton",
-        "away_team": "Eccleshill",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Goole",
-        "away_team": "Morpeth",
-        "score": "1 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "AFC Darwen",
-        "away_team": "Barnton",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Harpenden",
-        "away_team": "Edgware Town",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Walthamstow",
-        "away_team": "Walsham",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Washington FC",
-        "away_team": "Wst Auckland",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Broadbridge",
-        "away_team": "Shoreham",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hassocks",
-        "away_team": "Erith Town",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hengrove",
-        "away_team": "Parkway",
-        "score": "1 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bitton",
-        "away_team": "Tavistock",
-        "score": "7 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Thackley",
-        "away_team": "Whitley Bay",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Walsall Wood",
-        "away_team": "Worcester City",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hadley",
-        "away_team": "Fairford",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "AFC Liverpool",
-        "away_team": "Ashton",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Seaham",
-        "away_team": "Heaton Stann.",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Deal Town",
-        "away_team": "Whitstable",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Parkgate",
-        "away_team": "Sandbach",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bridlington",
-        "away_team": "Harrogate RW",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Tring Athletic",
-        "away_team": "Berkhamsted",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chatham Town",
-        "away_team": "Walton & Hers.",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cogenhoe",
-        "away_team": "Wisbech",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bashley",
-        "away_team": "Bournemouth",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Crawley Down",
-        "away_team": "Three Bridges",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bishop AL",
-        "away_team": "Pickering",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brackley Sts",
-        "away_team": "London Colney",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Penrith",
-        "away_team": "Albion Sports",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sporting BU",
-        "away_team": "Ilford",
-        "score": "4 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Loxwood",
-        "away_team": "Hollands",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Worthing Utd",
-        "away_team": "Littlehampton",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Redhill FC",
-        "away_team": "Horley Town",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Haughmond",
-        "away_team": "WH Sporting",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Worksop",
-        "away_team": "Shepshed",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Widnes",
-        "away_team": "Northwich Vic",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Maine Road",
-        "away_team": "Handsworth",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guisborough",
-        "away_team": "Aycliffe",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Khalsa",
-        "away_team": "Tividale",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "K Sports",
-        "away_team": "Pagham",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cheddar",
-        "away_team": "Bridgwater T",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Andover NS",
-        "away_team": "Romsey Town",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Abbey",
-        "away_team": "Newhaven",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Haywards",
-        "away_team": "Lancing FC",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ardley",
-        "away_team": "Shortwood Utd",
-        "score": "7 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Histon",
-        "away_team": "Peterborough N",
-        "score": "6 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Deeping",
-        "away_team": "Holbeach Utd",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hamworthy",
-        "away_team": "Solent",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wivenhoe",
-        "away_team": "Brantham",
-        "score": "0 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Norwich Utd",
-        "away_team": "Takeley",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Farnham Town",
-        "away_team": "Binfield FC",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cockfosters FC",
-        "away_team": "Newmarket",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Oadby Town",
-        "away_team": "Shirebrook",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Barnoldswick",
-        "away_team": "Synthonia",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guildford",
-        "away_team": "Petersfield",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Long Eaton",
-        "away_team": "St. Andrews",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Northumbria",
-        "away_team": "Shildon",
-        "score": "0 - 3*",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -145095,83 +142995,6 @@
             "14’'",
             "64’'"
         ]
-    },
-    {
-        "home_team": "AFC Hayes",
-        "away_team": "Lydney",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Little Common",
-        "away_team": "Bedfont Sports",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stansted",
-        "away_team": "Sawbridgeworth",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Margaretsbury",
-        "away_team": "Enfield 1893",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cray Valley",
-        "away_team": "Eastbourne T",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Coventry Utd",
-        "away_team": "Rugby Town",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rusthall",
-        "away_team": "Wick",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hallam",
-        "away_team": "Runcorn",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sutton Common",
-        "away_team": "CB Hounslow",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Langney",
-        "away_team": "Epsom & Ewell",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Southall",
-        "away_team": "Leverstock",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Sevilla",
@@ -147758,195 +145581,6 @@
         ]
     },
     {
-        "home_team": "Hanworth",
-        "away_team": "Crowborough",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pagham",
-        "away_team": "K Sports",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Malvern",
-        "away_team": "Boldmere",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Worcester City",
-        "away_team": "Walsall Wood",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bedfont Sports",
-        "away_team": "Little Common",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Barton Town OB",
-        "away_team": "Clipstone",
-        "score": "3 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Clapton",
-        "away_team": "Woodbridge",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Longwell GS",
-        "away_team": "Hallen",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Aycliffe",
-        "away_team": "Guisborough",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saltdean",
-        "away_team": "Erith & Belv.",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Portchester",
-        "away_team": "Stoneham",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saffron Walden",
-        "away_team": "Wroxham",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Alresford Town",
-        "away_team": "Hamble Club",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "1874 Northwich",
-        "away_team": "Burscough",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Christchurch",
-        "away_team": "Brockenhurst",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Keynsham Town",
-        "away_team": "Bodmin Town",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Burnham",
-        "away_team": "Abingdon Utd",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hanley Town",
-        "away_team": "Atherstone",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Shepshed",
-        "away_team": "Worksop",
-        "score": "4 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ashton",
-        "away_team": "AFC Liverpool",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Colliers Wood",
-        "away_team": "Beckenham Town",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chipping",
-        "away_team": "Highmoor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "W'borough T",
-        "away_team": "Biggleswade U",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Whitton",
-        "away_team": "Framlingham",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Easington",
-        "away_team": "Winslow Utd",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Anstey",
-        "away_team": "Hinckley",
-        "score": "4 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Tunbridge Well",
-        "away_team": "Croydon FC",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Nottingham Forest",
         "away_team": "Bury",
         "score": "1 - 1",
@@ -148614,90 +146248,6 @@
             "78’'",
             "86’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Willand Rovers",
-        "away_team": "Shepton Mallet",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Heaton Stann.",
-        "away_team": "Seaham",
-        "score": "4 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Littlehampton",
-        "away_team": "Worthing Utd",
-        "score": "2 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Runcorn Town",
-        "away_team": "Hemsworth",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Synthonia",
-        "away_team": "Barnoldswick",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Highworth",
-        "away_team": "Windsor",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Leyton AFC",
-        "away_team": "Barkingside",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wellington",
-        "away_team": "Bridport",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Northwich Vic",
-        "away_team": "Widnes",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stockton Town",
-        "away_team": "Benfield",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Whitstable",
-        "away_team": "Deal Town",
-        "score": "4 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lymington Town",
-        "away_team": "Sandhurst",
-        "score": "5 - 1",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -152983,13 +150533,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Peñarol",
-        "away_team": "El Tanque Sisley",
-        "score": "0* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Danubio",
         "away_team": "Montevideo Wanderers",
         "score": "2 - 2",
@@ -156407,20 +153950,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Tower Hamlets",
-        "away_team": "Stanway Rovers",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Clacton",
-        "away_team": "Kirkley & Pak.",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Seattle Reign FC",
         "away_team": "Houston Dash",
         "score": "2 - 0",
@@ -156594,13 +154123,6 @@
         "away_goals_minutes": [
             "40’'"
         ]
-    },
-    {
-        "home_team": "Independiente",
-        "away_team": "Santos",
-        "score": "3* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Young Boys",
@@ -157522,34 +155044,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Tooting & M.",
-        "away_team": "Horley Town",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Utd Services",
-        "away_team": "Sholing FC",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Thetford",
-        "away_team": "Godmanchester",
-        "score": "0 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bowers/Pitsea",
-        "away_team": "Barking",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Getafe",
         "away_team": "Eibar",
         "score": "2 - 0",
@@ -157851,317 +155345,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Crawley Green",
-        "away_team": "Aylesbury Utd",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Thatcham",
         "away_team": "Bemerton Heath",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Atherton",
-        "away_team": "Colwyn Bay",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Alvechurch",
-        "away_team": "Bromsgrove",
-        "score": "4 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Malvern",
-        "away_team": "RC Warwick",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "CB Hounslow",
-        "away_team": "Whitstable",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sutton C'field",
-        "away_team": "Gresley",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brentwood",
-        "away_team": "Sporting BU",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ascot United",
-        "away_team": "Horndean FC",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Heybridge",
-        "away_team": "West Essex",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Beckenham Town",
-        "away_team": "Epsom & Ewell",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cirencester",
-        "away_team": "Windsor",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bridlington",
-        "away_team": "Garforth",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Consett",
-        "away_team": "Seaham",
-        "score": "5 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hallen",
-        "away_team": "Bridport",
-        "score": "0 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Loxwood",
-        "away_team": "Erith Town",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Staveley MW",
-        "away_team": "Lutterworth",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Winchester",
-        "away_team": "Bournemouth",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Woodbridge",
-        "away_team": "Hadleigh",
-        "score": "5 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Spalding",
-        "away_team": "W'borough T",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Grimsby Boro",
-        "away_team": "Long Eaton",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Quorn",
-        "away_team": "Normanton",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Loughborough",
-        "away_team": "Bottesford",
-        "score": "2 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "East Grinstead",
-        "away_team": "South Park",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Thame United",
-        "away_team": "Berkhamsted",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chipstead",
-        "away_team": "Corinthian",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ardley",
-        "away_team": "Burnham",
-        "score": "2 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "City Liverpool",
-        "away_team": "Glossop NE",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Beaconsfield",
-        "away_team": "Uxbridge",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Corby Town",
-        "away_team": "Dunstable",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Faversham",
-        "away_team": "Hackney Wick",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Histon",
-        "away_team": "Eynesbury",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bedworth Utd",
-        "away_team": "Atherstone",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chalfont",
-        "away_team": "London Lions",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Walsall Wood",
-        "away_team": "Alport",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Basildon",
-        "away_team": "Whitton",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dunston",
-        "away_team": "Pontefract",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Westbury Utd",
-        "away_team": "Saltash",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Morpeth",
-        "away_team": "Marske Utd",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kimberley",
-        "away_team": "Oadby Town",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cheshunt FC",
-        "away_team": "Canvey",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Salisbury FC",
-        "away_team": "Hamble Club",
-        "score": "6 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Felixstowe",
-        "away_team": "Walthamstow",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sittingbourne",
-        "away_team": "Bearsted",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Knaresborough",
-        "away_team": "Blyth Town",
-        "score": "5 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -158173,86 +155359,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Sileby Rangers",
-        "away_team": "Wisbech",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stocksbridge",
-        "away_team": "Bamber Bridge",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bishops Cleeve",
-        "away_team": "Nth Greenford",
-        "score": "5 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Aveley",
-        "away_team": "Potters Bar",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Harpenden",
-        "away_team": "Leverstock",
-        "score": "0 - 6",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "AFC Dunstable",
         "away_team": "Supermarine",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Baffins Milton",
-        "away_team": "Hartley",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bradford Town",
-        "away_team": "Paulton",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Penistone",
-        "away_team": "Runcorn Town",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Frickley",
-        "away_team": "Liversedge",
-        "score": "10 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Croydon",
-        "away_team": "Hanworth",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ashford Utd",
-        "away_team": "Horsham YMCA",
-        "score": "0 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -160739,34 +157848,6 @@
         "home_goals_minutes": [
             "20’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stansted",
-        "away_team": "Takeley",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cray Valley",
-        "away_team": "Ashford",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Romford",
-        "away_team": "Baldock",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Worksop",
-        "away_team": "Carlton",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -163349,20 +160430,6 @@
         ]
     },
     {
-        "home_team": "Epsom & Ewell",
-        "away_team": "Beckenham Town",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eynesbury",
-        "away_team": "Histon",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Swansea City",
         "away_team": "Crystal Palace",
         "score": "0 - 1",
@@ -163853,34 +160920,6 @@
         "away_goals_minutes": [
             "70’'"
         ]
-    },
-    {
-        "home_team": "Cadbury Heath",
-        "away_team": "Bodmin Town",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guisborough",
-        "away_team": "Albion Sports",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hadley",
-        "away_team": "Brackley Sts",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sporting BU",
-        "away_team": "Brentwood",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Everton",
@@ -166445,13 +163484,6 @@
         ]
     },
     {
-        "home_team": "Cosenza",
-        "away_team": "Hellas Verona",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Carpi",
         "away_team": "Cittadella",
         "score": "0 - 1",
@@ -167554,16 +164586,6 @@
         ]
     },
     {
-        "home_team": "Comerciantes Unidos",
-        "away_team": "Ayacucho",
-        "score": "0 - 3*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": [
-            "21’'",
-            "40’'"
-        ]
-    },
-    {
         "home_team": "Sporting Cristal",
         "away_team": "Sport Boys",
         "score": "4 - 0",
@@ -167927,13 +164949,6 @@
             "43’'",
             "56’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Danubio",
-        "away_team": "El Tanque Sisley",
-        "score": "0* - 0",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {
@@ -170338,13 +167353,6 @@
         ]
     },
     {
-        "home_team": "Erith Town",
-        "away_team": "Loxwood",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Almería",
         "away_team": "Málaga",
         "score": "0 - 1",
@@ -170812,48 +167820,6 @@
         ]
     },
     {
-        "home_team": "Chasetown FC",
-        "away_team": "Wednesfield",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dunstable",
-        "away_team": "Corby Town",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Biggleswade FC",
-        "away_team": "Soham Town",
-        "score": "3 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Selby Town",
-        "away_team": "Kendal Town",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Market Drayton",
-        "away_team": "Haughmond",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bristol Manor",
-        "away_team": "Bideford",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Ramsbottom",
         "away_team": "Kidsgrove",
         "score": "0 - 0",
@@ -170861,128 +167827,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Lydney",
-        "away_team": "Wootton Basset",
-        "score": "5 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bemerton Heath",
-        "away_team": "Thatcham",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Glossop NE",
-        "away_team": "City Liverpool",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wantage",
-        "away_team": "Slimbridge",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sunderland RCA",
-        "away_team": "Clitheroe",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Aylesbury VD",
-        "away_team": "Didcot Town",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Spelthorne",
-        "away_team": "Raynes Park",
-        "score": "4 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Squires Gate",
-        "away_team": "Droylsden",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Charnock",
-        "away_team": "Leek Town",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cleethorpes",
-        "away_team": "L'borough Uni",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Saltdean",
-        "away_team": "Whyteleafe",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Supermarine",
-        "away_team": "AFC Dunstable",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mossley",
-        "away_team": "Ossett Utd",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hanworth",
-        "away_team": "Croydon",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rushden & Dia",
-        "away_team": "Deeping",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Wisbech",
         "away_team": "Sileby Rangers",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Witham",
-        "away_team": "Coggeshall",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Peterborough",
-        "away_team": "Stamford",
-        "score": "4 - 3",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -171175,20 +168022,6 @@
         "away_goals_minutes": [
             "90’'"
         ]
-    },
-    {
-        "home_team": "Lewes FC",
-        "away_team": "Molesey",
-        "score": "8 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rusthall",
-        "away_team": "Cray",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Mensajero",
@@ -172026,13 +168859,6 @@
         ]
     },
     {
-        "home_team": "Basford Utd",
-        "away_team": "Staveley MW",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Las Palmas",
         "away_team": "Gimnàstic",
         "score": "4 - 0",
@@ -172833,13 +169659,6 @@
         ]
     },
     {
-        "home_team": "Maltby Main",
-        "away_team": "Frickley",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Haverhill Rov",
         "away_team": "Long Melford",
         "score": "0 - 0",
@@ -172854,163 +169673,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Highgate",
-        "away_team": "Stourbridge",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Moneyfields",
-        "away_team": "Thamesmead",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sittingbourne",
-        "away_team": "Gosport",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Sholing FC",
         "away_team": "Hamworthy",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bishops Cleeve",
-        "away_team": "Wantage",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bowers/Pitsea",
-        "away_team": "Takeley",
-        "score": "5 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chasetown FC",
-        "away_team": "Gainsborough",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ware",
-        "away_team": "Lowestoft",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Melksham",
-        "away_team": "Merthyr Town",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Daventry Town",
-        "away_team": "Grantham Town",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brentwood",
-        "away_team": "Haringey",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Squires Gate",
-        "away_team": "City Liverpool",
-        "score": "1 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Clitheroe",
-        "away_team": "Mossley",
-        "score": "2 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Walthamstow",
-        "away_team": "Beaconsfield",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "King's Lynn",
-        "away_team": "Histon",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hayes&Yeading",
-        "away_team": "Rushden & Dia",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Egham Town",
-        "away_team": "Staines Town",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cambridge Ct",
-        "away_team": "Brightlingsea",
-        "score": "3 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hornchurch",
-        "away_team": "Harrow Borough",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Phoenix Sports",
-        "away_team": "Lancing FC",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sudbury",
-        "away_team": "Royston",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stratford",
-        "away_team": "Alvechurch",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Enfield",
-        "away_team": "Bedford",
-        "score": "0 - 3",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -173022,135 +169687,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Sutton C'field",
-        "away_team": "Rushall",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Basildon",
-        "away_team": "Peterborough",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Grimsby Boro",
-        "away_team": "Stafford",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Anstey",
-        "away_team": "Oadby Town",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Benfield",
-        "away_team": "Workington",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Farnborough",
-        "away_team": "Lewes FC",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Parkway",
         "away_team": "Street FC",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stoneham",
-        "away_team": "Cirencester",
-        "score": "0 - 7",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Barton",
-        "away_team": "Needham",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fleet Town",
-        "away_team": "East Grinstead",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bridport",
-        "away_team": "Tiverton Town",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Supermarine",
-        "away_team": "Woodbridge",
-        "score": "7 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chalfont",
-        "away_team": "Kempston",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brantham",
-        "away_team": "Spalding",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bamber Bridge",
-        "away_team": "Tadcaster",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cheshunt FC",
-        "away_team": "Leiston",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Coalville",
-        "away_team": "RC Warwick",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Atherton",
-        "away_team": "Kidsgrove",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Horsham YMCA",
-        "away_team": "Tooting & M.",
-        "score": "1 - 2",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -173162,20 +169701,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Margate",
-        "away_team": "Horndean FC",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Romania",
-        "away_team": "Soham Town",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Northwood FC",
         "away_team": "Kings Langley",
         "score": "0 - 0",
@@ -173183,317 +169708,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Frome Town",
-        "away_team": "Winchester",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chesham United",
-        "away_team": "Biggleswade",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Corinthian",
-        "away_team": "Horsham",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wingate",
-        "away_team": "Didcot Town",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Coggeshall",
-        "away_team": "Berkhamsted",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Whitstable",
-        "away_team": "Bognor Regis",
-        "score": "0 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cleethorpes",
-        "away_team": "Walsall Wood",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Heybridge",
-        "away_team": "Newmarket",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hythe",
-        "away_team": "Tonbridge",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Runcorn Town",
-        "away_team": "Irlam",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Uckfield",
-        "away_team": "Croydon",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lancaster",
-        "away_team": "Trafford",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hednesford",
-        "away_team": "Tamworth",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hastings Utd",
-        "away_team": "Kingstonian",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Nantwich Town",
-        "away_team": "Worksop",
-        "score": "5 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dunston",
-        "away_team": "North Ferriby",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Leverstock",
         "away_team": "Hadley",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Witton",
-        "away_team": "Bottesford",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gr. Wakering",
-        "away_team": "Wisbech",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Shaftesbury",
-        "away_team": "Poole",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Knaresborough",
-        "away_team": "Kendal Town",
-        "score": "7 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guisborough",
-        "away_team": "Farsley",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Taunton Town",
-        "away_team": "Bemerton Heath",
-        "score": "7 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Pagham",
-        "away_team": "Whitehawk",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dorking Wand.",
-        "away_team": "Hartley",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Warrington",
-        "away_team": "Burscough",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Barwell",
-        "away_team": "Buxton",
-        "score": "2 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "St. Neots",
-        "away_team": "Bishop's",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Marine",
-        "away_team": "Scarborough",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Binfield FC",
-        "away_team": "Buckland Athl.",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Whitley Bay",
-        "away_team": "Whitby Town",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Corby Town",
-        "away_team": "Hertford Town",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Faversham",
-        "away_team": "Worthing Utd",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Burgess Hill",
-        "away_team": "Folkestone",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Burnham",
-        "away_team": "Bury Town",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Redditch Utd",
-        "away_team": "Rugby Town",
-        "score": "2 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mickleover",
-        "away_team": "Haughmond",
-        "score": "6 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ashton",
-        "away_team": "Morpeth",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Quorn",
-        "away_team": "Atherstone",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Romulus",
-        "away_team": "Belper Town",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wimborne",
-        "away_team": "Dorchester",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hanwell",
-        "away_team": "Potters Bar",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Salisbury FC",
-        "away_team": "Yate Town",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hitchin",
-        "away_team": "Godmanchester",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Spelthorne",
-        "away_team": "Erith Town",
-        "score": "1 - 5",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -174302,15 +170519,6 @@
         ]
     },
     {
-        "home_team": "Ethiopia",
-        "away_team": "Sierra Leone",
-        "score": "-- - --*",
-        "home_goals_minutes": [
-            "35’'"
-        ],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Togo",
         "away_team": "Benin",
         "score": "0 - 0",
@@ -174504,20 +170712,6 @@
         "home_team": "Aylesbury Utd",
         "away_team": "Marlow",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Romford",
-        "away_team": "Kettering Town",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mansfield",
-        "away_team": "Stourport",
-        "score": "2 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -175084,13 +171278,6 @@
         ]
     },
     {
-        "home_team": "Rushall",
-        "away_team": "Sutton C'field",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Majadahonda",
         "away_team": "Lugo",
         "score": "1 - 0",
@@ -175402,174 +171589,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Lancing FC",
-        "away_team": "Phoenix Sports",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lydney",
-        "away_team": "Lymington Town",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Leiston",
-        "away_team": "Cheshunt FC",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kings Langley",
-        "away_team": "Northwood FC",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Marlow",
-        "away_team": "Aylesbury Utd",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Harlow Town FC",
-        "away_team": "Hendon",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hamworthy",
-        "away_team": "Sholing FC",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Street FC",
-        "away_team": "Parkway",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Whyteleafe",
-        "away_team": "Corinthian",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Banbury",
-        "away_team": "Weymouth",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Yate Town",
-        "away_team": "Salisbury FC",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Scarborough",
-        "away_team": "Marine",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Winchester",
-        "away_team": "Frome Town",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kempston",
-        "away_team": "Chalfont",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dorchester",
-        "away_team": "Wimborne",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sevenoaks",
-        "away_team": "Ramsgate",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gainsborough",
-        "away_team": "Chasetown FC",
-        "score": "8 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Walton",
-        "away_team": "Beckenham Town",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Histon",
-        "away_team": "King's Lynn",
-        "score": "0 - 7",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "St. Ives Town",
-        "away_team": "Saffron Walden",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Berkhamsted",
-        "away_team": "Coggeshall",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Workington",
-        "away_team": "Benfield",
-        "score": "5 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Morpeth",
-        "away_team": "Ashton",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Basingstoke",
-        "away_team": "Paulton",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Málaga",
         "away_team": "Almería",
         "score": "1 - 2",
@@ -175815,48 +171834,6 @@
             "60’'",
             "72’'"
         ]
-    },
-    {
-        "home_team": "Parkgate",
-        "away_team": "Leek Town",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Horsham",
-        "away_team": "Corinthian",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hadley",
-        "away_team": "Leverstock",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Long Melford",
-        "away_team": "Haverhill Rov",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Lewes FC",
-        "away_team": "Farnborough",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cray Valley",
-        "away_team": "Merstham",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Ebro",
@@ -179621,13 +175598,6 @@
         ]
     },
     {
-        "home_team": "Rampla Juniors",
-        "away_team": "El Tanque Sisley",
-        "score": "0* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Torque",
         "away_team": "Boston River",
         "score": "3 - 2",
@@ -182815,13 +178785,6 @@
         ]
     },
     {
-        "home_team": "Leek Town",
-        "away_team": "Parkgate",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Dresden",
         "away_team": "Hamburger SV",
         "score": "0 - 1",
@@ -184215,18 +180178,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Sanat Naft Abadan",
-        "away_team": "Paykan",
-        "score": "0 - 3*",
-        "home_goals_minutes": [
-            "26’'"
-        ],
-        "away_goals_minutes": [
-            "11’'",
-            "82’'"
-        ]
-    },
-    {
         "home_team": "Sepahan",
         "away_team": "Foolad",
         "score": "3 - 1",
@@ -185324,265 +181275,6 @@
         ]
     },
     {
-        "home_team": "Lymington Town",
-        "away_team": "Torquay",
-        "score": "0 - 7",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stourbridge",
-        "away_team": "Leamington",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Uckfield",
-        "away_team": "Dartford",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Witton",
-        "away_team": "Spennymoor",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hanwell",
-        "away_team": "Lowestoft",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Nuneaton",
-        "away_team": "Brackley Town",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "St. Neots",
-        "away_team": "Romulus",
-        "score": "4 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Weston",
-        "away_team": "Salisbury FC",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Poole",
-        "away_team": "Cinderford",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Altrincham",
-        "away_team": "Whitley Bay",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Nantwich Town",
-        "away_team": "Blyth Spartans",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "St. Ives Town",
-        "away_team": "Grantham Town",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Darlington",
-        "away_team": "Bradford PA",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cleethorpes",
-        "away_team": "Bamber Bridge",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Knaresborough",
-        "away_team": "Workington",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "H&R Borough",
-        "away_team": "Burgess Hill",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Boston United",
-        "away_team": "Peterborough",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wealdstone",
-        "away_team": "Gr. Wakering",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Horsham",
-        "away_team": "Heybridge",
-        "score": "4 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Woking",
-        "away_team": "Tooting & M.",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Coggeshall",
-        "away_team": "Walton",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chippenham",
-        "away_team": "Supermarine",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hornchurch",
-        "away_team": "East Grinstead",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Merthyr Town",
-        "away_team": "Winchester",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Alvechurch",
-        "away_team": "Corby Town",
-        "score": "1 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "East Thurrock",
-        "away_team": "Whitehawk",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mossley",
-        "away_team": "Kidsgrove",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Welling United",
-        "away_team": "Chesham United",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Police",
-        "away_team": "Needham",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Farsley",
-        "away_team": "Southport",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "York City",
-        "away_team": "Ashton",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Banbury",
-        "away_team": "Bath City",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Taunton Town",
-        "away_team": "Bitton",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bowers/Pitsea",
-        "away_team": "Hemel Hempst",
-        "score": "1 - 6",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bognor Regis",
-        "away_team": "Sudbury",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kettering Town",
-        "away_team": "Mansfield",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "United of Man",
-        "away_team": "Colne FC",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Hereford",
         "away_team": "Truro City",
         "score": "0 - 0",
@@ -185590,268 +181282,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Haverhill Rov",
-        "away_team": "Leatherhead",
-        "score": "0 - 6",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Billericay",
-        "away_team": "Burnham",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brantham",
-        "away_team": "Eastbourne Bor",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dulwich Hamlet",
-        "away_team": "Tonbridge",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "King's Lynn",
-        "away_team": "Stafford",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Slough",
-        "away_team": "Sholing FC",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Leverstock",
-        "away_team": "Dorking Wand.",
-        "score": "2 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Marine",
-        "away_team": "Frickley",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hayes&Yeading",
-        "away_team": "Moneyfields",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gosport",
-        "away_team": "Ramsgate",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Haringey",
-        "away_team": "Erith Town",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Binfield FC",
-        "away_team": "Cirencester",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Radcliffe",
-        "away_team": "Curzon Ashton",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dunston",
-        "away_team": "Irlam",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Tiverton Town",
-        "away_team": "Dorchester",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Buxton",
         "away_team": "Coalville",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bristol Manor",
-        "away_team": "Basingstoke",
-        "score": "5 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Anstey",
-        "away_team": "Mickleover",
-        "score": "1 - 7",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kings Langley",
-        "away_team": "Lewes FC",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sth Shields",
-        "away_team": "Stockport",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hitchin",
-        "away_team": "Didcot Town",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chelmsford",
-        "away_team": "Worthing",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Romania",
-        "away_team": "Beaconsfield",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kidderminster",
-        "away_team": "Atherstone",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chester",
-        "away_team": "City Liverpool",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Leiston",
-        "away_team": "Hastings Utd",
-        "score": "3 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Rugby Town",
-        "away_team": "Hednesford",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chorley",
-        "away_team": "Leek Town",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Telford United",
-        "away_team": "Bedford",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Egham Town",
-        "away_team": "Brightlingsea",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sutton C'field",
-        "away_team": "Alfreton Town",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Staveley MW",
-        "away_team": "Guiseley",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kempston",
-        "away_team": "Marlow",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Halesowen",
-        "away_team": "Gainsborough",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Consett",
-        "away_team": "Warrington",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Oxford City",
-        "away_team": "Cray Valley",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ashton Utd",
-        "away_team": "Trafford",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Concord Rang.",
-        "away_team": "Margate",
-        "score": "2 - 0",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -188597,13 +184030,6 @@
         ]
     },
     {
-        "home_team": "Gloucester",
-        "away_team": "Parkway",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Levante",
         "away_team": "Sevilla",
         "score": "2 - 6",
@@ -191311,107 +186737,9 @@
         ]
     },
     {
-        "home_team": "Sudbury",
-        "away_team": "Bognor Regis",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Needham",
-        "away_team": "Police",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Grantham Town",
-        "away_team": "St. Ives Town",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hungerford",
-        "away_team": "Wantage",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Alfreton Town",
-        "away_team": "Sutton C'field",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brackley Town",
-        "away_team": "Nuneaton",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Didcot Town",
         "away_team": "Hitchin",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Coalville",
-        "away_team": "Buxton",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Blyth Spartans",
-        "away_team": "Nantwich Town",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bamber Bridge",
-        "away_team": "Cleethorpes",
-        "score": "0 - 5",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Warrington",
-        "away_team": "Consett",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Salisbury FC",
-        "away_team": "Weston",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brightlingsea",
-        "away_team": "Egham Town",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Supermarine",
-        "away_team": "Chippenham",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Sholing FC",
-        "away_team": "Slough",
-        "score": "0 - 3",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -191981,20 +187309,6 @@
             "46’'",
             "89’'"
         ]
-    },
-    {
-        "home_team": "Lewes FC",
-        "away_team": "Kings Langley",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Truro City",
-        "away_team": "Hereford",
-        "score": "3 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Leganés",
@@ -196756,13 +192070,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Nacional",
-        "away_team": "El Tanque Sisley",
-        "score": "0* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Botswana",
         "away_team": "Namibia",
         "score": "1 - 0",
@@ -199757,27 +195064,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Hendon",
-        "away_team": "Lancing FC",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "St Albans City",
-        "away_team": "Corinthian",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wantage",
-        "away_team": "Hungerford",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Everton",
         "away_team": "Southampton",
         "score": "1 - 1",
@@ -202086,275 +197372,9 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Peterborough",
-        "away_team": "Chorley",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Corinthian",
-        "away_team": "St Albans City",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bath City",
-        "away_team": "Lewes FC",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dunston",
-        "away_team": "Chester",
-        "score": "4 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Concord Rang.",
-        "away_team": "Beaconsfield",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "United of Man",
-        "away_team": "Witton",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Curzon Ashton",
-        "away_team": "Southport",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Altrincham",
-        "away_team": "Bradford PA",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "St. Neots",
-        "away_team": "Coalville",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Woking",
-        "away_team": "Kempston",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "King's Lynn",
-        "away_team": "Ashton Utd",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Leatherhead",
-        "away_team": "Hanwell",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hungerford",
-        "away_team": "Wealdstone",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Moneyfields",
-        "away_team": "Worthing",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Cleethorpes",
-        "away_team": "Guiseley",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stockport",
-        "away_team": "Corby Town",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Winchester",
-        "away_team": "Cirencester",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Horsham",
-        "away_team": "Poole",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gloucester",
-        "away_team": "Dorking Wand.",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "York City",
-        "away_team": "St. Ives Town",
-        "score": "3 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stourbridge",
-        "away_team": "Kidderminster",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brackley Town",
-        "away_team": "Marine",
-        "score": "2 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eastbourne Bor",
-        "away_team": "Dulwich Hamlet",
-        "score": "4 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "H&R Borough",
-        "away_team": "Hornchurch",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Haringey",
-        "away_team": "Sudbury",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Warrington",
-        "away_team": "Telford United",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kettering Town",
-        "away_team": "Hednesford",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Mickleover",
-        "away_team": "Alfreton Town",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Weston",
-        "away_team": "Coggeshall",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Billericay",
-        "away_team": "Whitehawk",
-        "score": "9 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hereford",
-        "away_team": "Welling United",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gainsborough",
-        "away_team": "Blyth Spartans",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hitchin",
-        "away_team": "Hastings Utd",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Oxford City",
-        "away_team": "Dartford",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hemel Hempst",
-        "away_team": "Ramsgate",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Slough",
-        "away_team": "Bristol Manor",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Brightlingsea",
-        "away_team": "Torquay",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Workington",
         "away_team": "Kidsgrove",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Tiverton Town",
-        "away_team": "Police",
-        "score": "3 - 3",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -204694,13 +199714,6 @@
         ]
     },
     {
-        "home_team": "Lancing FC",
-        "away_team": "Hendon",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Valladolid",
         "away_team": "Huesca",
         "score": "1 - 0",
@@ -206782,51 +201795,9 @@
         ]
     },
     {
-        "home_team": "Dorking Wand.",
-        "away_team": "Gloucester",
-        "score": "0 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Coalville",
-        "away_team": "St. Neots",
-        "score": "3 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Poole",
-        "away_team": "Horsham",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Hanwell",
         "away_team": "Leatherhead",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Police",
-        "away_team": "Tiverton Town",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Bristol Manor",
-        "away_team": "Slough",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guiseley",
-        "away_team": "Cleethorpes",
-        "score": "2 - 1",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -206997,27 +201968,6 @@
             "50’'",
             "58’'"
         ]
-    },
-    {
-        "home_team": "Chippenham",
-        "away_team": "Hendon",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Kidsgrove",
-        "away_team": "Workington",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Taunton Town",
-        "away_team": "St Albans City",
-        "score": "5 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Energie Cottbus",
@@ -207284,13 +202234,6 @@
         "away_goals_minutes": [
             "47’'"
         ]
-    },
-    {
-        "home_team": "Ghana",
-        "away_team": "Sierra Leone",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Cuba",
@@ -209029,13 +203972,6 @@
         "away_goals_minutes": [
             "12’'"
         ]
-    },
-    {
-        "home_team": "Sierra Leone",
-        "away_team": "Ghana",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Romania",
@@ -212328,226 +207264,9 @@
         ]
     },
     {
-        "home_team": "Dunston",
-        "away_team": "Gateshead",
-        "score": "0 - 4",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Gloucester",
-        "away_team": "Bromley",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chippenham",
-        "away_team": "Maidenhead United",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Police",
-        "away_team": "Havant & Waterlooville",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Witton",
-        "away_team": "Solihull Moors",
-        "score": "0 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hitchin",
-        "away_team": "Leatherhead",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hemel Hempst",
-        "away_team": "Oxford City",
-        "score": "1 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eastbourne Bor",
-        "away_team": "Slough",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Warrington",
-        "away_team": "FC Halifax Town",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Wealdstone",
-        "away_team": "Sutton United",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Stockport",
-        "away_team": "Altrincham",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Aldershot Town",
-        "away_team": "Kettering Town",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Blyth Spartans",
-        "away_team": "York City",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Guiseley",
-        "away_team": "Stourbridge",
-        "score": "3 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Concord Rang.",
-        "away_team": "Dover Athletic",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Southport",
-        "away_team": "Ashton Utd",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Maidstone United",
-        "away_team": "Leyton Orient",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Ebbsfleet United",
-        "away_team": "Worthing",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Weston",
-        "away_team": "Bath City",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Chorley",
-        "away_team": "Barrow",
-        "score": "3 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Woking",
-        "away_team": "Welling United",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Torquay",
-        "away_team": "Winchester",
-        "score": "4 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Boreham Wood",
-        "away_team": "Dagenham & Redbridge",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Harrogate",
         "away_team": "Wrexham",
         "score": "0 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Alfreton Town",
-        "away_team": "St. Neots",
-        "score": "4 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Barnet",
-        "away_team": "Braintree Town",
-        "score": "4 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Haringey",
-        "away_team": "Poole",
-        "score": "2 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Billericay",
-        "away_team": "Taunton Town",
-        "score": "2 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Eastleigh",
-        "away_team": "H&R Borough",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Marine",
-        "away_team": "Salford City",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Fylde",
-        "away_team": "Chesterfield",
-        "score": "1 - 3",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Hartlepool United",
-        "away_team": "Kidsgrove",
-        "score": "1 - 0",
         "home_goals_minutes": [],
         "away_goals_minutes": []
     },
@@ -214515,13 +209234,6 @@
         "away_goals_minutes": [
             "40’'"
         ]
-    },
-    {
-        "home_team": "Defensor Sporting",
-        "away_team": "El Tanque Sisley",
-        "score": "0* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Nacional",
@@ -218048,41 +212760,6 @@
         ]
     },
     {
-        "home_team": "Wrexham",
-        "away_team": "Harrogate",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "FC Halifax Town",
-        "away_team": "Warrington",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Oxford City",
-        "away_team": "Hemel Hempst",
-        "score": "5 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Maidenhead United",
-        "away_team": "Chippenham",
-        "score": "1 - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Dagenham & Redbridge",
-        "away_team": "Boreham Wood",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Delhi Dynamos",
         "away_team": "Chennaiyin",
         "score": "0 - 0",
@@ -218342,20 +213019,6 @@
             "64’'",
             "83’'"
         ]
-    },
-    {
-        "home_team": "Leatherhead",
-        "away_team": "Hitchin",
-        "score": "1 - 2",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Taunton Town",
-        "away_team": "Billericay",
-        "score": "0 - 1",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Rayo Vallecano",
@@ -230495,13 +225158,6 @@
             "5’'",
             "73’'"
         ]
-    },
-    {
-        "home_team": "River Plate",
-        "away_team": "El Tanque Sisley",
-        "score": "0* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Progreso",
@@ -243053,13 +237709,6 @@
         "away_goals_minutes": [
             "69’'"
         ]
-    },
-    {
-        "home_team": "Kenya",
-        "away_team": "Sierra Leone",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Ethiopia",
@@ -261600,13 +256249,6 @@
             "12’'",
             "56’'"
         ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Júbilo Iwata",
-        "away_team": "Tokyo Verdy",
-        "score": "2 - 0",
-        "home_goals_minutes": [],
         "away_goals_minutes": []
     },
     {

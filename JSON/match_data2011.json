@@ -7125,16 +7125,6 @@
         ]
     },
     {
-        "home_team": "Shakhtar Donetsk",
-        "away_team": "Roma",
-        "score": "3 - 0",
-        "home_goals_minutes": [
-            "18’'",
-            "58’'"
-        ],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Barcelona",
         "away_team": "Arsenal",
         "score": "3 - 1",
@@ -18980,17 +18970,6 @@
         ]
     },
     {
-        "home_team": "Partizan",
-        "away_team": "FK Shkëndija",
-        "score": "4 - 0",
-        "home_goals_minutes": [
-            "48’'",
-            "74’'",
-            "76’'"
-        ],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Rosenborg",
         "away_team": "Breiðablik UBK",
         "score": "5 - 0",
@@ -20387,18 +20366,6 @@
         ]
     },
     {
-        "home_team": "Syria",
-        "away_team": "Tajikistan",
-        "score": "0 - 3*",
-        "home_goals_minutes": [
-            "45+1’'",
-            "77’'"
-        ],
-        "away_goals_minutes": [
-            "47’'"
-        ]
-    },
-    {
         "home_team": "Iraq",
         "away_team": "Yemen",
         "score": "2 - 0",
@@ -20457,16 +20424,6 @@
             "62’'",
             "67’'",
             "86’'"
-        ],
-        "away_goals_minutes": []
-    },
-    {
-        "home_team": "Oman",
-        "away_team": "Myanmar",
-        "score": "3* - 0",
-        "home_goals_minutes": [
-            "21’'",
-            "78’'"
         ],
         "away_goals_minutes": []
     },
@@ -21193,18 +21150,6 @@
         ],
         "away_goals_minutes": [
             "53’'"
-        ]
-    },
-    {
-        "home_team": "Tajikistan",
-        "away_team": "Syria",
-        "score": "3* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": [
-            "6’'",
-            "35’'",
-            "53’'",
-            "87’'"
         ]
     },
     {
@@ -23593,13 +23538,6 @@
         ]
     },
     {
-        "home_team": "Celtic",
-        "away_team": "Sion",
-        "score": "3* - 0",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Ried",
         "away_team": "PSV Eindhoven",
         "score": "0 - 0",
@@ -24485,19 +24423,6 @@
         ],
         "away_goals_minutes": [
             "61’'"
-        ]
-    },
-    {
-        "home_team": "Sion",
-        "away_team": "Celtic",
-        "score": "0 - 3*",
-        "home_goals_minutes": [
-            "3’'",
-            "63’'",
-            "82’'"
-        ],
-        "away_goals_minutes": [
-            "78’'"
         ]
     },
     {
@@ -36799,13 +36724,6 @@
         "away_goals_minutes": []
     },
     {
-        "home_team": "Mauritius",
-        "away_team": "Liberia",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
-    },
-    {
         "home_team": "Dominican Republic",
         "away_team": "Cayman Islands",
         "score": "4 - 0",
@@ -37264,13 +37182,6 @@
         "away_goals_minutes": [
             "72’'"
         ]
-    },
-    {
-        "home_team": "Liberia",
-        "away_team": "Mauritius",
-        "score": "-- - --*",
-        "home_goals_minutes": [],
-        "away_goals_minutes": []
     },
     {
         "home_team": "Namibia",
