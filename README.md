@@ -105,4 +105,4 @@ If any goal minute in a match is missing, the score is still counted and the mat
 
 ## Generated files
 
-The scripts create `plots/`. That directory is listed in `.gitignore`.
+The scripts create `plots/`. 
