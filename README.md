@@ -1,215 +1,108 @@
-# footballstats
-=======
 # Football Match Statistics Analyzer
 
-This project consists of two Python scripts designed to analyze football match data from JSON files and generate insightful statistics and visualizations. The scripts calculate various metrics related to goal distribution, match scores, and probabilities, providing a comprehensive overview of football match patterns.
+Python scripts that read football match JSON, aggregate goal-minute statistics, and write charts.
 
-## Scripts Overview
+`main.py` and `stats_html.py` both use the calculations in `stats_core.py`. Run the scripts from the project root so the relative paths `JSON/` and `plots/` resolve.
 
-This project includes two main scripts:
+## Scripts
 
-*   **`main.py`**: Analyzes football match data and generates static plots (PNG format) using `matplotlib`. It also prints statistical summaries to the console.
-*   **`stats_html.py`**:  Similar to `main.py`, but utilizes `plotly` to create interactive plots (HTML format).  Like `main.py`, it also outputs statistical summaries to the console.
+* **`stats_core.py`** loads the match files and computes the statistics. It parses a goal minute into `GoalTime`, normalizes the score, sorts the goals of a match, and keeps the totals in `AggregatedStats` and `YearlyStats`.
+* **`stats_html.py`** writes an interactive Plotly dashboard to `plots/report.html` and one HTML file per chart. The half-by-half charts can switch between goal counts and percentages in the browser. `--offline` embeds Plotly so the pages open without a network.
+* **`main.py`** prints the same text summary and writes static matplotlib PNGs into `plots/`. It has no command-line options.
 
-Both scripts perform the same statistical analysis but differ in their plotting libraries and output format. `main.py` is suitable for generating static images, while `stats_html.py` is ideal for creating interactive visualizations that can be easily explored in a web browser.
+## Statistics
 
-## Features
+* **Minutes.** The first half is `1–45` plus stoppage `45+1…45+N`. The second half is `46–90` plus `90+1…90+N`. A minute of 91 or later without `+` (`93`, `105`, `118`) and extra-time stoppage (`105+1`, `120+2`) count as extra time.
+* **Order.** Goals in a match are sorted by period, base minute, then added minute, so `45+3` stays before `47`. The gap between the first and second goal is zero or positive.
+* **Scores.** A string such as `0 - 3*` becomes `0 - 3`. The final score is counted for every loaded match.
+* **Distributions.** Stoppage time is counted apart from the regular minute. On the HTML charts, the hover text for minutes 45 and 90 says those bars include stoppage time that the source recorded as 45 or 90. The dashboard explains the spikes at the end of each half.
+* **Intervals and probabilities.** Gap between the first and second goal for the whole match, and again when both of those goals are in the first half. Share of matches that reach a second, third, and fourth goal after the first. Share of matches that were 0-0 at minute 70 and scored afterwards.
+* **Seasons.** The four-digit year in the filename is the season. For each season the scripts keep the number of matches, the share that has goal minutes, and the average goals per match that has minutes. That season chart is only in the HTML dashboard.
 
-Both scripts provide the following functionalities:
+The charts are built from these aggregated counts. `plots/report.html` is about 100 KB, and each standalone chart file is about 12–24 KB.
 
-*   **Data Parsing**: Reads football match data from JSON files, supporting various JSON structures (list of matches, dictionary with a 'matches' key, or a single match dictionary).
-*   **Goal Time Analysis**:
-    *   Calculates and visualizes the distribution of goals scored in the first and second halves of matches.
-    *   Identifies the most frequent goal minutes.
-    *   Analyzes the time difference between the first and second goals in matches.
-*   **Match Score Analysis**:
-    *   Counts the occurrences of different match scores.
-    *   Identifies and visualizes the most frequent match scores.
-*   **Goal Probability Analysis**:
-    *   Calculates the probability of scoring subsequent goals (2nd, 3rd, 4th) after the first goal in a match.
-    *   Determines the probability of a goal being scored after the 70th minute in matches that are 0-0 at the 70th minute.
-*   **Data Visualization**:
-    *   Generates histograms for goal minute distributions and goal time differences.
-    *   Creates bar charts for goal scoring probabilities.
-    *   Produces horizontal bar charts for visualizing the top most frequent match scores.
-*   **Output Formats**:
-    *   **`main.py`**: Saves plots as static PNG image files in the `plots` folder and prints text-based statistical results to the console.
-    *   **`stats_html.py`**: Saves interactive plots as HTML files in the `plots` folder and prints text-based statistical results to the console.
+## Installation
 
-## Getting Started
+Python 3.11 or newer. The virtualenv in this checkout uses Python 3.14, Plotly 7.1.0, and matplotlib 3.11.2.
 
-### Prerequisites
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
 
-*   **Python 3.x**:  Ensure you have Python 3 or a later version installed on your system.
-*   **Python Libraries**: You need to install the following Python libraries. You can install them using pip:
+`requirements.txt` lists Plotly and matplotlib.
 
-    ```bash
-    pip install matplotlib plotly collections logging
-    ```
+## Interactive dashboard
 
-    Specifically:
-    *   `matplotlib`: For static plotting (`main.py`).
-    *   `plotly`: For interactive plotting (`stats_html.py`).
-    *   `collections`:  Built-in Python library (specifically `Counter`).
-    *   `logging`: Built-in Python library for logging.
+```bash
+python stats_html.py
+```
 
-### Installation
+Open `plots/report.html`.
 
-1.  **Clone the repository** (if you are accessing this code from GitHub):
-    ```bash
-    git clone [repository-url]
-    cd [repository-directory]
-    ```
-2.  **Prepare your JSON data**: Place your JSON files containing football match data into a folder named `JSON` in the same directory as the scripts. If you prefer a different folder name, you can configure this in the script (see Configuration section).
+```text
+--json-folder FOLDER   Match JSON directory (default: JSON)
+--out FOLDER           Output directory (default: plots)
+--offline              Embed plotly.js for offline viewing
+--top-n N              How many frequent scores to show (default: 7)
+```
 
-### JSON Data Format
+The script also writes one HTML file per chart into the output folder. `--separate-files` is accepted and does not turn those files off.
 
-The scripts are designed to handle JSON files containing football match data.  The expected format for each match within the JSON file is a dictionary that should include the following keys:
+```bash
+python stats_html.py --offline --out my_report
+python stats_html.py --top-n 10
+```
 
-*   **`home_goals_minutes`**: A list of strings representing the minutes when the home team scored goals.  Minutes can be in the format like `"15"`, `"45+2"`, `"78'"` or `"90+5’"`.
-*   **`away_goals_minutes`**: A list of strings representing the minutes when the away team scored goals, in the same format as `home_goals_minutes`.
-*   **`score`**: A string representing the final score of the match, e.g., `"2-1"`, `"0-0"`, `"3-2"`.
+HTML files:
 
-The JSON file itself can be structured in a few ways:
+* `report.html`
+* `first_half_goals_minutes.html`
+* `second_half_goals_minutes.html`
+* `goal_difference.html`
+* `first_half_goal_difference.html`
+* `goal_probabilities.html`
+* `top_scores.html`
+* `yearly_stats.html`
 
-*   **List of Matches**: A JSON array where each element is a match dictionary as described above.
-    ```json
-    [
-        {
-            "home_goals_minutes": ["25", "67"],
-            "away_goals_minutes": ["40", "88", "90+3"],
-            "score": "2-3"
-        },
-        {
-            "home_goals_minutes": ["12"],
-            "away_goals_minutes": [],
-            "score": "1-0"
-        },
-        ...
-    ]
-    ```
-*   **Dictionary with 'matches' Key**: A JSON object with a key named `"matches"` whose value is a list of match dictionaries.
-    ```json
-    {
-        "matches": [
-            {
-                "home_goals_minutes": ["30"],
-                "away_goals_minutes": ["55", "72"],
-                "score": "1-2"
-            },
-            ...
-        ]
-    }
-    ```
-*   **Single Match Dictionary**: A JSON object representing a single match (useful for testing or processing one file at a time).
-    ```json
-    {
-        "home_goals_minutes": ["10", "80"],
-        "away_goals_minutes": ["45"],
-        "score": "2-1"
-    }
-    ```
-*   **List of Lists of Matches**: A JSON array where each element is a list of match dictionaries (for more complex file structures). The script will flatten this structure automatically.
+## Static charts
 
-The scripts are designed to be flexible and will attempt to parse these different JSON structures.
+```bash
+python main.py
+```
 
-## Usage
+`main.py` always reads `JSON/` and writes `plots/`. The console summary uses the top 7 scores.
 
-1.  **Place your JSON files** in the `JSON` folder (or the folder you configured).
-2.  **Run the scripts**:
+PNG files:
 
-    *   For static plots (PNG, using `matplotlib`):
-        ```bash
-        python main.py
-        ```
-    *   For interactive plots (HTML, using `plotly`):
-        ```bash
-        python stats_html.py
-        ```
+* `first_half_goals_minutes.png`
+* `second_half_goals_minutes.png`
+* `goal_difference.png`
+* `first_half_goal_difference.png`
+* `goal_probabilities.png`
+* `top_scores.png`
 
-3.  **Check the output**:
-    *   Plots will be saved in the `plots` folder created in the same directory as the scripts.
-    *   Statistical summaries, including probabilities and top scores, will be printed to your console.
+## JSON data
 
-## Configuration
+Match files live in `JSON/` and are named `match_data2000.json` through `match_data2026.json`. Any other `.json` file in that folder is loaded too. A filename without a four-digit year is grouped as `unknown`.
 
-You can configure various parameters at the beginning of both `main.py` and `stats_html.py` scripts to customize the analysis and output. Here are the key configuration variables:
+A file may be a list of match objects, a list of lists of match objects (one level is flattened), an object with a `matches` list, or a single match object.
 
-*   **`LOG_LEVEL`**: Sets the logging level (e.g., `logging.INFO`, `logging.WARNING`, `logging.ERROR`). Default is `logging.INFO`.
-*   **`LOG_FORMAT`**: Defines the format of log messages.
-*   **`PLOT_STYLE`**: Sets the `matplotlib` plot style. Default is `'ggplot'`.
-*   **`FONT_SIZE`, `TITLE_FONT_SIZE`, `LABEL_FONT_SIZE`, `XTICK_FONT_SIZE`, `YTICK_FONT_SIZE`**:  Control font sizes for plot elements.
-*   **`COLOR_PALETTE`**:  A list of colors used for plots.
-*   **`DEFAULT_JSON_FOLDER`**:  The name of the folder where the script looks for JSON files. Default is `'JSON'`.
-*   **`DEFAULT_PLOTS_FOLDER`**: The name of the folder where plots will be saved. Default is `'plots'`.
-*   **`TOP_SCORES_COUNT`**:  Number of top scores to display in the top scores chart. Default is `7`.
-*   **`TOP_GOAL_MINUTES_COUNT`**:  (Currently not used in the provided code, but might be intended for future features).
-*   **`MINUTE_THRESHOLD_FOR_LATE_GOAL`**: The minute threshold to define a "late goal". Default is `70`.
-*   **`FIRST_HALF_MAX_MINUTE`**:  The maximum minute considered to be in the first half. Default is `45`.
-*   **Bins and Ticks for Histograms (`GOAL_BINS_FIRST_HALF`, `GOAL_BINS_SECOND_HALF`, `GOAL_DIFF_BINS`, `FIRST_HALF_GOAL_DIFF_BINS`, `HISTOGRAM_X_TICKS_FIRST_HALF`, `HISTOGRAM_X_TICKS_SECOND_HALF`, `HISTOGRAM_X_TICKS_GOAL_DIFF`, `HISTOGRAM_X_TICKS_FIRST_HALF_GOAL_DIFF`)**: These variables define the bins and x-axis ticks for the histograms generated by the scripts. You can adjust these to customize the granularity and appearance of the histograms.
+```json
+{
+  "home_team": "Brentford",
+  "away_team": "Arsenal",
+  "score": "1 - 3",
+  "home_goals_minutes": ["13'"],
+  "away_goals_minutes": ["29'", "50'", "53'"]
+}
+```
 
-To modify these settings, simply open the script (`main.py` or `stats_html.py`) in a text editor and change the values of the configuration variables at the beginning of the file.
+The scripts use `score`, `home_goals_minutes`, and `away_goals_minutes`. Team names stay in the files and are not part of the aggregates. A minute field may be a list or one string. Accepted forms are `15`, `45+2`, `78'`, and `90+5'`. In these files a minute usually ends with `’'` (a curly apostrophe followed by a straight one). The parser strips both. `NA` and `N/A` mean the minute is missing.
 
-## Output
+If any goal minute in a match is missing, the score is still counted and the match is left out of the minute charts. An empty minute list means no goals. A non-zero score with empty minute lists still enters the minute statistics as a match with no timed goals.
 
-After running the scripts, you will find:
+## Generated files
 
-*   **Plots Folder (`plots`)**: This folder will contain the generated plots.
-    *   For `main.py`: PNG image files (e.g., `first_half_goals_minutes.png`, `top_scores.png`, etc.).
-    *   For `stats_html.py`: HTML files (e.g., `first_half_goals_minutes.html`, `top_scores.html`, etc.). Open these HTML files in a web browser to view the interactive plots.
-*   **Console Output**: The scripts will print statistical results to the console, including:
-    *   Probabilities of subsequent goals.
-    *   Top most frequent match scores with their counts.
-    *   Probability of a late goal in 0-0 matches.
-    *   Overall probabilities of goals before and after the `MINUTE_THRESHOLD_FOR_LATE_GOAL` minute.
-    *   Information about the number of matches processed.
-
-## Contributing
-
-Contributions to this project are welcome! If you have suggestions for improvements, new features, or bug fixes, please feel free to:
-
-1.  **Fork the repository.**
-2.  **Create a new branch** for your feature or fix.
-3.  **Make your changes** and commit them.
-4.  **Submit a pull request** to the main repository.
-
-## License
-
-[Specify License here, e.g., MIT License]
-
-This project is open-source and available under the [License Name] License.
-
----
-
-**Example Output (Console):**
-2023-10-27 10:30:00 - INFO - Processed matches for statistics: 150
-Вероятность, что после первого гола будет забит:
-
-Второй гол: 65.22%
-
-Третий гол: 42.39%
-
-Четвертый гол: 25.00%
-
-Топ-7 самых часто встречающихся счетов матчей:
-
-Счет '1-0': 25 матчей
-
-Счет '1-1': 20 матчей
-
-Счет '2-1': 18 матчей
-
-Счет '0-0': 15 матчей
-
-Счет '2-0': 12 матчей
-
-Счет '0-1': 10 матчей
-
-Счет '3-1': 8 матчей
-
-Вероятность гола после 70-й минуты в матчах, где счет был 0-0 к 70-й минуте: 35.71%
-
-Общая вероятность гола до 70-й минуты (среди всех матчей с голами): 72.50%
-Общая вероятность гола после 70-й минуты (среди всех матчей с голами): 27.50%
-
-This README provides a comprehensive guide to understanding and using the Football Match Statistics Analyzer scripts.  Enjoy exploring your football data!
+The scripts create `plots/`. That directory is listed in `.gitignore`.

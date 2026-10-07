@@ -1,0 +1,4 @@
+# Direct dependencies. Their own libraries (numpy, pillow, narwhals, …)
+# are installed with these two. matplotlib 3.11 requires Python 3.11+.
+plotly>=7.1.0
+matplotlib>=3.11.2
